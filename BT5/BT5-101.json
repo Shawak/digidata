@@ -1,0 +1,12 @@
+{
+  "number": "BT5-101",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "You Can't Actually Fly?",
+  "play_cost": "3",
+  "effect": "[Main] Suspend 1 of your opponent's Digimon. Then, if your opponent has a level 7 Digimon in play, trash the top card of their security stack.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

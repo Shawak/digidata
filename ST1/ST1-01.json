@@ -1,0 +1,13 @@
+{
+  "number": "ST1-01",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Koromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While this Digimon has 4 or more digivolution cards, it gets +1000 DP."
+}

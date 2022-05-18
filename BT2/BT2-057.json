@@ -1,0 +1,23 @@
+{
+  "number": "BT2-057",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Greymon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While this Digimon has ＜Reboot＞， it gains  ＜Jamming＞. (This Digimon can't be deleted in battles against Security Digimon.)"
+}

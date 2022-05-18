@@ -1,0 +1,23 @@
+{
+  "number": "ST5-04",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "ToyAgumon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Puppet",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[End of Opponent's Turn] If your opponent didn't attack with a Digimon this turn, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

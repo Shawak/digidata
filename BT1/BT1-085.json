@@ -1,0 +1,13 @@
+{
+  "number": "BT1-085",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Tai Kamiya",
+  "play_cost": "4",
+  "effect": "[Start of Your Turn] If you have 2 or less memory， set your memory to 3.[Your Turn] All of your red Digimon with 4 or more digivolution cards gain ＜Security Attack +1＞ (This Digimon checks 1 additional security card).",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

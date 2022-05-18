@@ -1,0 +1,13 @@
+{
+  "number": "BT4-006",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Xiaomon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While there are 10 or more cards in your trash, this Digimon gains ＜Retaliation＞. (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)"
+}

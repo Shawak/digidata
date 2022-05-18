@@ -1,0 +1,12 @@
+{
+  "number": "BT8-094",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Digimon Emperor",
+  "play_cost": "3",
+  "effect": "[All Turns] When one of your opponent's level 5 or lower Digimon is deleted, you may suspend this Tamer to",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

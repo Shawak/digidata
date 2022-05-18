@@ -1,0 +1,24 @@
+{
+  "number": "BT3-088",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "LadyDevimon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] Trigger ＜Draw 2＞. (Draw 2 cards from your deck.) Then, trash 2 cards in your hand.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you use an Option card, delete 1 of your opponent's level 3 Digimon."
+}

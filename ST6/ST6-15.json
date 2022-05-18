@@ -1,0 +1,12 @@
+{
+  "number": "ST6-15",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Death Claw",
+  "play_cost": "1",
+  "effect": "[Main] You may delete 1 of your Digimon to delete 1 of your opponent's level 4 or lower Digimon.",
+  "security_effect": "[Security] Delete 1 of your opponent's level 4 or lower Digimon."
+}

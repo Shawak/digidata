@@ -1,0 +1,23 @@
+{
+  "number": "BT8-061",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Thundermon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Mutant",
+  "dp": "6000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "The name of this card/Digimon is also treated as [Mamemon]."
+}

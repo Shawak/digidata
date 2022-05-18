@@ -1,0 +1,12 @@
+{
+  "number": "BT8-092",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Yuji Musya",
+  "play_cost": "3",
+  "effect": "[Your Turn] When one of your Digimon with [X-Antibody] in its traits is moved from your breeding area to your battle area, gain 1 memory and",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT4-067",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Sealsdramon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Cyborg/D-Brigade",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[When Attacking] Lose 2 memory."
+}

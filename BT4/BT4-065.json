@@ -1,0 +1,22 @@
+{
+  "number": "BT4-065",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gotsumon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Rock",
+  "dp": "6000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Black"
+    }
+  ]
+}

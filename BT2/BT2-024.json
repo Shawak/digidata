@@ -1,0 +1,22 @@
+{
+  "number": "BT2-024",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Seadramon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Sea Animal",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

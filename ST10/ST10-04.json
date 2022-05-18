@@ -1,0 +1,30 @@
+{
+  "number": "ST10-04",
+  "colors": [
+    "Yellow",
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Gatomon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Yellow"
+    },
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 yellow Digimon card and 1 purple Digimon card among them to your hand. Place the remaining cards at the bottom of your deck in any order.[Your Turn] When this Digimon would digivolve into a card with [Archangel] or [Fallen Angel] in its traits, reduce the memory cost of the digivolution by 2.",
+  "digivolve_effect": "[End of Your Turn] You may DNA digivolve this Digimon and one of your other Digimon in play into a Digimon card in your hand by paying its DNA digivolve cost."
+}

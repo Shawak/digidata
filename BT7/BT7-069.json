@@ -1,0 +1,23 @@
+{
+  "number": "BT7-069",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Eyesmon: Scatter Mode",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dark Dragon",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] ＜Draw 3＞. (Draw 3 cards from your deck.) Then, trash 2 cards in your hand."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "BT1-107",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "Holy Wave",
+  "play_cost": "6",
+  "effect": "[Main] Trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

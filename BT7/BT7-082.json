@@ -1,0 +1,23 @@
+{
+  "number": "BT7-082",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Sistermon Blanc (Awakened)",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Puppet",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "White"
+    }
+  ],
+  "effect": "[On Play] You may place 1 [Sistermon Blanc] from your hand or trash at the bottom of this Digimon's digivolution cards to ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.) [On Deletion] Return 1 card with [Jesmon], [Huckmon], or [Sistermon] in its name other than [Sistermon Blanc (Awakened)] from your trash to your hand."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT1-077",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Okuwamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] When this Digimon deletes an opponent's Digimon in battle and survives， gain 1 memory."
+}

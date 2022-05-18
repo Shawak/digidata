@@ -1,0 +1,22 @@
+{
+  "number": "BT2-064",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "HiAndromon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "12000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Black"
+    }
+  ]
+}

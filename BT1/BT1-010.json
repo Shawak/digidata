@@ -1,0 +1,23 @@
+{
+  "number": "BT1-010",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Reptile",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] Reveal 5 cards from the top of your deck. Add 1 Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

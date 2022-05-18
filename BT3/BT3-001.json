@@ -1,0 +1,13 @@
+{
+  "number": "BT3-001",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Poromon",
+  "form": "In-Training",
+  "type": "Mini Bird",
+  "digivolve_effect": "[When Attacking] Delete 1 of your opponent's Digimon with 1000 DP or less."
+}

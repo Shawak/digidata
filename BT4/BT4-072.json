@@ -1,0 +1,24 @@
+{
+  "number": "BT4-072",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Gogmamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Rock",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Main] ＜Digi-Burst 1＞ (Trash 1 of this Digimon's digivolution cards to activate the effect below.)・1 of your Digimon gets +2000 DP until the end of your opponent's next turn.",
+  "digivolve_effect": "[All Turns] This Digimon gets +1000 DP."
+}

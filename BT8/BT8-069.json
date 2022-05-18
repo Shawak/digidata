@@ -1,0 +1,24 @@
+{
+  "number": "BT8-069",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Ouryumon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Beast Dragon/X-Antibody",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Digivolving] You may place 1 card with [X-Antibody] in its traits from your hand under this Digimon as its bottom digivolution card to delete 1 of your opponent's Digimon with a play cost of 7 or less.[Your Turn][Once Per Turn] When one of your effects places a digivolution card under one of your Digimon, this Digimon gets +2000 DP and can't be deleted by your opponent's effects until the end of your opponent's next turn.",
+  "digivolve_effect": "[End of Attack][Once Per Turn] If this Digimon has [Alphamon] in its name, unsuspend it."
+}

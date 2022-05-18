@@ -1,0 +1,13 @@
+{
+  "number": "BT4-005",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Missimon",
+  "form": "In-Training",
+  "type": "Machine",
+  "digivolve_effect": "[Your Turn] While this Digimon has [D-Brigade] in its type, it gets +1000 DP."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "ST1-12",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Tai Kamiya",
+  "attribute": "Vaccine",
+  "play_cost": "2",
+  "effect": "[Your Turn] All of your Digimon get +1000 DP.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "ST7-04",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Biyomon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Bird",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[Your Turn] This Digimon can't attack players."
+}

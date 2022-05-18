@@ -1,0 +1,23 @@
+{
+  "number": "ST2-11",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MetalGarurumon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Attacking][Once Per Turn] Unsuspend this Digimon."
+}

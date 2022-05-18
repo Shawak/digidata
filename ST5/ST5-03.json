@@ -1,0 +1,23 @@
+{
+  "number": "ST5-03",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Reptile",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

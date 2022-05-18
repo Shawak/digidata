@@ -1,0 +1,12 @@
+{
+  "number": "BT5-094",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Rowdy Rocker",
+  "play_cost": "2",
+  "effect": "[Main] You may place 1 red level 4 or lower Digimon card from your hand under 1 of your Digimon as its bottom digivolution card. If you do, trigger ＜Draw 2＞. (Draw 2 cards from your deck.)",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

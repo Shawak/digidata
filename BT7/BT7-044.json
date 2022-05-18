@@ -1,0 +1,23 @@
+{
+  "number": "BT7-044",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Betamon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Amphibian",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 green level 4 Digimon card or 1 green Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

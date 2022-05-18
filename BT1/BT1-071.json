@@ -1,0 +1,22 @@
+{
+  "number": "BT1-071",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Vegiemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Carnivorous Plant",
+  "dp": "6000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Green"
+    }
+  ]
+}

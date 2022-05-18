@@ -1,0 +1,12 @@
+{
+  "number": "ST4-15",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Needle Spray",
+  "play_cost": "2",
+  "effect": "[Main] Suspend 1 of your opponent's Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect. Then, add this card to your hand."
+}

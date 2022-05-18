@@ -1,0 +1,12 @@
+{
+  "number": "BT2-091",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Volcanic Flare",
+  "play_cost": "3",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with 4000 DP or less.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

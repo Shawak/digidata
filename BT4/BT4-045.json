@@ -1,0 +1,23 @@
+{
+  "number": "BT4-045",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Maycrackmon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[Opponent's Turn] While you have 3 or fewer security cards, all of your Security Digimon get +4000 DP."
+}

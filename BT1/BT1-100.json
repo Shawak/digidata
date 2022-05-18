@@ -1,0 +1,12 @@
+{
+  "number": "BT1-100",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Grace Cross Freezer",
+  "play_cost": "4",
+  "effect": "[Main] Until the end of your opponent's next turn, their Digimon with no digivolution cards can't attack.",
+  "security_effect": "[Security] Your opponent's Digimon with no digivolution cards can't attack for the turn."
+}

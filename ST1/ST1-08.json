@@ -1,0 +1,23 @@
+{
+  "number": "ST1-08",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Garudamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Birdkin",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] 1 of your Digimon gets +3000 DP for the turn."
+}

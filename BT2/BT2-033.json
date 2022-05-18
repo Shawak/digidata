@@ -1,0 +1,23 @@
+{
+  "number": "BT2-033",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] If you have 3 or more yellow Tamers in play, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

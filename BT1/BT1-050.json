@@ -1,0 +1,22 @@
+{
+  "number": "BT1-050",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Liollmon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ]
+}

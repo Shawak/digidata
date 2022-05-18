@@ -1,0 +1,24 @@
+{
+  "number": "BT5-017",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "ZeigGreymon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.)",
+  "digivolve_effect": "[Your Turn] When this Digimon attacks with ＜Blitz＞, it can also attack your opponent's unsuspended Digimon."
+}

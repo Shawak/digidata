@@ -1,0 +1,29 @@
+{
+  "number": "BT5-015",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalGreymon: Alterous Mode",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    },
+    {
+      "level": "5",
+      "cost": "1",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] If a Digimon card with [MetalGreymon] in its name is in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with 4000 DP or less.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Omnimon] or [Greymon] (other than [DoruGreymon], [BurningGreymon], or [DexDoruGreymon]) in its name, it gets +2000 DP."
+}

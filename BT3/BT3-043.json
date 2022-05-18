@@ -1,0 +1,23 @@
+{
+  "number": "BT3-043",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Kentaurosmon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When DigivoLv.ing] Up to 5 of your opponent's Digimon gain ＜Security Attack -2＞ (This Digimon checks 2 fewer security cards) until the end of your opponent's next turn.[On Deletion] 1 of your opponent's Digimon gets -11000 DP for the turn."
+}

@@ -1,0 +1,24 @@
+{
+  "number": "BT8-029",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Frozomon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Machine",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[Your Turn] While your opponent has a Digimon with a digivolution card in play, this Digimon can't attack.",
+  "digivolve_effect": "[All Turns][Once Per Turn] When a digivolution card of an opponent's Digimon is trashed, return 1 of your opponent's level 3 Digimon to its owner's hand."
+}

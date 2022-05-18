@@ -1,0 +1,28 @@
+{
+  "number": "ST10-02",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Salamon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    },
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[End of Your Turn] You may DNA digivolve this Digimon and one of your other Digimon in play into a Digimon card in your hand by paying its DNA digivolve cost."
+}

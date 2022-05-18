@@ -1,0 +1,23 @@
+{
+  "number": "BT7-028",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "KingWhamon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Sea Animal",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Attacking] You may play 1 level 3 Digimon card or 1 [Whamon] from this Digimon's digivolution cards as another Digimon without paying its memory cost. [Your Turn] When you play a Digimon from one of your Digimon's digivolution cards, return 1 of your opponent's level 4 or lower Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon."
+}

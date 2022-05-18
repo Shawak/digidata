@@ -1,0 +1,28 @@
+{
+  "number": "BT6-086",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Eosmon",
+  "form": "Mega",
+  "attribute": "Unknown",
+  "type": "Unknown",
+  "dp": "13000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "White"
+    },
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Digivolving] For each Tamer in play, you may place 1 level 5 or lower [Eosmon] from your trash at the top of this Digimon's digivolution cards in any order. If you place 2 or more cards with this effect, delete 1 of your opponent's Digimon.[Your Turn] For every 3 digivolution cards this Digimon has, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

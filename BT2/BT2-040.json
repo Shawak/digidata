@@ -1,0 +1,23 @@
+{
+  "number": "BT2-040",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Ophanimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Throne/Three Great Angels",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Deletion] Place this card on top of your security stack face down."
+}

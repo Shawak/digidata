@@ -1,0 +1,23 @@
+{
+  "number": "BT7-040",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Rasenmon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Beastkin",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "When digivolving into this card from your hand, the memory cost of the digivolution is equal to the number of cards in your security stack. If you have 0 security cards, the memory cost is 1. [Main][Once Per Turn] ＜Digi-Burst up to 4＞ (Trash up to 4 of this Digimon's digivolution cards to activate the effect below.) ・1 of your opponent's Digimon gets -3000 DP for the turn for each card trashed by this card's effect."
+}

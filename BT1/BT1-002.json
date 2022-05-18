@@ -1,0 +1,13 @@
+{
+  "number": "BT1-002",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Bebydomon",
+  "form": "In-Training",
+  "type": "Baby Dragon",
+  "digivolve_effect": "[Your Turn] While this Digimon has ＜Piercing＞， it gets +2000 DP."
+}

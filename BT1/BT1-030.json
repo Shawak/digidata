@@ -1,0 +1,23 @@
+{
+  "number": "BT1-030",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gomamon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[On Deletion] Gain 1 memory."
+}

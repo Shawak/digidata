@@ -1,0 +1,13 @@
+{
+  "number": "BT1-006",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Cupimon",
+  "form": "In-Training",
+  "type": "Mini Angel",
+  "digivolve_effect": "[When Attacking] If you have 5 or more security cards， trigger ＜Draw 1＞ (Draw 1 card from your deck)."
+}

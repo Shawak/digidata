@@ -1,0 +1,23 @@
+{
+  "number": "BT3-072",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BryweLudramon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Armor/Legend-Arms",
+  "dp": "12000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

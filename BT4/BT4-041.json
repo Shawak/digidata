@@ -1,0 +1,23 @@
+{
+  "number": "BT4-041",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Meicoomon",
+  "form": "Champion",
+  "attribute": "Unknown",
+  "type": "Unknown",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] If you have 3 or fewer security cards, 1 of your opponent's Digimon gets -4000 DP for the turn."
+}

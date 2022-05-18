@@ -1,0 +1,23 @@
+{
+  "number": "ST3-11",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Seraphimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Seraph/Three Great Angels",
+  "dp": "10000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Attacking] 1 of your opponent's Digimon gets -4000 DP for the turn."
+}

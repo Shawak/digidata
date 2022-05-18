@@ -1,0 +1,23 @@
+{
+  "number": "BT3-075",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Craniamon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[All Turns] Your Digimon with ＜Blocker＞ can't be deleted by your opponent's effects."
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT5-054",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Piximon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": "BT8-016",
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MasterTyrannomon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Red"
+    },
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn] All of your Digimon with [Tyrannomon] in their names gain ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)",
+  "digivolve_effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)"
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT6-052",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Entmon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Vegetation",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn][Once Per Turn] When this Digimon deletes an opponent's Digimon in battle and survives, unsuspend it."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "ST2-15",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Kaiser Nail",
+  "play_cost": "4",
+  "effect": "[Main] Choose a Digimon digivolution card placed under 1 of your Digimon and play it as another Digimon without paying its memory cost.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

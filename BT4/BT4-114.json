@@ -1,0 +1,23 @@
+{
+  "number": "BT4-114",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "AncientGarurumon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Ancient Animal/Ten Warriors",
+  "dp": "13000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Attacking][Once Per Turn] You may unsuspend up to 2 of your Digimon with [Garurumon] in their names or [Hybrid] in their forms.[On Deletion] You may play 1 blue level 4 or lower Digimon card with [Hybrid] in its form from your hand without paying its memory cost."
+}

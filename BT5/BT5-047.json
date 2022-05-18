@@ -1,0 +1,23 @@
+{
+  "number": "BT5-047",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Palmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Vegetation",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ],
+  "effect": "[On Deletion] Place 1 [Palmon] from your trash under 1 of your green Digimon at the bottom of its digivolution cards."
+}

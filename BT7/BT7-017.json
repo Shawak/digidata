@@ -1,0 +1,28 @@
+{
+  "number": "BT7-017",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Chaosdramon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Machine",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Red"
+    },
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "Your [Machinedramon] can digivolve into this card in your hand for a memory cost of 1, ignoring this card's digivolution requirements. [When Digivolving] You may place 1 red or black level 5 card with [Cyborg] in its traits from your hand or trash on top of this card's digivolution cards to delete 1 of your opponent's Digimon with 6000 DP or less for each level 5 card with [Cyborg] in its traits in this Digimon's digivolution cards."
+}

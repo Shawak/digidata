@@ -1,0 +1,16 @@
+{
+  "number": "BT7-080",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Neemon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Beast",
+  "dp": "2000",
+  "play_cost": "3",
+  "effect": "[On Play] You may play 1 Tamer card with an inherited effect from your hand without paying its memory cost. [All Turns][Once Per Turn] When one of your Digimon with a Tamer card in its digivolution cards is deleted, you may play 1 Tamer card from your trash without paying its memory cost."
+}

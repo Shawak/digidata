@@ -1,0 +1,23 @@
+{
+  "number": "BT7-068",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Lopmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Beast",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you play a Tamer, gain 1 memory."
+}

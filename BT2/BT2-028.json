@@ -1,0 +1,24 @@
+{
+  "number": "BT2-028",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "AeroVeedramon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Holy Dragon",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] If you have a blue Tamer in play, unsuspend 1 of your blue Digimon.",
+  "digivolve_effect": "[Your Turn] When this Digimon becomes unsuspended during your main phase, it gains ＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon) for the turn."
+}

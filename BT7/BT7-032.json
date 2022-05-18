@@ -1,0 +1,23 @@
+{
+  "number": "BT7-032",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Pulsemon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] If you have 3 security cards, gain 2 memory."
+}

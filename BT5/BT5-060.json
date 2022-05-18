@@ -1,0 +1,23 @@
+{
+  "number": "BT5-060",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Monitamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "CRT",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Look at the top card of your deck.[On Deletion] Reveal 3 cards from the top of your deck. You may play 1 [Monitamon] among them without paying its memory cost. Place the remaining cards at the bottom of your deck in any order."
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT4-082",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Dobermon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dark Animal",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ]
+}

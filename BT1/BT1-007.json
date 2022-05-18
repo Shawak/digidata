@@ -1,0 +1,13 @@
+{
+  "number": "BT1-007",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Tanemon",
+  "form": "In-Training",
+  "type": "Bulb",
+  "digivolve_effect": "[When Attacking] If you've digivolved this turn， this Digimon gets +1000 DP for the turn."
+}

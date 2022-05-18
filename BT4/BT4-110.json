@@ -1,0 +1,12 @@
+{
+  "number": "BT4-110",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Dark Roar",
+  "play_cost": "3",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with a play cost of 3 or less. For each of your Digimon with [D-Brigade] in its type, add +1 to the maximum play cost of the Digimon you can choose with this effect.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT1-046",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Kudamon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Attacking] If you have 4 or less cards in your hand， trigger ＜Draw 1＞ (Draw 1 card from your deck)."
+}

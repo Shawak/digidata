@@ -1,0 +1,11 @@
+{
+  "number": "BT2-092",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Radiation Blade",
+  "play_cost": "3",
+  "effect": "[Main] Up to 2 of your Digimon gain ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT8-019",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Zhuqiaomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Holy Bird/Four Sovereigns",
+  "dp": "13000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] Your opponent chooses 1 of their Digimon. Delete all Digimon other than this Digimon and your opponent's chosen Digimon. For each Digimon deleted by this effect, gain 1 memory.[Your Turn] When an opponent's Digimon is deleted, this Digimon gains ＜Security Attack +1＞ for the turn for each of your opponent's Digimon deleted."
+}

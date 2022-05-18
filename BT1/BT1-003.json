@@ -1,0 +1,13 @@
+{
+  "number": "BT1-003",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Upamon",
+  "form": "In-Training",
+  "type": "Amphibian",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If your opponent has a Digimon with no digivolution cards in play, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

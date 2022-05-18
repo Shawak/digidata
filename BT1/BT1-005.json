@@ -1,0 +1,13 @@
+{
+  "number": "BT1-005",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Kyaromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While you have 6 or more security cards， this Digimon gets +2000 DP."
+}

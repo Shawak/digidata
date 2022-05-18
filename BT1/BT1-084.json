@@ -1,0 +1,28 @@
+{
+  "number": "BT1-084",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Omnimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "15000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Red"
+    },
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When DigivoLv.ing] Choose 1 of your opponent's Digimon. Delete all of your opponent's Digimon that share a name with it.[When Attacking] You can unsuspend this Digimon by returning 1 of this Digimon's level 6 digivolution cards to your hand."
+}

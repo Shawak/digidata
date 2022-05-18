@@ -1,0 +1,13 @@
+{
+  "number": "BT8-001",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Gurimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If this Digimon has 6000 DP or more, ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-071",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Guilmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Reptile",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] If this card was deleted by an effect, gain 1 memory."
+}

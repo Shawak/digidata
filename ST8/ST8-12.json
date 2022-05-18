@@ -1,0 +1,12 @@
+{
+  "number": "ST8-12",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "V-Wing Blade",
+  "play_cost": "6",
+  "effect": "[Main] Return 1 of your opponent's level 6 or lower Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

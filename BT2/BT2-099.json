@@ -1,0 +1,11 @@
+{
+  "number": "BT2-099",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Glorious Burst",
+  "play_cost": "9",
+  "effect": "Reduce the memory cost of this card in your hand by 1 for each yellow Tamer you have in play.[Main] 1 of your opponent's Digimon gets -12000 DP for the turn."
+}

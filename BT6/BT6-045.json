@@ -1,0 +1,23 @@
+{
+  "number": "BT6-045",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Bakomon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mutant",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] If your opponent has 2 or more suspended Digimon, gain 1 memory."
+}

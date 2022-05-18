@@ -1,0 +1,29 @@
+{
+  "number": "BT8-044",
+  "colors": [
+    "Yellow",
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Azulongmon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Holy Dragon/Four Great Dragons/Four Sovereigns",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Attacking] You may trash the top card of your security stack to gain 2 memory.[Your Turn][Once Per Turn] When one of your other Digimon digivolves, you may unsuspend it."
+}

@@ -1,0 +1,11 @@
+{
+  "number": "BT1-092",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Nuclear Laser",
+  "play_cost": "3",
+  "effect": "[Main] Trigger ＜Draw 2＞ (Draw 2 cards from your deck). Then 1 of your Digimon gets +2000 DP for the turn."
+}

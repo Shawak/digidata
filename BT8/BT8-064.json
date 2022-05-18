@@ -1,0 +1,28 @@
+{
+  "number": "BT8-064",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Greymon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    },
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[Opponent's Turn] While you have a red Digimon in play, this Digimon gains ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

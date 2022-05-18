@@ -1,0 +1,22 @@
+{
+  "number": "BT5-013",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Triceramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Ceratopsian",
+  "dp": "8000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT4-024",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Tobiumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Sea Animal",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Blue"
+    }
+  ]
+}

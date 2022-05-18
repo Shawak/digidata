@@ -1,0 +1,22 @@
+{
+  "number": "ST4-05",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Kunemon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Larva",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ]
+}

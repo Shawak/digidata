@@ -1,0 +1,22 @@
+{
+  "number": "BT5-048",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Floramon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Vegetation",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ]
+}

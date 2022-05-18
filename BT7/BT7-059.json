@@ -1,0 +1,24 @@
+{
+  "number": "BT7-059",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "DeadlyAxemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dark Animal",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 5 cards of your deck. Add up to 2 cards with [Knightmon] in their names among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Knightmon] or [Bagramon] in its name, it gets +2000 DP."
+}

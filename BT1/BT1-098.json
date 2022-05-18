@@ -1,0 +1,12 @@
+{
+  "number": "BT1-098",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "V-Nova Blast",
+  "play_cost": "2",
+  "effect": "[Main] 1 of your Digimon gains ＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon) for the turn.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

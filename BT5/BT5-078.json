@@ -1,0 +1,23 @@
+{
+  "number": "BT5-078",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Jokermon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Wizard",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] You may play 1 level 3 purple Digimon card from your trash without paying its memory cost. Any [On Play] effects on Digimon played with this effect don't activate."
+}

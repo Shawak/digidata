@@ -1,0 +1,13 @@
+{
+  "number": "BT3-004",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Minomon",
+  "form": "In-Training",
+  "type": "Larva",
+  "digivolve_effect": "[When Attacking] If you attack one of your opponent's Digimon, this Digimon gets +1000 DP for the turn."
+}

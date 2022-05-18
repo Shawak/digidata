@@ -1,0 +1,22 @@
+{
+  "number": "BT1-059",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Piximon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "9000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ]
+}

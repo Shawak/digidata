@@ -1,0 +1,24 @@
+{
+  "number": "BT2-074",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Devimon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "4000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)",
+  "digivolve_effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)"
+}

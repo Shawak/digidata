@@ -1,0 +1,28 @@
+{
+  "number": "BT5-111",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Omnimon X Anti-body",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior/Royal Knight/X-Antibody",
+  "dp": "15000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "White"
+    },
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "White"
+    }
+  ],
+  "effect": "Your Digimon with [Omnimon] in its name can digivolve into this card in your hand for a memory cost of 3, ignoring this card's digivolution requirements.[When Attacking] Delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP.[Opponent's Turn] When your opponent's Digimon attacks, you may trash 2 of this Digimon's digivolution cards to end the attack."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT6-071",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kinkakumon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] You may trash 1 card in your hand to delete 1 of your opponent's level 3 Digimon."
+}

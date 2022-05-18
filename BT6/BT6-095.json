@@ -1,0 +1,12 @@
+{
+  "number": "BT6-095",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Happy Bullet Showering",
+  "play_cost": "7",
+  "effect": "If you have a Digimon with [Three Musketeers] in its type in play, you may use this Option card without meeting its color requirements.[Main] Delete all of your opponent's Digimon with the lowest DP.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

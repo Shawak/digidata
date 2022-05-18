@@ -1,0 +1,13 @@
+{
+  "number": "ST10-14",
+  "colors": [
+    "Yellow",
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Chaos Degradation",
+  "play_cost": "8",
+  "effect": "[Main] Place 1 of your opponent's Digimon face down at the top or bottom of your opponent's security stack. If you do, trash the top card of your opponent's security stack.",
+  "security_effect": "[Security] You may place 1 of your opponent's Digimon face down at the top or bottom of its owner's security stack."
+}

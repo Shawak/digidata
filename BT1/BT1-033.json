@@ -1,0 +1,23 @@
+{
+  "number": "BT1-033",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Dolphmon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Sea Animal",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While your opponent has a Digimon with no digivolution cards in play， this Digimon gets +1000 DP."
+}

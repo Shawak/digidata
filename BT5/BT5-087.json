@@ -1,0 +1,28 @@
+{
+  "number": "BT5-087",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Omnimon Zwart",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior",
+  "dp": "15000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Black"
+    },
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] Trash the top 3 cards of your deck. Then, you may play up to 2 black and/or purple Digimon cards with play costs of 8 or less from your trash without paying their memory costs.[When Attacking] You may return 1 level 6 Digimon card in this Digimon's digivolution cards to its owner's hand to delete 1 of your opponent's unsuspended Digimon with a play cost of 12 or less."
+}

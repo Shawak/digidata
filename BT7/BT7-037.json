@@ -1,0 +1,23 @@
+{
+  "number": "BT7-037",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Boutmon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Opponent's Turn] When an opponent's Digimon attacks a player, if you have 3 or more security cards, unsuspend this Digimon."
+}

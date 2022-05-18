@@ -1,0 +1,23 @@
+{
+  "number": "BT6-059",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Machmon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Decoy (Black)＞ (When one of your other black Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent that deletion.)"
+}

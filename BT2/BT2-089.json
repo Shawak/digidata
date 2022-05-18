@@ -1,0 +1,13 @@
+{
+  "number": "BT2-089",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Tai Kamiya",
+  "play_cost": "4",
+  "effect": "[Start of Your Turn] If you have 2 memory or less， set your memory to 3.[Opponent's Turn] All of your black Digimon get +1000 DP.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

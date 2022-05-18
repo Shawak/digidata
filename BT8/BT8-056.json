@@ -1,0 +1,28 @@
+{
+  "number": "BT8-056",
+  "colors": [
+    "Green",
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Spinomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "13000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Green"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ]
+}

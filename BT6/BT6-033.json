@@ -1,0 +1,24 @@
+{
+  "number": "BT6-033",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Pulsemon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] You may trash cards from the top of your security stack until there are 3 left; gain 1 memory for each security card trashed.",
+  "digivolve_effect": "[Your Turn] While you have 3 security cards, this Digimon gains ＜Jamming＞. (This Digimon can't be deleted in battles against Security Digimon.)"
+}

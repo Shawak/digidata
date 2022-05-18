@@ -1,0 +1,12 @@
+{
+  "number": "ST9-15",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Hell Masquerade",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +2000 DP for the turn. Then, If you have a blue Digimon in play, 1 of your Digimon gains ＜Piercing＞ for the turn. (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

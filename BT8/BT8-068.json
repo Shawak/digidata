@@ -1,0 +1,23 @@
+{
+  "number": "BT8-068",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BanchoMamemon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Mutant/Boss",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Digivolving] You may reveal the top 3 cards of your deck. For each of your opponent's Digimon, you may play 1 Digimon card with [Mamemon] in its name and a memory cost of 10 or less among the revealed cards without paying its memory cost. Trash the remaining cards.[All Turns] While you have another Digimon with [Mamemon] in its name in play, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

@@ -1,0 +1,28 @@
+{
+  "number": "BT5-019",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Shoutmon DX",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Composite",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Red"
+    },
+    {
+      "level": "6",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.)[When Digivolving] You may place 1 red Digimon card from your hand at the top of this Digimon's digivolution cards. Then, for each [OmniShoutmon] or [ZeigGreymon] in this Digimon's digivolution cards, delete 1 of your opponent's Digimon with 5000 DP or less."
+}

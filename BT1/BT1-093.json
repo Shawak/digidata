@@ -1,0 +1,12 @@
+{
+  "number": "BT1-093",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Great Tornado",
+  "play_cost": "3",
+  "effect": "[Main] 1 of your Digimon gets +2000 DP and ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

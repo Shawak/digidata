@@ -1,0 +1,23 @@
+{
+  "number": "BT6-035",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Baluchimon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Holy Beast",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] If you have 3 or fewer security cards, trigger ＜Draw 2＞. (Draw 2 cards from your deck.)"
+}

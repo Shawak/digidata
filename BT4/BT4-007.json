@@ -1,0 +1,22 @@
+{
+  "number": "BT4-007",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Otamamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Amphibian",
+  "dp": "5000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "2",
+      "color": "Red"
+    }
+  ]
+}

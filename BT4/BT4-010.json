@@ -1,0 +1,22 @@
+{
+  "number": "BT4-010",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Fugamon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Red"
+    }
+  ]
+}

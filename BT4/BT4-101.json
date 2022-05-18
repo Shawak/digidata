@@ -1,0 +1,12 @@
+{
+  "number": "BT4-101",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "I'll Drag You Into the Depths!",
+  "play_cost": "1",
+  "effect": "[Main] All of your Digimon gain \"[Your Turn] When attacking an opponent's Digimon with no digivolution cards, delete that Digimon\" for the turn.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

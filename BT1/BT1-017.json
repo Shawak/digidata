@@ -1,0 +1,23 @@
+{
+  "number": "BT1-017",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Birdramon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Giant Bird",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] 1 of your Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-069",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BlackWarGreymon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dragonkin",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)"
+}

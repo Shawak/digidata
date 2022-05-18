@@ -1,0 +1,22 @@
+{
+  "number": "BT5-040",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "SuperStarmon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Mutant",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ]
+}

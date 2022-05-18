@@ -1,0 +1,23 @@
+{
+  "number": "BT4-015",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Volcdramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Dragon",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)"
+}

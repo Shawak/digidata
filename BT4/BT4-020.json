@@ -1,0 +1,23 @@
+{
+  "number": "BT4-020",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "ShineGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Light Dragon",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn] When one of your red or yellow Tamers is suspended, this Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn."
+}

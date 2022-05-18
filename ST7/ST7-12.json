@@ -1,0 +1,12 @@
+{
+  "number": "ST7-12",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Atomic Blaster",
+  "play_cost": "5",
+  "effect": "[Main] Choose any number of your opponent's Digimon whose total DP adds up to 8000 or less and delete them.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

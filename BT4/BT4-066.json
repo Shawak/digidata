@@ -1,0 +1,23 @@
+{
+  "number": "BT4-066",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Golemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Mineral",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[All Turns] All of your black Digimon get +1000 DP."
+}

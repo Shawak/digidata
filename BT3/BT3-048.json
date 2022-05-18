@@ -1,0 +1,23 @@
+{
+  "number": "BT3-048",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Gargomon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] This card gets +1000 DP for each of your opponent's suspended Digimon."
+}

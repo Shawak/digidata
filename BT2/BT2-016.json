@@ -1,0 +1,22 @@
+{
+  "number": "BT2-016",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Lavogaritamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Rock Dragon",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Red"
+    }
+  ]
+}

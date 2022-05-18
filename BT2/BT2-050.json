@@ -1,0 +1,23 @@
+{
+  "number": "BT2-050",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Argomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Mutant",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Digisorption -3＞ (When one of your Digimon digivolves into this card from your hand, you may suspend 1 of your Digimon to reduce the memory cost of the digivolution by 3.)[Your Turn] For each of your other suspended Digimon, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

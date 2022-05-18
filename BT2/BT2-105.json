@@ -1,0 +1,12 @@
+{
+  "number": "BT2-105",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Spider Shooter",
+  "play_cost": "3",
+  "effect": "[Main] Trigger ＜De-DigivoLv.e 1＞ on 1 of your opponent's Digimon. (Trash 1 card from the top of one of your opponent's Digimon. If it has no digivolution cards， or becomes a level 3 Digimon， you can't trash any more cards.)",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

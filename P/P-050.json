@@ -1,0 +1,23 @@
+{
+  "number": "P-050",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "P",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "WarGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Dragonkin",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] If you have a Tamer in play, delete 1 of your opponent's Digimon with 13000 DP or more. [When Attacking] Delete 1 of your opponent's Digimon with 4000 DP or less."
+}

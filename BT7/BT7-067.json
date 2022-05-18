@@ -1,0 +1,22 @@
+{
+  "number": "BT7-067",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Ghostmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Ghost",
+  "dp": "5000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Purple"
+    }
+  ]
+}

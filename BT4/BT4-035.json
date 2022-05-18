@@ -1,0 +1,23 @@
+{
+  "number": "BT4-035",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MirageGaogamon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Beast Knight",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] Gain 1 memory for every 4 cards in your opponent's hand.[Your Turn] This Digimon is unblockable."
+}

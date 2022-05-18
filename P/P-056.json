@@ -1,0 +1,23 @@
+{
+  "number": "P-056",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "P",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Rosemon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Digisorption -2＞ (When one of your Digimon digivolves into this card from your hand, you may suspend 1 of your Digimon to reduce the memory cost of the digivolution by 2.)[When Digivolving] If you have a Tamer in play, 1 of your opponent's Digimon can't attack or block until the end of their next turn."
+}

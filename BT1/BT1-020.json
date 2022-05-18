@@ -1,0 +1,22 @@
+{
+  "number": "BT1-020",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Groundramon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Earth Dragon",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Red"
+    }
+  ]
+}

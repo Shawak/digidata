@@ -1,0 +1,23 @@
+{
+  "number": "BT7-053",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Dinorexmon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Dinosaur/X-Antibody",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Digivolving] Suspend 1 of your opponent's Digimon. That Digimon doesn't unsuspend during their next unsuspend phase. [Your Turn] This Digimon gets +1000 DP for each of your opponent's suspended Digimon."
+}

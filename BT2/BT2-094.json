@@ -1,0 +1,12 @@
+{
+  "number": "BT2-094",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Arctic Blizzard",
+  "play_cost": "2",
+  "effect": "[Main] Choose 1 digivolution card of 1 of your opponent's Digimon and trash it. Then, 1 of your Digimon gets +2000 DP for the turn.",
+  "security_effect": "[Security] Add this card to your hand."
+}

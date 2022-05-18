@@ -1,0 +1,23 @@
+{
+  "number": "BT4-039",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Growlmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Dark Dragon",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While you have 3 or fewer security cards, this Digimon gets +1000 DP."
+}

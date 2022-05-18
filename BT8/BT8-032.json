@@ -1,0 +1,29 @@
+{
+  "number": "BT8-032",
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Imperialdramon Fighter Mode",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Ancient Dragonkin",
+  "dp": "13000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Blue"
+    },
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Digivolving] Return 1 of your opponent's Digimon with 10000 DP or less to its owner's hand.[When Attacking][Once Per Turn] If a blue card is in this Digimon's digivolution cards, unsuspend 1 of your Digimon. If a green card is in this Digimon's digivolution cards, suspend 1 of your opponent's Digimon."
+}

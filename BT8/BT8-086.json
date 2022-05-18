@@ -1,0 +1,12 @@
+{
+  "number": "BT8-086",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Hiro Amanokawa",
+  "play_cost": "4",
+  "effect": "[Start of Your Turn] If you have 2 memory or less, set your memory to 3.[Your Turn] When you attack with a Digimon that has [Gammamon] in its name or is level 5 or higher, you may suspend this Tamer to have 1 of your Digimon get +2000 DP for the turn.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

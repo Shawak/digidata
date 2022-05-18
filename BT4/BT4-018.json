@@ -1,0 +1,23 @@
+{
+  "number": "BT4-018",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Spinomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "10000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon gets +3000 DP."
+}

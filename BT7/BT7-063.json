@@ -1,0 +1,23 @@
+{
+  "number": "BT7-063",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "DarkKnightmon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Dark Knight",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] You may place 1 [SkullKnightmon] and/or 1 [DeadlyAxemon] from your hand or trash under this Digimon in its digivolution cards in any order. [All Turns] When this Digimon is deleted, you may play 1 [SkullKnightmon] and/or [DeadlyAxemon] from this Digimon's digivolution cards suspended without paying their memory costs."
+}

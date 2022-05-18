@@ -1,0 +1,12 @@
+{
+  "number": "BT7-096",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Starlight Velocity",
+  "play_cost": "3",
+  "effect": "[Main] You may play 1 Tamer card or 1 Digimon card with [Hybrid] in its traits from one of your Digimon's digivolution cards as a Tamer or another Digimon without paying its memory cost.",
+  "security_effect": "[Security] You may play 1 [Koji Minamoto] from your hand or trash without paying its memory cost."
+}

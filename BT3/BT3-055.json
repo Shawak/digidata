@@ -1,0 +1,23 @@
+{
+  "number": "BT3-055",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Dinobeemon",
+  "form": "Ultimate",
+  "attribute": "Free",
+  "type": "Mutant",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)"
+}

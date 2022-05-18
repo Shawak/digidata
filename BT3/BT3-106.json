@@ -1,0 +1,12 @@
+{
+  "number": "BT3-106",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Beast Cyclone",
+  "play_cost": "3",
+  "effect": "[Main] All of your Digimon with ＜Blocker＞ or ＜Reboot＞ gain ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn.",
+  "security_effect": "[Security] Add this card to your hand."
+}

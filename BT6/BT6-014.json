@@ -1,0 +1,23 @@
+{
+  "number": "BT6-014",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Asuramon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Wizard",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.)"
+}

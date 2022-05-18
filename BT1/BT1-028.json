@@ -1,0 +1,22 @@
+{
+  "number": "BT1-028",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Elecmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mammal",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ]
+}

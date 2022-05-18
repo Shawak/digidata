@@ -1,0 +1,23 @@
+{
+  "number": "BT4-060",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Lotosmon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[All Turns] When you or your opponent play a level 4 or lower Digimon, suspend it."
+}

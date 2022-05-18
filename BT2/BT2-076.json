@@ -1,0 +1,23 @@
+{
+  "number": "BT2-076",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Pumpkinmon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Puppet",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[On Deletion] Trigger ＜Draw 2＞. (Draw 2 cards from your deck.) Then trash 1 card from your hand."
+}

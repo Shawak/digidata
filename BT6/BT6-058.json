@@ -1,0 +1,23 @@
+{
+  "number": "BT6-058",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Nanimon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Invader",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, play this card without paying its memory cost."
+}

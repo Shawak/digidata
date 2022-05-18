@@ -1,0 +1,22 @@
+{
+  "number": "BT3-009",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Hawkmon",
+  "form": "Rookie",
+  "attribute": "Free",
+  "type": "Avian",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ]
+}

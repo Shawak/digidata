@@ -1,0 +1,12 @@
+{
+  "number": "BT6-107",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Glaive Memory Boost!",
+  "play_cost": "3",
+  "effect": "[Main] Return 1 purple Digimon card from your trash to your hand. Then, place this card in your battle area.[Main] ＜Delay＞ (Trash this card in your battle area to activate the effect below. You can't activate this effect the turn this card enters play.)・Gain 2 memory.",
+  "security_effect": "[Security] Place this card in its owner's battle area."
+}

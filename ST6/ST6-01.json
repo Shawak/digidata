@@ -1,0 +1,13 @@
+{
+  "number": "ST6-01",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Pagumon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[On Deletion] Trash the top 2 cards of your deck."
+}

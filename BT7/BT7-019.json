@@ -1,0 +1,24 @@
+{
+  "number": "BT7-019",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Strabimon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Beastkin",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 4 cards of your deck. Add 1 card with [Hybrid] in its traits, [Susanoomon], or [Koji Minamoto] among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "digivolve_effect": "[On Deletion] You may play 1 [Koji Minamoto] from your hand without paying its memory cost."
+}

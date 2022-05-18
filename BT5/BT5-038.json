@@ -1,0 +1,23 @@
+{
+  "number": "BT5-038",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kyubimon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Mysterious Beast",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] All of your opponent's Security Digimon get -1000 DP."
+}

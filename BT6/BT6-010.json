@@ -1,0 +1,23 @@
+{
+  "number": "BT6-010",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Flamemon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Wizard",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While this Digimon has [Hybrid] or [Ten Warriors] in its form or type, it gains ＜Piercing＞. (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)"
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-059",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Keramon",
+  "form": "Rookie",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Reveal 5 cards from the top of your deck. Add 1 Digimon card with [Unidentified] in its type and 1 [Arata Sanada] card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

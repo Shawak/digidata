@@ -1,0 +1,23 @@
+{
+  "number": "BT7-072",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Eyesmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dark Dragon",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When you trash this card in your hand using one of your effects, if [Eyesmon: Scatter Mode] is in your trash, you may play this card without paying its memory cost. [Your Turn] For each [Eyesmon: Scatter Mode] in your trash, this Digimon gets +2000 DP."
+}

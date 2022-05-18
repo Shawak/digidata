@@ -1,0 +1,12 @@
+{
+  "number": "ST4-14",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Izzy Izumi",
+  "play_cost": "2",
+  "effect": "[Your Turn] When one of your opponent's Digimon becomes suspended, you may suspend this Tamer to gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

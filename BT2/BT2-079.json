@@ -1,0 +1,23 @@
+{
+  "number": "BT2-079",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "VenomMyotismon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dark Animal",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[Opponent's Turn] When one of your opponent's Digimon becomes suspended， gain 1 memory."
+}

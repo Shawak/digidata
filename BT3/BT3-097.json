@@ -1,0 +1,12 @@
+{
+  "number": "BT3-097",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "A Delicate Plan",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gains \"This Digimon doesn't activate the [Security] effects of any Option cards it checks\" for the turn.",
+  "security_effect": "[Security] Add this card to your hand."
+}

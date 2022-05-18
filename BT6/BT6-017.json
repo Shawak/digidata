@@ -1,0 +1,23 @@
+{
+  "number": "BT6-017",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MagnaKidmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dragonkin/Three Musketeers",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Red"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[When Digivolving] You may use 1 Option card with a memory cost of 7 in your hand without paying its memory cost. If you don't, delete 1 of your opponent's Digimon with 4000 DP or less."
+}

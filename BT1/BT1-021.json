@@ -1,0 +1,23 @@
+{
+  "number": "BT1-021",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalGreymon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Attacking] Gain 3 memory. At end of turn， lose 3 memory."
+}

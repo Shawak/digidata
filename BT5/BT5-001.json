@@ -1,0 +1,13 @@
+{
+  "number": "BT5-001",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Koromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If this Digimon has [Omnimon] or [Greymon] (other than [DoruGreymon], [BurningGreymon], or [DexDoruGreymon]) in its name, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

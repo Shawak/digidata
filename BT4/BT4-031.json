@@ -1,0 +1,23 @@
+{
+  "number": "BT4-031",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MarinChimairamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Composite",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] You may return 1 of your other Digimon to its owner's hand to return 1 of your opponent's Digimon with no digivolution cards to its owner's hand. Trash all of the digivolution cards of your Digimon."
+}

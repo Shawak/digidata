@@ -1,0 +1,23 @@
+{
+  "number": "BT3-014",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Silphymon",
+  "form": "Ultimate",
+  "attribute": "Free",
+  "type": "Beastkin",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] Change the original DP of 1 of your opponent's level 4 or lower Digimon to 1000 for the turn.[Your Turn] This Digimon is also treated as yellow."
+}

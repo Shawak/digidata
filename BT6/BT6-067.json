@@ -1,0 +1,23 @@
+{
+  "number": "BT6-067",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Gankoomon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Digivolving] Delete all of your opponent's Digimon with the lowest play cost.[Your Turn] While your opponent has an unsuspended Digimon, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

@@ -1,0 +1,13 @@
+{
+  "number": "BT2-003",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Nyaromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Opponent's Turn] While this Digimon is suspended, all of your Security Digimon get +1000 DP."
+}

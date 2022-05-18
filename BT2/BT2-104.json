@@ -1,0 +1,12 @@
+{
+  "number": "BT2-104",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Atomic Ray",
+  "play_cost": "3",
+  "effect": "[Main] Unsuspend 1 of your Digimon with ＜Blocker＞.",
+  "security_effect": "[Security] Unsuspend all of your Digimon with ＜Blocker＞ and they get +5000 DP for the turn."
+}

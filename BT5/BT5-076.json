@@ -1,0 +1,23 @@
+{
+  "number": "BT5-076",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "BlackGrowlmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dark Dragon",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When one of your other Digimon is deleted, this Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn."
+}

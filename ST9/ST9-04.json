@@ -1,0 +1,29 @@
+{
+  "number": "ST9-04",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "ExVeemon",
+  "form": "Champion",
+  "attribute": "Free",
+  "type": "Mythical Dragon",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    },
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "When you would play this card from your hand, if you have a green Digimon in play, reduce its play cost by 1.",
+  "digivolve_effect": "[When Attacking] If you have a green Digimon in play, this Digimon gets +1000 DP for the turn."
+}

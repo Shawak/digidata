@@ -1,0 +1,23 @@
+{
+  "number": "BT8-083",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MaloMyotismon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Demon Lord",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Play] If there are 5 or more cards with [Myotismon] in their names in your trash, delete 1 of your opponent's unsuspended Digimon and trash the top card of your opponent's security stack.[When Digivolving] Trash the top 5 cards of your deck. Then, if there's a card with [Myotismon] in its name in your trash, gain 1 memory."
+}

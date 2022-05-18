@@ -1,0 +1,22 @@
+{
+  "number": "BT2-014",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Lavorvomon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Rock Dragon",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ]
+}

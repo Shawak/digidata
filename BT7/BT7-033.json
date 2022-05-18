@@ -1,0 +1,23 @@
+{
+  "number": "BT7-033",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Bulkmon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dragonkin",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Opponent's Turn] While you have 3 or more security cards, this Digimon gains ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

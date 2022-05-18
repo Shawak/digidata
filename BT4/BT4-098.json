@@ -1,0 +1,12 @@
+{
+  "number": "BT4-098",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Atomic Inferno",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon with [Hybrid] in its form gets +3000 DP, ＜Security Attack +1＞ (This Digimon checks 1 additional security card), and \"[Your Turn] When this Digimon is blocked, gain +3 memory\" for the turn.",
+  "security_effect": "[Security] All of your Digimon gain ＜Security Attack +1＞ (This Digimon checks 1 additional security card) until the end of your next turn."
+}

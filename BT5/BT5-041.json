@@ -1,0 +1,23 @@
+{
+  "number": "BT5-041",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Taomon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Wizard",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] All of your opponent's Security Digimon get -1000 DP."
+}

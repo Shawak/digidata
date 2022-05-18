@@ -1,0 +1,12 @@
+{
+  "number": "BT8-098",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Innocence Blizzard",
+  "play_cost": "3",
+  "effect": "[Main] Trash the bottom digivolution card of all of your opponent's Digimon. Then, up to 3 of your opponent's Digimon with no digivolution cards can't attack or block until the end of your opponent's next turn.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT4-099",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Heir of Dragons",
+  "play_cost": "3",
+  "effect": "[Main] Trigger ＜Draw 2＞. (Draw 2 cards from your deck.) Then, if one of your Digimon has [Greymon] or [Dramon] in its name (other than [DoruGreymon], [BurningGreymon], or[DexDoruGreymon]), delete 1 of your opponent's Digimon with 4000 DP or less.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-063",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Sukamon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Abnormal",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Deletion] Reveal the top 3 cards of your deck. You may play 1 [Chuumon] among them without paying its memory cost. Place the remaining cards at the bottom of your deck in any order."
+}

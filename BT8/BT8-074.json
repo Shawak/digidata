@@ -1,0 +1,23 @@
+{
+  "number": "BT8-074",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Soulmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Ghost",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When a card is trashed from your deck, gain 1 memory."
+}

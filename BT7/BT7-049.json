@@ -1,0 +1,23 @@
+{
+  "number": "BT7-049",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MameTyramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Mutant/X-Antibody",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Attacking] Reveal the top 3 cards of your deck. You may digivolve this Digimon into a green level 6 card among them without paying its memory cost. Place the remaining cards at the bottom of your deck in any order."
+}

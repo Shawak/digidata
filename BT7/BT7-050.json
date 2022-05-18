@@ -1,0 +1,22 @@
+{
+  "number": "BT7-050",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Triceramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Ceratopsian",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

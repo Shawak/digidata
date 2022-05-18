@@ -1,0 +1,23 @@
+{
+  "number": "BT3-052",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Rapidmon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] This card gets +1000 DP for each of your opponent's suspended Digimon."
+}

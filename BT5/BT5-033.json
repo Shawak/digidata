@@ -1,0 +1,23 @@
+{
+  "number": "BT5-033",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Cutemon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Fairy",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[Opponent's Turn] Your opponent can't reduce digivolution costs."
+}

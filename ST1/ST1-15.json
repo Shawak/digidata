@@ -1,0 +1,12 @@
+{
+  "number": "ST1-15",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Giga Destroyer",
+  "play_cost": "6",
+  "effect": "[Main] Delete up to 2 of your opponent's Digimon with 4000 DP or less.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

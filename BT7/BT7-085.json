@@ -1,0 +1,13 @@
+{
+  "number": "BT7-085",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Takuya Kanbara",
+  "play_cost": "3",
+  "effect": "[Security] Play this card without paying its memory cost. [Main][Once Per Turn] You may place 5 cards with [Hybrid] in their traits from your trash under this Tamer in any order to digivolve it into an [EmperorGreymon] in your hand for its digivolution cost as if this Tamer is a level 5 red Digimon.",
+  "digivolve_effect": "[Your Turn] This Digimon gets +2000 DP. While this Digimon has 10000 DP or more, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

@@ -1,0 +1,29 @@
+{
+  "number": "BT8-075",
+  "colors": [
+    "Purple",
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kogamon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Mutant",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    },
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)"
+}

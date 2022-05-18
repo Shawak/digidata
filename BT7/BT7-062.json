@@ -1,0 +1,24 @@
+{
+  "number": "BT7-062",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Dorugamon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Beast Dragon/X-Antibody",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Opponent's Turn] While you have another Digimon in play with [X-Antibody] in its traits, or a card with [X-Antibody] in its traits is in this Digimon's digivolution cards, this Digimon gains ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)",
+  "digivolve_effect": "[All Turns] While this Digimon has [X-Antibody] in its traits, it gets +1000 DP."
+}

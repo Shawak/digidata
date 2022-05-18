@@ -1,0 +1,23 @@
+{
+  "number": "BT4-075",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Blastmon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Mineral",
+  "dp": "13000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[When Attacking] Your opponent may choose 1 of their unsuspended Digimon. If they do, switch the target of attack to that Digimon."
+}

@@ -1,0 +1,24 @@
+{
+  "number": "BT8-060",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Ryudamon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Beast/X-Antibody",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with [X-Antibody] in its traits and 1 [Yuji Musya] among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "digivolve_effect": "[All Turns] While this Digimon has [X-Antibody] in its traits, it gains ＜Decoy (Black)＞. (When one of your other black Digimon would be deleted by an opponent's effect, you may delete this Digimon to prevent that deletion.)"
+}

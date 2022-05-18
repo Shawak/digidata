@@ -1,0 +1,23 @@
+{
+  "number": "ST5-13",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BlitzGreymon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[Main] ＜Digi-Burst 2＞ (Trash 2 of this Digimon's Digivolution cards to activate the effect below.)・1 of your Digimon gets +4000 DP until the end of your opponent's next turn."
+}

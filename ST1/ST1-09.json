@@ -1,0 +1,23 @@
+{
+  "number": "ST1-09",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalGreymon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] When this Digimon is blocked, gain 3 memory."
+}

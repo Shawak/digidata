@@ -1,0 +1,24 @@
+{
+  "number": "BT1-114",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalGreymon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "9000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "White"
+    }
+  ],
+  "effect": "＜Security Attack +2＞ (This Digimon checks 2 additional security cards.)[When Attacking] Lose 5 memory.",
+  "digivolve_effect": "[Your Turn] This Digimon gets +3000 DP."
+}

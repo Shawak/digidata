@@ -1,0 +1,22 @@
+{
+  "number": "BT1-065",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Mushroomon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Vegetation",
+  "dp": "4000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Green"
+    }
+  ]
+}

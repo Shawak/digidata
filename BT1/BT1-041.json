@@ -1,0 +1,24 @@
+{
+  "number": "BT1-041",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Zudomon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Trigger ＜Draw 2＞. (Draw 2 cards from your deck.)",
+  "digivolve_effect": "[When Attacking] If your opponent has a Digimon with no digivolution cards in play， gain 1 memory."
+}

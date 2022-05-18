@@ -1,0 +1,13 @@
+{
+  "number": "BT1-001",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Yokomon",
+  "form": "In-Training",
+  "type": "Bulb",
+  "digivolve_effect": "[When Attacking] When you attack an opponent's Digimon， this Digimon gets +1000 DP for the turn."
+}

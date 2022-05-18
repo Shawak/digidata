@@ -1,0 +1,29 @@
+{
+  "number": "ST10-06",
+  "colors": [
+    "Yellow",
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Mastemon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Angel",
+  "dp": "13000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Yellow"
+    },
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜DNA Digivolution: 0 from yellow Lv.5 + purple Lv.5＞ Digivolve unsuspended with the 2 specified Digimon stacked on top of each other. [When Digivolving] Place 1 yellow or purple Digimon card from your trash on top of your security stack face down. When DNA digivolving, you may search your security stack for 1 level 5 or lower Digimon card and play it without paying its memory cost. Then, shuffle your security stack. [All Turns] When you play another Digimon using an effect, delete 1 of your opponent's Digimon whose level is less than or equal to the played Digimon's level."
+}

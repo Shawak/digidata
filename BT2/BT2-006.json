@@ -1,0 +1,13 @@
+{
+  "number": "BT2-006",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Tsumemon",
+  "form": "In-Training",
+  "type": "Unidentified",
+  "digivolve_effect": "[Your Turn] While you have another Digimon in play with the same name as this Digimon， this Digimon gets +2000 DP."
+}

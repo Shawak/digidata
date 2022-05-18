@@ -1,0 +1,22 @@
+{
+  "number": "BT8-014",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "SkullMeramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Flame",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Red"
+    }
+  ]
+}

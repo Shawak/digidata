@@ -1,0 +1,11 @@
+{
+  "number": "BT1-099",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Hearts Attack",
+  "play_cost": "3",
+  "effect": "[Main] Trash all digivolution cards under 1 of your opponent's Digimon."
+}

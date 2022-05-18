@@ -1,0 +1,23 @@
+{
+  "number": "BT8-013",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "BetelGammamon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dragonkin",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.)"
+}

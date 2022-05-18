@@ -1,0 +1,23 @@
+{
+  "number": "ST2-08",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "WereGarurumon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While your opponent has a Digimon with no digivolution cards, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

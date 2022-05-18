@@ -1,0 +1,13 @@
+{
+  "number": "BT6-004",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Pinamon",
+  "form": "In-Training",
+  "type": "Bird",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If you attack an opponent's Digimon, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

@@ -1,0 +1,23 @@
+{
+  "number": "ST4-06",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Togemon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Vegetation",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] If you attack an opponent's Digimon, this Digimon gets +2000 DP for the turn."
+}

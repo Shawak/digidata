@@ -1,0 +1,22 @@
+{
+  "number": "ST5-07",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Jazardmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Machine Dragon",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ]
+}

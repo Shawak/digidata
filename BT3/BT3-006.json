@@ -1,0 +1,13 @@
+{
+  "number": "BT3-006",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "DemiMeramon",
+  "form": "In-Training",
+  "type": "Flame",
+  "digivolve_effect": "[On Deletion] Trigger ＜Draw 1＞. (Draw 1 card from your deck.) Then, trash 1 card in your hand."
+}

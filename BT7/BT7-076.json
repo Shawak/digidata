@@ -1,0 +1,24 @@
+{
+  "number": "BT7-076",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Orochimon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Dark Dragon",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When you trash this card in your hand using one of your effects, ＜Draw 1＞. (Draw 1 card from your deck.)",
+  "digivolve_effect": "[When Attacking][Once Per Turn] You may trash 1 card in your hand to gain 1 memory."
+}

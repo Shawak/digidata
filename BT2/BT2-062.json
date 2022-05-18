@@ -1,0 +1,23 @@
+{
+  "number": "BT2-062",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Infermon",
+  "form": "Ultimate",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Your Turn] When this Digimon digivoLv.es into a [Diaboromon] in your hand， reduce the memory cost of the digivolution by 1."
+}

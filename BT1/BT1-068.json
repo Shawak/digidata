@@ -1,0 +1,23 @@
+{
+  "number": "BT1-068",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Kokuwamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Machine",
+  "dp": "2000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While this Digimon is level 6 or higher， it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

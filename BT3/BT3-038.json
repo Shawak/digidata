@@ -1,0 +1,22 @@
+{
+  "number": "BT3-038",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Antylamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Holy Beast",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ]
+}

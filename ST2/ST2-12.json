@@ -1,0 +1,12 @@
+{
+  "number": "ST2-12",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Matt Ishida",
+  "play_cost": "2",
+  "effect": "[Start of Your Turn] If your opponent has a Digimon with no digivolution cards, gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

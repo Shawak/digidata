@@ -1,0 +1,23 @@
+{
+  "number": "BT2-025",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ikkakumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "3000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] Trash the top digivolution card of 1 of your opponent's Digimon."
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT8-027",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Scorpiomon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Ancient Crustacean",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

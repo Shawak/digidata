@@ -1,0 +1,22 @@
+{
+  "number": "BT4-043",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Crowmon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Mysterious Bird",
+  "dp": "8000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT2-078",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "WereGarurumon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] You may delete 1 of your other Digimon to unsuspend this Digimon."
+}

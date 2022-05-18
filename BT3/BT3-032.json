@@ -1,0 +1,22 @@
+{
+  "number": "BT3-032",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Armadillomon",
+  "form": "Rookie",
+  "attribute": "Free",
+  "type": "Mammal",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ]
+}

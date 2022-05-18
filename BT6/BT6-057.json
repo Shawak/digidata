@@ -1,0 +1,23 @@
+{
+  "number": "BT6-057",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "ToyAgumon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Puppet",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[All Turns] While this Digimon has ＜Blocker＞, it gets +1000 DP."
+}

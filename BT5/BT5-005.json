@@ -1,0 +1,13 @@
+{
+  "number": "BT5-005",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Tsumemon",
+  "form": "In-Training",
+  "type": "Unidentified",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If this Digimon has [Unidentified] in its type, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

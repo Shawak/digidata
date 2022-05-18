@@ -1,0 +1,23 @@
+{
+  "number": "BT4-025",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Lobomon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Warrior",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "You may Digivolve this card from your hand onto one of your blue Tamers as if the Tamer is a level 3 Digimon."
+}

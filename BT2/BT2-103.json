@@ -1,0 +1,12 @@
+{
+  "number": "BT2-103",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Spiral Sword",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn.",
+  "security_effect": "[Security] Unsuspend 1 of your Digimon with ＜Blocker＞."
+}

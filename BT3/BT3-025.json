@@ -1,0 +1,23 @@
+{
+  "number": "BT3-025",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "ExVeemon",
+  "form": "Champion",
+  "attribute": "Free",
+  "type": "Mythical Dragon",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] Unsuspend 1 of your level 4 or lower Digimon."
+}

@@ -1,0 +1,28 @@
+{
+  "number": "BT5-086",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Omnimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "14000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "4",
+      "color": "Red"
+    },
+    {
+      "level": "6",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.)[When Digivolving] Unsuspend this Digimon.[All Turns] If an opponent's effect would delete this Digimon or return it to its owner's hand or deck, you may prevent it from leaving play by trashing a level 6 Digimon card in this card's digivolution cards."
+}

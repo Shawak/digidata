@@ -1,0 +1,12 @@
+{
+  "number": "ST5-16",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Dark Side Attack",
+  "play_cost": "5",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with a play cost of 7 or less.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

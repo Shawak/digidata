@@ -1,0 +1,11 @@
+{
+  "number": "BT8-110",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Armor Texture！",
+  "effect": "While you have a Digimon with [Armor Form] in its traits in play, you may use this card without meeting its color requirements.[Main] Trash the top card of 1 of your Digimon with [Armor Form] in its traits. Then, you may digivolve 1 of your Digimon into a Digimon card in your hand with [Armor Form] in its traits for its digivolution cost. If you do, unsuspend that Digimon.",
+  "security_effect": "[Security] Play 1 level 3 Digimon card with [Free] in its traits from your hand or trash without paying its memory cost."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-082",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Tactimon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Wizard",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Attacking] Activate 1 of the effects below. If you have no other Digimon in play, activate all of the effects below instead.・Gain 1 memory.・This Digimon gets +2000 DP for the turn.・Delete up to 3 of your opponent's level 3 Digimon."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT5-105",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Ultimate Flare",
+  "play_cost": "8",
+  "effect": "[Main] Trigger ＜De-Digivolve 3＞ on 1 of your opponent's Digimon. (Trash up to 3 cards from the top of one of your opponent's Digimon. If it has no digivolution cards, or becomes a level 3 Digimon, you can't trash any more cards.) Then, delete all of your opponent's Digimon with play costs of 3 or less.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

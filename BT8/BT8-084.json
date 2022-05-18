@@ -1,0 +1,23 @@
+{
+  "number": "BT8-084",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Kimeramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Composite",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Rainbow"
+    }
+  ],
+  "effect": "[When Digivolving] You may place 1 level 5 or lower Digimon card from your trash under this Digimon as its bottom digivolution card. Then, up to 4 of your opponent's Digimon get -1000 DP for each of this Digimon's colors until the end of your opponent's next turn.[Your Turn] This Digimon is treated as also having the colors of its digivolution cards. While this Digimon has 4 or more colors, it gets +4000 DP."
+}

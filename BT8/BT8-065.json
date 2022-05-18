@@ -1,0 +1,23 @@
+{
+  "number": "BT8-065",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "CatchMamemon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Mutant",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Digivolving] You may return up to 4 Digimon cards with [Mamemon] in their names from your hand and/or trash to the top of your deck in any order. If you return 3 or more cards with this effect, ＜De-Digivolve 1＞ 1 of your opponent's Digimon. (Trash 1 card from the top of one of your opponent's Digimon. If it has no digivolution cards, or becomes a level 3 Digimon, you can't trash any more cards.)"
+}

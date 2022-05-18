@@ -1,0 +1,12 @@
+{
+  "number": "ST4-16",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Electro Shocker",
+  "play_cost": "5",
+  "effect": "[Main] Return 1 of your opponent's suspended Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,24 @@
+{
+  "number": "BT8-079",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "SkullSatamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Undead",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] Trash the top 2 cards of your deck. Then, return 1 card with [Demon Lord] in its traits from your trash to your hand.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When a card is trashed from your deck, gain 1 memory."
+}

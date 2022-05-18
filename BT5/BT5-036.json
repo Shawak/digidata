@@ -1,0 +1,23 @@
+{
+  "number": "BT5-036",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Renamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Beastkin",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] 1 of your opponent's Digimon gains ＜Security Attack -1＞ (This Digimon checks 1 fewer security cards) until the end of your opponent's next turn."
+}

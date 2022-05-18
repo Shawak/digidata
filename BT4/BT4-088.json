@@ -1,0 +1,23 @@
+{
+  "number": "BT4-088",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "DanDevimon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[Opponent's Turn][Once Per Turn] When a card is removed from your security stack, trash the top card of your opponent's security stack.[On Deletion] Your opponent trashes 2 cards in their hand."
+}

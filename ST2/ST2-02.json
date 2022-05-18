@@ -1,0 +1,22 @@
+{
+  "number": "ST2-02",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gomamon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT6-096",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Forbidden Trident",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +2000 DP and \"[When Attacking] Return 1 of your opponent's level 3 Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon\" for the turn.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

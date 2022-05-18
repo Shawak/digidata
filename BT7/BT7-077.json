@@ -1,0 +1,23 @@
+{
+  "number": "BT7-077",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Nidhoggmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dark Dragon",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When you trash this card in your hand using one of your effects, gain 1 memory. [When Digivolving] You may trash 1 card in your hand to delete 1 of your opponent's level 4 or lower Digimon."
+}

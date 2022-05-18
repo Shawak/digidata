@@ -1,0 +1,23 @@
+{
+  "number": "BT1-032",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Frigimon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Ice-Snow",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)"
+}

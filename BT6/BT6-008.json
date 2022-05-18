@@ -1,0 +1,23 @@
+{
+  "number": "BT6-008",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Shoutmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mini Dragon",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] If this Digimon has ＜Blitz＞, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

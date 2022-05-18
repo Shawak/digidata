@@ -1,0 +1,23 @@
+{
+  "number": "ST3-04",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Patamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mammal",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When an opponent's Digimon is deleted by dropping to 0 DP, gain 1 memory."
+}

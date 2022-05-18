@@ -1,0 +1,23 @@
+{
+  "number": "BT7-046",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Beetlemon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Cyborg",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "You may digivolve this card from your hand onto one of your green Tamers as if the Tamer is a level 3 green Digimon. [When Digivolving] Reveal the top 5 cards of your deck. Add 1 card with [Hybrid] in its traits and 1 [J.P. Shibayama] among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

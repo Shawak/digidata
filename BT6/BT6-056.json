@@ -1,0 +1,23 @@
+{
+  "number": "BT6-056",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Chikurimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Mine",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, trigger ＜De-Digivolve 1＞ on 1 of your opponent's Digimon. (Trash 1 card from the top of one of your opponent's Digimon. If it has no digivolution cards, or becomes a level 3 Digimon, you can't trash any more cards.)"
+}

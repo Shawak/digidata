@@ -1,0 +1,23 @@
+{
+  "number": "BT6-028",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Pukumon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Mutant",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Main] ＜Digi-Burst 2＞ (Trash 2 of this Digimon's Digivolution cards to activate the effect below.)・Your Digimon can't be blocked by your opponent's Digimon this turn."
+}

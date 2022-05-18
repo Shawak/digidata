@@ -1,0 +1,22 @@
+{
+  "number": "BT3-053",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "JewelBeemon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "10000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ]
+}

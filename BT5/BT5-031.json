@@ -1,0 +1,24 @@
+{
+  "number": "BT5-031",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MetalGarurumon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] If a Digimon card with [Garurumon] is in this Digimon's digivolution cards, return 1 of your opponent's Digimon with an [On Deletion] effect to the bottom of its owner's deck. Trash all of the digivolution cards of that Digimon.",
+  "digivolve_effect": "[When Attacking][Once Per Turn] Gain 1 memory."
+}

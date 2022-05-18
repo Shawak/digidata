@@ -1,0 +1,12 @@
+{
+  "number": "BT5-107",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Revive From the Darkness!",
+  "play_cost": "4",
+  "effect": "[Main] Delete 1 of your purple Digimon. Then, you may play 1 level 5 or lower purple Digimon card from your trash without paying its memory cost. Any [On Play] effects on Digimon played with this effect don't activate.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

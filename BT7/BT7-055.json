@@ -1,0 +1,23 @@
+{
+  "number": "BT7-055",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Ebonwumon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Beast/Four Sovereigns",
+  "dp": "13000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Digivolving] Suspend 1 of your opponent's Digimon. Then, gain 1 memory for each of your opponent's suspended Digimon. [Opponent's Turn] All of your opponent's Digimon gain “[Your Turn] You must trash 1 card in your hand to unsuspend this Digimon.”"
+}

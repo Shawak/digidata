@@ -1,0 +1,23 @@
+{
+  "number": "BT4-038",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "BushiAgumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "3000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "＜Rush＞ (This Digimon can attack the turn it comes into play.)"
+}

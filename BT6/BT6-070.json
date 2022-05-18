@@ -1,0 +1,23 @@
+{
+  "number": "BT6-070",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Elecmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] Delete 1 of your opponent's level 3 Digimon."
+}

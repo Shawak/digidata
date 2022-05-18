@@ -1,0 +1,23 @@
+{
+  "number": "BT1-034",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ikkakumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] This Digimon can't be blocked by your opponent's Digimon with no digivolution cards."
+}

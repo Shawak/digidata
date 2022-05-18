@@ -1,0 +1,23 @@
+{
+  "number": "BT5-075",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Musyamon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Wizard",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)"
+}

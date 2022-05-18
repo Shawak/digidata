@@ -1,0 +1,23 @@
+{
+  "number": "BT6-112",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BeelStarmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Wizard/Three Musketeers",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When playing this card from your hand, reduce its play cost by 1 for each [Three Musketeers] Digimon card and Option card with a memory cost of 7 in your trash.[On Play] Return 1 Option card with a memory cost of 7 from your trash to your hand. Then, use 1 Option card with a memory cost of 7 in your hand without paying its memory cost."
+}

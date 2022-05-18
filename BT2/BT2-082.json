@@ -1,0 +1,23 @@
+{
+  "number": "BT2-082",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Diaboromon",
+  "form": "Mega",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "10000",
+  "play_cost": "14",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Attacking] You may play 1 [Diaboromon] Token without paying its memory cost. (Diaboromon Tokens are level 6 white Digimon with a memory cost of 14， 3000 DP， and are Mega form， Unidentified type， and Unknown attribute.)[All Turns] When this Digimon would be deleted in battle， you may delete one of your other [Diaboromon] to prevent this Digimon from being deleted."
+}

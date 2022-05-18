@@ -1,0 +1,28 @@
+{
+  "number": "ST10-08",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Tsukaimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    },
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with [Angel], [Archangel], or [Fallen Angel] in its traits among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

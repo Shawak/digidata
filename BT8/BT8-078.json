@@ -1,0 +1,22 @@
+{
+  "number": "BT8-078",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Karatenmon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Wizard",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ]
+}

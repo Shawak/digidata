@@ -1,0 +1,23 @@
+{
+  "number": "BT5-037",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Gladimon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Warrior",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] You may search your security stack for 1 Digimon card with [Warrior] or [Holy Warrior] in its type, reveal it, and add it to your hand. If you do, trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.) Then, shuffle your security stack."
+}

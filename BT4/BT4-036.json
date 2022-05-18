@@ -1,0 +1,22 @@
+{
+  "number": "BT4-036",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Falcomon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Avian",
+  "dp": "5000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ]
+}

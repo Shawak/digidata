@@ -1,0 +1,23 @@
+{
+  "number": "BT2-072",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Vilemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Evil",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks， you may suspend this Digimon to force the opponent to attack it instead.)[When Attacking] Lose 2 memory."
+}

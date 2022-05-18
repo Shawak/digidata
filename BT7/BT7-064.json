@@ -1,0 +1,24 @@
+{
+  "number": "BT7-064",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "DoruGreymon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Beast Dragon/X-Antibody",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Digivolving] You may place 1 black card with [X-Antibody] in its traits from your hand at the bottom of this Digimon's digivolution cards to prevent effects from deleting it or reducing its DP until the end of your opponent's next turn.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [X-Antibody] in its traits, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

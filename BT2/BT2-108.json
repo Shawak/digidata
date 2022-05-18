@@ -1,0 +1,12 @@
+{
+  "number": "BT2-108",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Night Raid",
+  "play_cost": "2",
+  "effect": "[Main] Play 1 purple level 3 Digimon card from your trash without paying its memory cost. Any [On Play] effects on Digimon played with this effect don't activate.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

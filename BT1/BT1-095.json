@@ -1,0 +1,13 @@
+{
+  "number": "BT1-095",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "Brave Shield",
+  "play_cost": "5",
+  "effect": "[Main] Unsuspend 1 of your Digimon. Until the end of your opponent's next turn, that Digimon gains ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)",
+  "security_effect": "[Security] Unsuspend 1 of your Digimon. That Digimon gains"
+}

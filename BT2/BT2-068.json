@@ -1,0 +1,23 @@
+{
+  "number": "BT2-068",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Impmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Evil",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion]  Trash the top 3 cards of your deck."
+}

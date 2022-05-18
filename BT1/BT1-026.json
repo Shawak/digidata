@@ -1,0 +1,23 @@
+{
+  "number": "BT1-026",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Breakdramon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Machine Dragon",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle， it performs any security checks it normally would.)"
+}

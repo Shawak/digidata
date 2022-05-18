@@ -1,0 +1,23 @@
+{
+  "number": "ST1-11",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "WarGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Dragonkin",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn] For every 2 digivolution cards this Digimon has, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

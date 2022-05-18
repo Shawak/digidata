@@ -1,0 +1,23 @@
+{
+  "number": "BT4-033",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "ZeedGarurumon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Digi-Burst 2＞ (Trash 2 of this Digimon's digivolution cards to activate the effect below.)・Return 1 of your opponent's level 5 or lower Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon."
+}

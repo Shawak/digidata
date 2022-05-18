@@ -1,0 +1,12 @@
+{
+  "number": "BT7-097",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Tidal Wave",
+  "play_cost": "7",
+  "effect": "[Main] Choose up to 2 Digimon cards in the digivolution cards of one of your Digimon and play them as other Digimon without paying their memory costs.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

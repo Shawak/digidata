@@ -1,0 +1,12 @@
+{
+  "number": "BT6-100",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Reinforcing Memory Boost!",
+  "play_cost": "6",
+  "effect": "[Main] Reveal the top 2 cards of your deck. Place 1 of them on top of your security stack face down. Add the remaining card to your hand. Then, place this card in your battle area.[Main] ＜Delay＞ (Trash this card in your battle area to activate the effect below. You can't activate this effect the turn this card enters play.)・Gain 3 memory.",
+  "security_effect": "[Security] Place this card in its owner's battle area."
+}

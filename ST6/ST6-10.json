@@ -1,0 +1,23 @@
+{
+  "number": "ST6-10",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "SkullSatamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Undead",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] You may return 1 purple Digimon card from your trash to your hand."
+}

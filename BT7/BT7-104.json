@@ -1,0 +1,12 @@
+{
+  "number": "BT7-104",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Metal Cannon",
+  "play_cost": "2",
+  "effect": "[Main] Choose 1 of your Digimon with [X-Antibody] in its traits. Then, ＜Draw 1＞ for each of that Digimon's digivolution cards. (Draw 1 card from your deck.)",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

@@ -1,0 +1,22 @@
+{
+  "number": "ST9-12",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "JewelBeemon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

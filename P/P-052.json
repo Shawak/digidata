@@ -1,0 +1,23 @@
+{
+  "number": "P-052",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "P",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Vikemon",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Beastkin",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] If you have a Tamer in play, up to 3 of your opponent's Digimon with no digivolution cards can't attack until the end of your opponent's next turn. [When Attacking][Once Per Turn] Return 1 of your opponent's Digimon with no digivolution cards to its owner's hand."
+}

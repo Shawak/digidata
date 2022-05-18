@@ -1,0 +1,13 @@
+{
+  "number": "BT2-087",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Kari Kamiya",
+  "play_cost": "3",
+  "effect": "[Start of Your Turn] If you have 3 or fewer security cards， gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

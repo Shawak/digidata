@@ -1,0 +1,12 @@
+{
+  "number": "BT5-097",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Absolute Blast",
+  "play_cost": "6",
+  "effect": "[Main] Trash the bottom digivolution card of 1 of your opponent's Digimon. Then, return 1 of your opponent's Digimon with no digivolution cards to the bottom of its owner's deck.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

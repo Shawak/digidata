@@ -1,0 +1,23 @@
+{
+  "number": "BT8-059",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Kokuwamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Machine",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[All Turns] Players can't ignore digivolution requirements."
+}

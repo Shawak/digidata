@@ -1,0 +1,29 @@
+{
+  "number": "BT8-082",
+  "colors": [
+    "Purple",
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Ophanimon Falldown Mode",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Fallen Angel",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    },
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Digivolving] If this Digimon has a purple card in its digivolution cards, delete 1 of your opponent's level 4 or lower Digimon. If this Digimon has a yellow card in its digivolution cards, ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)[On Deletion] You may play 1 purple or yellow level 4 or lower Digimon card from your trash without paying its memory cost."
+}

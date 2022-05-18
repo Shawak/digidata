@@ -1,0 +1,12 @@
+{
+  "number": "BT4-102",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Aqua Viper",
+  "play_cost": "3",
+  "effect": "[Main] Return 1 of your Digimon to its owner's hand to return up to 2 of your opponent's level 4 or lower Digimon to their owners' hands. Trash all of the digivolution cards of those Digimon.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

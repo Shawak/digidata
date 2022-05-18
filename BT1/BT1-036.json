@@ -1,0 +1,23 @@
+{
+  "number": "BT1-036",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Garurumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beast",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Unsuspend 1 of your Digimon."
+}

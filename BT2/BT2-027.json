@@ -1,0 +1,22 @@
+{
+  "number": "BT2-027",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Zudomon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "9000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ]
+}

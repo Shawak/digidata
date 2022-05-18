@@ -1,0 +1,23 @@
+{
+  "number": "BT4-026",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "GaoGamon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Beast",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Main] ＜Digi-Burst 2＞ (Trash 2 of this Digimon's digivolution cards to activate the effect below.)・＜Draw 1＞ (Draw 1 card from your deck.)"
+}

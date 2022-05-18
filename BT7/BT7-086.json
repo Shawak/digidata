@@ -1,0 +1,13 @@
+{
+  "number": "BT7-086",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Tommy Himi",
+  "play_cost": "3",
+  "effect": "[Security] Play this card without paying its memory cost. [On Play] Trash 3 digivolution cards from the bottom of 1 of your opponent's Digimon.",
+  "digivolve_effect": "[When Attacking][Once Per Turn] Until the end of your opponent's next turn, 1 of your opponent's Digimon with no digivolution cards can't attack or block."
+}

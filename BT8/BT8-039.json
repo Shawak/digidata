@@ -1,0 +1,29 @@
+{
+  "number": "BT8-039",
+  "colors": [
+    "Yellow",
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Rapidmon",
+  "form": "Armor Form",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "4",
+      "color": "Yellow"
+    },
+    {
+      "level": "3",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Armor Purge＞ (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)[When Digivolving] Suspend 1 of your opponent's Digimon for each Tamer you have in play. Then, up to 3 of your opponent's suspended Digimon get -5000 DP for the turn."
+}

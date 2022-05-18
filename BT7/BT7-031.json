@@ -1,0 +1,23 @@
+{
+  "number": "BT7-031",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Herissmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] When this card is trashed due to activating this Digimon's ＜Digi-Burst＞, return this card to its owner's hand."
+}

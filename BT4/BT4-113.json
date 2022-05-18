@@ -1,0 +1,23 @@
+{
+  "number": "BT4-113",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "AncientGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Ancient Dragon/Ten Warriors",
+  "dp": "13000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn] For each Digimon card in this Digimon's digivolution cards with [Greymon] in its name (other than [DoruGreymon], [BurningGreymon], or [DexDoruGreymon]) or[Hybrid] in its form, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)[On Deletion] You may play 1 red level 4 or lower Digimon card with [Hybrid] in its form from your hand without paying its memory cost."
+}

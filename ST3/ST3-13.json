@@ -1,0 +1,13 @@
+{
+  "number": "ST3-13",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "Heaven's Gate",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn.",
+  "security_effect": "[Security] All of your Digimon and Security Digimon get +5000 DP for the turn. Then add this card to its owner's hand."
+}

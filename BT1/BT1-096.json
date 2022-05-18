@@ -1,0 +1,12 @@
+{
+  "number": "BT1-096",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Mad Dog Fire",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn.",
+  "security_effect": "[Security] Trigger ＜Draw 1＞ (Draw 1 card from your deck). Then add this card to its owner's hand."
+}

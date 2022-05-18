@@ -1,0 +1,23 @@
+{
+  "number": "BT8-049",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Namakemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Puppet",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Main] You may suspend this Digimon to reveal the top 3 cards of your deck. Add 1 green Digimon card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

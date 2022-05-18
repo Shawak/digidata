@@ -1,0 +1,23 @@
+{
+  "number": "BT6-111",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Alphamon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Warrior/Royal Knight/X-Antibody",
+  "dp": "11000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, add this card to your hand. Then, if a Digimon with [Royal Knight] or [X-Antibody] in its type is in play, up to 12 of your opponent's Digimon can't attack players for the turn.[When Attacking] You may pay up to 5 memory. If you do, this Digimon gets +1000 DP for the turn for each memory paid.[End of Attack] Gain 2 memory."
+}

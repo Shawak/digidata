@@ -1,0 +1,24 @@
+{
+  "number": "BT5-010",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Greymon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] If this Digimon has [Agumon] in its digivolution cards, gain 1 memory.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Omnimon] or [Greymon] (other than [DoruGreymon], [BurningGreymon], or [DexDoruGreymon]) in its name, it gets +2000 DP."
+}

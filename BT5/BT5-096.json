@@ -1,0 +1,12 @@
+{
+  "number": "BT5-096",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Supreme Cannon",
+  "play_cost": "3",
+  "effect": "[Main] Return all of your opponent's Digimon with 3000 DP or less to their owners' hands. If you have a Digimon in play with [Garurumon] or [Omnimon] in its name, return all of your opponent's Digimon with 5000 DP or less to their owners' hands instead. Trash all of the digivolution cards of those Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT3-098",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Plasma Stake",
+  "play_cost": "4",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with 13000 DP or more.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

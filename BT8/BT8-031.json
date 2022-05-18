@@ -1,0 +1,23 @@
+{
+  "number": "BT8-031",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "FrosVelgrmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Giant Bird",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] Trash the top digivolution card of 1 of your opponent's Digimon. Then, return 1 of your opponent's Digimon with no digivolution cards to its owner's hand.[Opponent's Turn] All of your opponent's Digimon gain \"[When Attacking] Trash the bottom digivolution card of this Digimon.\""
+}

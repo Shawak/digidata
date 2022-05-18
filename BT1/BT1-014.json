@@ -1,0 +1,22 @@
+{
+  "number": "BT1-014",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kokatorimon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Giant Bird",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ]
+}

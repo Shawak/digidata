@@ -1,0 +1,22 @@
+{
+  "number": "BT2-075",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Myotismon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Undead",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ]
+}

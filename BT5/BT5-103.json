@@ -1,0 +1,12 @@
+{
+  "number": "BT5-103",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "A Blazing Storm of Metal!",
+  "play_cost": "1",
+  "effect": "[Main] Until the end of your opponent's next turn, all of your Digimon with ＜Reboot＞ get +1000 DP and ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)",
+  "security_effect": "[Security] Your opponent's Digimon can't attack players for the turn. Then, add this card to your hand."
+}

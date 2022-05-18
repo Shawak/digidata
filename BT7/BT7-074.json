@@ -1,0 +1,23 @@
+{
+  "number": "BT7-074",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Antylamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Holy Beast",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] You may play 1 purple Tamer card with a play cost of 3 or less from your trash without paying its memory cost."
+}

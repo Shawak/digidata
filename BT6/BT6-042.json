@@ -1,0 +1,28 @@
+{
+  "number": "BT6-042",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Babamon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Ancient",
+  "dp": "10000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[On Deletion] You may play 1 [Rosemon] or up to 2 yellow level 3 Digimon cards from your hand without paying their memory costs."
+}

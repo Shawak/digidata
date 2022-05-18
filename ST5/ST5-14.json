@@ -1,0 +1,12 @@
+{
+  "number": "ST5-14",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Tai Kamiya",
+  "play_cost": "2",
+  "effect": "[Opponent's Turn] When you use ＜Blocker＞ to suspend one of your Digimon, you may suspend this Tamer to unsuspend 1 of your Digimon.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

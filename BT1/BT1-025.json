@@ -1,0 +1,23 @@
+{
+  "number": "BT1-025",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "WarGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Dragonkin",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When DigivoLv.ing] This Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn. [Your Turn] This Digimon doesn't activate [Security] skills on Option cards it checks."
+}

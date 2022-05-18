@@ -1,0 +1,28 @@
+{
+  "number": "BT8-112",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Imperialdramon Paladin Mode",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Ancient Holy Warrior",
+  "dp": "16000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "7",
+      "color": "Blue"
+    },
+    {
+      "level": "6",
+      "cost": "7",
+      "color": "Green"
+    }
+  ],
+  "effect": "When one of your Digimon would digivolve into this card in your hand, you may return 1 white level 7 Digimon card from your trash to the bottom of your deck to reduce the digivolution cost by 4.[When Digivolving][When Attacking] You may return 1 2-color card from this Digimon's digivolution cards to the bottom of its owner's deck to trash all of the digivolution cards of 1 of your opponent's Digimon. Then, return all of your opponent's Digimon with no digivolution cards to the bottom of their owners' decks in any order."
+}

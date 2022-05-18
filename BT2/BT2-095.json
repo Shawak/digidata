@@ -1,0 +1,11 @@
+{
+  "number": "BT2-095",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "River of Power",
+  "play_cost": "3",
+  "effect": "[Main] Return up to 3 of your opponent's level 3 Digimon to their hand. (Trash all of the digivolution cards of those Digimon.)"
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT3-100",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Death Parade Blaster",
+  "play_cost": "3",
+  "effect": "[Main] Trash up to 2 digivolution cards from the bottom of all of your opponent's Digimon. Then, if you have a green Digimon in play, suspend 1 of your opponent's Digimon with no digivolution cards.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

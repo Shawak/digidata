@@ -1,0 +1,12 @@
+{
+  "number": "BT8-103",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Lightning Blade",
+  "play_cost": "1",
+  "effect": "While you have a Digimon with [Armor Form] in its traits in play, you may use this card without meeting its color requirements.[Main] 1 of your Digimon with 2 or more colors gets +2000 DP and ＜Piercing＞ for the turn. (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "security_effect": "[Security] Suspend 1 of your opponent's Digimon."
+}

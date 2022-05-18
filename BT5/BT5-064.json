@@ -1,0 +1,23 @@
+{
+  "number": "BT5-064",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "BlackGaogamon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Beast",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While this Digimon has ＜Reboot＞, it gains ＜Jamming＞. (This Digimon can't be deleted in battles against Security Digimon.)"
+}

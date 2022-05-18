@@ -1,0 +1,23 @@
+{
+  "number": "ST7-09",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Gallantmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[When Attacking] Delete 1 of your opponent's Digimon with 4000 DP or less. If no Digimon was deleted by this effect, this Digimon gets +3000 DP for the turn."
+}

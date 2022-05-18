@@ -1,0 +1,12 @@
+{
+  "number": "BT1-097",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Boring Storm",
+  "play_cost": "1",
+  "effect": "[Main] Trigger ＜Draw 1＞ (Draw 1 card from your deck).",
+  "security_effect": "[Security] Trigger ＜Draw 2＞ (Draw 2 cards from your deck)."
+}

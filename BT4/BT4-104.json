@@ -1,0 +1,10 @@
+{
+  "number": "BT4-104",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Blinding Ray",
+  "effect": "[Main] Trash the top card of your security stack. Then, gain 2 memory."
+}

@@ -1,0 +1,22 @@
+{
+  "number": "ST2-10",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Plesiomon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Plesiosaur",
+  "dp": "12000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

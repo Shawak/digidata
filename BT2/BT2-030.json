@@ -1,0 +1,23 @@
+{
+  "number": "BT2-030",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MetalSeadramon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "10000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Return up to 2 of your opponent's level 4 or lower Digimon to their hand. (Trash all of the digivolution cards of those Digimon.)[Your Turn] This Digimon can't be blocked by your opponent's Digimon with no digivolution cards."
+}

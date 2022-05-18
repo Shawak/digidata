@@ -1,0 +1,22 @@
+{
+  "number": "BT1-024",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalTyrannomon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "10000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ]
+}

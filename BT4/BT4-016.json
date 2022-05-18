@@ -1,0 +1,23 @@
+{
+  "number": "BT4-016",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Aldamon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Wizard",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[Your Turn] While this Digimon's digivolution cards include a Digimon card with [Hybrid] in its form or a red Tamer card, it gets +4000 DP."
+}

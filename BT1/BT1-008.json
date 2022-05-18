@@ -1,0 +1,13 @@
+{
+  "number": "BT1-008",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Frimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While your opponent has 2 or more suspended Digimon in play， this Digimon gets +2000 DP."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT7-045",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Tortomon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Reptile",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] You may reveal 1 green Digimon card from your hand and place it on top of your deck to have this Digimon get +3000 DP for the turn."
+}

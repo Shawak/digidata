@@ -1,0 +1,13 @@
+{
+  "number": "BT7-005",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Dorimon",
+  "form": "In-Training",
+  "type": "Lesser/X-Antibody",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When one of your effects places a digivolution card under this Digimon, ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

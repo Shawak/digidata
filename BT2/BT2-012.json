@@ -1,0 +1,23 @@
+{
+  "number": "BT2-012",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Birdramon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Giant Bird",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Attacking] When this Digimon attacks a player, it gets +4000 DP for the turn"
+}

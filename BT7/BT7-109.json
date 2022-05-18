@@ -1,0 +1,12 @@
+{
+  "number": "BT7-109",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Dead or Alive",
+  "play_cost": "8",
+  "effect": "[Main] Play 1 purple level 5 Digimon card from your trash without paying its memory cost. If there are 10 or more cards in your trash, you may play 1 Digimon card with [Lucemon] in its name without paying its memory cost instead.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

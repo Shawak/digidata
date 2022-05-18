@@ -1,0 +1,28 @@
+{
+  "number": "BT5-085",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Armageddemon",
+  "form": "Mega",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "15000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "3",
+      "color": "Black"
+    },
+    {
+      "level": "6",
+      "cost": "3",
+      "color": "White"
+    }
+  ],
+  "effect": "When playing this card from your hand, you may delete 1 of your [Diaboromon] to reduce this card's play cost by 12.＜Rush＞ (This Digimon can attack the turn it comes into play.)[All Turns] The [When Digivolving] effects on level 7 Digimon don't activate."
+}

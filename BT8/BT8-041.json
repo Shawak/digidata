@@ -1,0 +1,28 @@
+{
+  "number": "BT8-041",
+  "colors": [
+    "Yellow",
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Kyukimon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Mysterious Beast",
+  "dp": "9000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    },
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ]
+}

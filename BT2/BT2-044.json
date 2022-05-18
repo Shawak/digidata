@@ -1,0 +1,23 @@
+{
+  "number": "BT2-044",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Tyrannomon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Dinosaur",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When DigivoLv.ing] Reveal 3 cards from the top of your deck. Add 1 level 5 Digimon card and 1 green Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

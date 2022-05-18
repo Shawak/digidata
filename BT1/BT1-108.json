@@ -1,0 +1,13 @@
+{
+  "number": "BT1-108",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "Horn Buster",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn.",
+  "security_effect": "[Security] Suspend 1 of your opponent's Digimon. Then add this card its owner's hand."
+}

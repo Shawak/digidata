@@ -1,0 +1,28 @@
+{
+  "number": "BT8-033",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Armadillomon",
+  "form": "Rookie",
+  "attribute": "Free",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    },
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 4 cards of your deck. Add 1 2-color yellow card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

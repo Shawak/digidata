@@ -1,0 +1,11 @@
+{
+  "number": "BT4-111",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Jack Raid",
+  "effect": "[Main] Gain 1 memory for every 10 cards in your trash.",
+  "security_effect": "[Security] Gain 2 memory."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "BT4-097",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Kari Kamiya",
+  "play_cost": "3",
+  "effect": "[All Turns] When a card is removed from your security stack, you may suspend this Tamer to gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

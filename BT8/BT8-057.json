@@ -1,0 +1,23 @@
+{
+  "number": "BT8-057",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Shivamon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Insectoid",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Opponent's Turn] While all of your Digimon are suspended, your opponent can't use Option cards.[Your Turn] When this Digimon becomes unsuspended during your unsuspend phase, trash the top card of your opponent's security stack."
+}

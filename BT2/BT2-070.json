@@ -1,0 +1,23 @@
+{
+  "number": "BT2-070",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Tapirmon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] Trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

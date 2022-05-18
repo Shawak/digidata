@@ -1,0 +1,12 @@
+{
+  "number": "BT3-108",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Dark Despair",
+  "play_cost": "2",
+  "effect": "[Main] 1 of your Digimon gains ＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling) until the end of your opponent's next turn.",
+  "security_effect": "[Security] Add this card to your hand."
+}

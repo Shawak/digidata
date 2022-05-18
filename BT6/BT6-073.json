@@ -1,0 +1,23 @@
+{
+  "number": "BT6-073",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ginkakumon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you trash a card in your hand using one of your effects, gain 1 memory."
+}

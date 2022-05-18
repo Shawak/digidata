@@ -1,0 +1,23 @@
+{
+  "number": "BT8-072",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "DemiDevimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Evil",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 Tamer card among them to your hand, and trash 1 purple Digimon card among them. Place the remaining cards at the bottom of your deck in any order."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-080",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Zanbamon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Wizard",
+  "dp": "10000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)"
+}

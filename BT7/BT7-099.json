@@ -1,0 +1,12 @@
+{
+  "number": "BT7-099",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Electric Rush",
+  "play_cost": "2",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn. Then, if you have 3 security cards, unsuspend 1 of your Digimon.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

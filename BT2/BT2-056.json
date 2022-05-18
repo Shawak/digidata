@@ -1,0 +1,22 @@
+{
+  "number": "BT2-056",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Numemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Mollusk",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Black"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-029",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Goldramon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Dragon/Four Great Dragons",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Your Turn][Once Per Turn] When you play another Digimon, unsuspend this Digimon."
+}

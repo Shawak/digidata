@@ -1,0 +1,12 @@
+{
+  "number": "BT4-105",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Tactical Retreat!",
+  "play_cost": "1",
+  "effect": "[Main] Place 1 of your Digimon on top of your security stack face down. Trash all of the digivolution cards of that Digimon.",
+  "security_effect": "[Security] Trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)"
+}

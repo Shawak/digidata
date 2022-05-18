@@ -1,0 +1,23 @@
+{
+  "number": "BT2-112",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BlackWarGreymon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dragonkin",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "While your opponent has a Digimon with 10000 DP or more in play, reduce the memory cost to play this card from your hand by 6.[When Attacking] If you attack your opponent's Digimon with the highest DP, unsuspend this Digimon."
+}

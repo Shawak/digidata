@@ -1,0 +1,12 @@
+{
+  "number": "ST10-15",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Darkness Wave",
+  "play_cost": "1",
+  "effect": "[Main] Trash the top 3 cards of your deck. Then, if you have a yellow Digimon in play, return 1 yellow or purple Digimon card from your trash to your hand.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

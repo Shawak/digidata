@@ -1,0 +1,13 @@
+{
+  "number": "BT8-085",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Yolei Inoue",
+  "play_cost": "3",
+  "effect": "[Start of Your Main Phase] If you have a red Digimon in play, gain 1 memory.[Your Turn] When one of your Digimon with 2 or more colors attacks, you may suspend this Tamer to delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

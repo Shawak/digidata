@@ -1,0 +1,23 @@
+{
+  "number": "BT6-044",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Dynasmon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Digivolving] You may trash the top card of your security stack to reveal the top 6 cards of your deck. Add up to 2 level 6 or lower Digimon cards among them to your hand. Trash the remaining cards.[All Turns][Once Per Turn] When a card is removed from your security stack, if you have 3 or fewer security cards, trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)"
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT3-059",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Commandramon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Cyborg/D-Brigade",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ]
+}

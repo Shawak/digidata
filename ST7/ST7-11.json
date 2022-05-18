@@ -1,0 +1,12 @@
+{
+  "number": "ST7-11",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Lightning Joust",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +2000 DP for the turn. Then, if the number of cards in your security stack is less than or equal to your opponent's, 1 of your Digimon gains ＜Security Attack +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-031",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Imperialdramon Dragon Mode",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Ancient Dragon",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Blue"
+    }
+  ],
+  "effect": "When one of your [Paildramon] or [Dinobeemon] would digivolve into this card in your hand, reduce the memory cost of the digivolution by 2.＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)[When Digivolving] Unsuspend all of your Digimon with ＜Jamming＞."
+}

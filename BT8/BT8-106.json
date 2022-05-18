@@ -1,0 +1,12 @@
+{
+  "number": "BT8-106",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Senbon Dokkān",
+  "play_cost": "9",
+  "effect": "[Main] Reveal the top 3 cards of your deck. You may play any number of Digimon cards with [Mamemon] in their names whose play costs add up to 15 or less among them without paying their memory costs. Delete 1 of your opponent's Digimon with a memory cost of 6 or less for each Digimon played with this effect. Trash the remaining cards.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

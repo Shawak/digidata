@@ -1,0 +1,12 @@
+{
+  "number": "BT7-108",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Schwarz Lehrsatz",
+  "play_cost": "6",
+  "effect": "[Main] For each Digimon with [Hybrid] in its traits and each Tamer you have in play, delete 1 of your opponent's level 5 or lower Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

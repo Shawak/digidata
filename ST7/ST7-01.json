@@ -1,0 +1,13 @@
+{
+  "number": "ST7-01",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Gigimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When an opponent's Digimon is deleted, this Digimon gets +2000 DP for the turn."
+}

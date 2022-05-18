@@ -1,0 +1,23 @@
+{
+  "number": "BT3-111",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Imperialdramon Dragon Mode",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Ancient Dragon",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Green"
+    }
+  ],
+  "effect": "When one of your [Paildramon] or [Dinobeemon] would digivolve into this card in your hand, reduce the memory cost of the digivolution by 2.＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)[Your Turn][Once Per Turn] When this Digimon deletes an opponent's Digimon in battle and survives, unsuspend this Digimon."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-073",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "CresGarurumon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Beast Knight",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)[When Digivolving] Reveal 1 card from the top of your deck for each Digimon your opponent has in play. You may play 1 black or red Digimon card with a level of 5 or less among them without paying its memory cost. Place the remaining cards at the bottom of your deck in any order."
+}

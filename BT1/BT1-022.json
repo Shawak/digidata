@@ -1,0 +1,24 @@
+{
+  "number": "BT1-022",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Garudamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Birdkin",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle， it performs any security checks it normally would.)",
+  "digivolve_effect": "[Your Turn] When this Digimon is blocked， trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

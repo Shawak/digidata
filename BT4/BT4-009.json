@@ -1,0 +1,23 @@
+{
+  "number": "BT4-009",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Flamemon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Wizard",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 Digimon card with [Hybrid] in its form and/or 1 red Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

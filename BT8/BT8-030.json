@@ -1,0 +1,28 @@
+{
+  "number": "BT8-030",
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Surfimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "13000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ]
+}

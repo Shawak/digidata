@@ -1,0 +1,23 @@
+{
+  "number": "BT2-073",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Garurumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beast",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When one of your other Digimon is deleted， gain 1 memory."
+}

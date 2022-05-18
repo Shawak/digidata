@@ -1,0 +1,13 @@
+{
+  "number": "BT4-002",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Bukamon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking] Trash the bottom digivolution card of 1 of your opponent's level 4 or lower Digimon."
+}

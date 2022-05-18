@@ -1,0 +1,12 @@
+{
+  "number": "BT6-087",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Tai Kamiya",
+  "play_cost": "3",
+  "effect": "[Your Turn] When one of your Digimon with [Agumon] or [Greymon] in its name moves from the breeding area to the battle area, gain 1 memory and trigger ＜Draw 1＞. (Draw 1 card from your deck.)[Main][Once Per Turn] Digivolve your [Agumon] into 1 [Agumon - Bond of Bravery] in your hand for its digivolution cost, ignoring its level. If you do, trash the top 2 cards of your security stack. Then, if you have 1 or more security cards, delete that Digimon at the end of the turn.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "BT7-004",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Koromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "effect": "[When Attacking] Reveal the top card of your deck, and place it at the top or bottom of your deck."
+}

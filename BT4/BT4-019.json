@@ -1,0 +1,23 @@
+{
+  "number": "BT4-019",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "VictoryGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Dragonkin",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Digi-Burst 2＞ (Trash 2 of this Digimon's digivolution cards to activate the effect below.)・Delete 1 of your opponent's Digimon with 8000 DP or less."
+}

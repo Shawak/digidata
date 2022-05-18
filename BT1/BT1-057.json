@@ -1,0 +1,22 @@
+{
+  "number": "BT1-057",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Sirenmon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Shaman",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ]
+}

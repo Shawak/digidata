@@ -1,0 +1,16 @@
+{
+  "number": "BT7-111",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Lucemon: Chaos Mode",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Demon Lord/Seven Great Demon Lords",
+  "dp": "12000",
+  "play_cost": "14",
+  "effect": "Your [Lucemon] can digivolve into this card in your hand for a memory cost of 7, ignoring this card's digivolution requirements. For every 10 cards in your trash, reduce the memory cost when playing this card from your hand by 3. [On Play][When Digivolving] Delete 1 of your opponent's Tamers or level 6 or lower Digimon."
+}

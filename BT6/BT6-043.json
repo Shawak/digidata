@@ -1,0 +1,23 @@
+{
+  "number": "BT6-043",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "SkullMammothmon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Undead",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[All Turns] While you have 3 or fewer security cards, this Digimon gets +2000 DP."
+}

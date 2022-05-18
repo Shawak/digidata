@@ -1,0 +1,22 @@
+{
+  "number": "BT1-042",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "LoaderLiomon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Machine",
+  "dp": "10000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ]
+}

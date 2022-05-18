@@ -1,0 +1,23 @@
+{
+  "number": "BT2-077",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Kimeramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Composite",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Play] You may delete one of your other Digimon to delete 1 of your opponent's level 5 or lower Digimon."
+}

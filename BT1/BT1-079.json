@@ -1,0 +1,23 @@
+{
+  "number": "BT1-079",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Lillymon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] Suspend 1 of your opponent's Digimon without ＜Blocker＞."
+}

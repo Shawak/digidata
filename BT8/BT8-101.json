@@ -1,0 +1,12 @@
+{
+  "number": "BT8-101",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Plasma Shot",
+  "play_cost": "4",
+  "effect": "While you have a Digimon with [Armor Form] in its traits in play, you may use this card without meeting its color requirements.[Main] 1 of your opponent's Digimon gets -4000 DP for the turn, and all of your opponent's Digimon get -1000 DP for the turn for each card with [Armor Form] in its traits in your trash.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

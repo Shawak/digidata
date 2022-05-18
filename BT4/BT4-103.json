@@ -1,0 +1,12 @@
+{
+  "number": "BT4-103",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Full Moon Blaster",
+  "play_cost": "5",
+  "effect": "[Main] Return 1 of your opponent's level 5 or lower Digimon to its owner's hand. If your opponent has 8 or more cards in their hand, instead return 1 of your opponent's level 5 or lower Digimon to the bottom of its owner's deck. Trash all of the digivolution cards of that Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "ST6-04",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Dracmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Undead",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Play] You may return 1 purple Option card with a memory cost of 1 or 7 from your trash to your hand."
+}

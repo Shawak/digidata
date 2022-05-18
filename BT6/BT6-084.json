@@ -1,0 +1,16 @@
+{
+  "number": "BT6-084",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Sistermon Ciel",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Puppet",
+  "dp": "5000",
+  "play_cost": "4",
+  "effect": "[All Turns] All of your Digimon with [Huckmon] in their names or [Royal Knight] in their types get +2000 DP.[On Play] Gain 1 memory."
+}

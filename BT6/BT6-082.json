@@ -1,0 +1,16 @@
+{
+  "number": "BT6-082",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Sistermon Blanc",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Puppet",
+  "dp": "3000",
+  "play_cost": "3",
+  "effect": "[All Turns] While you have a Digimon with [Huckmon] in its name or [Royal Knight] in its type in play, all of your Digimon with [Sistermon] in their names gain ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[On Play] Trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

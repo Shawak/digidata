@@ -1,0 +1,12 @@
+{
+  "number": "BT5-108",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Earth Shaker",
+  "play_cost": "6",
+  "effect": "[Main] Delete 1 of your opponent's unsuspended level 4 Digimon and 1 of your opponent's unsuspended level 5 Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

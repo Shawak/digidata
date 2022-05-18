@@ -1,0 +1,13 @@
+{
+  "number": "BT3-003",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Upamon",
+  "form": "In-Training",
+  "type": "Amphibian",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If you have 3 or fewer security cards, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

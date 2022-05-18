@@ -1,0 +1,11 @@
+{
+  "number": "BT6-104",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Parabolic Junk",
+  "effect": "[Main] 1 of your Digimon gains \"[On Deletion] Gain 2 memory\" until the end of your opponent's next turn.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

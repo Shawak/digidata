@@ -1,0 +1,22 @@
+{
+  "number": "BT4-053",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Roachmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Green"
+    }
+  ]
+}

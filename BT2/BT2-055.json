@@ -1,0 +1,23 @@
+{
+  "number": "BT2-055",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "ToyAgumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Puppet",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)"
+}

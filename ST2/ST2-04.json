@@ -1,0 +1,22 @@
+{
+  "number": "ST2-04",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Bearmon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Beast",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ]
+}

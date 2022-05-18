@@ -1,0 +1,13 @@
+{
+  "number": "BT2-084",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Sora Takenouchi",
+  "play_cost": "3",
+  "effect": "[Your Turn] When one of your red Digimon attacks a player， you may suspend this Tamer to give that Digimon +2000 DP for the turn.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

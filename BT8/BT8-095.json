@@ -1,0 +1,12 @@
+{
+  "number": "BT8-095",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Fire Rocket",
+  "play_cost": "1",
+  "effect": "While you have a Digimon with [Armor Form] in its traits in play, you may use this card without meeting its color requirements.[Main] 1 of your Digimon with 2 or more colors gains ＜Security Attack +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "security_effect": "[Security] Delete 1 of your opponent's Digimon with ＜Blocker＞."
+}

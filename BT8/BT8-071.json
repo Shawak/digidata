@@ -1,0 +1,23 @@
+{
+  "number": "BT8-071",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Psychemon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Reptile",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[All Turns] Players can't reduce play costs."
+}

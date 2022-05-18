@@ -1,0 +1,23 @@
+{
+  "number": "BT3-030",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Leopardmon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When DigivoLv.ing] You may play 1 level 4 or lower digivolution card of 1 of your Digimon cards as another Digimon without paying its memory cost.[Your Turn] All of your level 4 or lower Digimon gain ＜Jamming＞. (This Digimon can't be deleted in battles against Security Digimon.)"
+}

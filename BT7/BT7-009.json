@@ -1,0 +1,23 @@
+{
+  "number": "BT7-009",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Huckmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mini Dragon",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] Reveal the top 5 cards of your deck. Add all cards with [Sistermon] in their names among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

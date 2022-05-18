@@ -1,0 +1,23 @@
+{
+  "number": "ST5-06",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Greymon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[End of Opponent's Turn] If your opponent didn't attack with a Digimon this turn, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

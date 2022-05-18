@@ -1,0 +1,30 @@
+{
+  "number": "ST9-11",
+  "colors": [
+    "Green",
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Dinobeemon",
+  "form": "Ultimate",
+  "attribute": "Free",
+  "type": "Mutant",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Green"
+    },
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜DNA Digivolution: 0 from green Lv.4 + blue Lv.4＞ Digivolve unsuspended with the 2 specified Digimon stacked on top of each other. [When Digivolving] Suspend 1 of your opponent's Digimon. When DNA digivolving, that Digimon doesn't unsuspend during its owner's next unsuspend phase.",
+  "digivolve_effect": "[Your Turn] This Digimon gets +1000 DP for each of its colors."
+}

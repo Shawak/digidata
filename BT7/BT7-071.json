@@ -1,0 +1,23 @@
+{
+  "number": "BT7-071",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Loweemon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Warrior",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "You may digivolve this card from your hand onto one of your purple Tamers as if the Tamer is a level 3 purple Digimon."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-045",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "LordKnightmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "11000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Attacking] You may play a yellow level 3 Digimon card or a yellow Digimon card with [Warrior] in its type from your hand without paying its memory cost.[All Turns] For each other Digimon you have in play, this Digimon gets +1000 DP."
+}

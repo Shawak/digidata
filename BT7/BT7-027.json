@@ -1,0 +1,23 @@
+{
+  "number": "BT7-027",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Whamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Sea Animal",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] You may play 1 level 3 Digimon card from one of your Digimon's digivolution cards as another Digimon without paying its memory cost. If you do, you may place 1 blue Digimon card from your hand at the bottom of one of your Digimon's digivolution cards."
+}

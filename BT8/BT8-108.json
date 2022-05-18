@@ -1,0 +1,12 @@
+{
+  "number": "BT8-108",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Mist Memory Boost！",
+  "play_cost": "3",
+  "effect": "[Main] Trash the top 2 cards of your deck and ＜Draw 1＞. (Draw 1 card from your deck.) Then, place this card in your Battle Area.[Main] ＜Delay＞ (Trash this card in your battle area to activate the effect below. You can't activate this effect the turn this card enters play.)・Gain 2 memory.",
+  "security_effect": "[Security] Place this card in its owner's battle area."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-074",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MetalEtemon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "10000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon can't be blocked by your opponent's Digimon.[Opponent's Turn] This Digimon gets +2000 DP."
+}

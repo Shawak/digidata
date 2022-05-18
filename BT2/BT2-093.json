@@ -1,0 +1,12 @@
+{
+  "number": "BT2-093",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Shield of the Just",
+  "play_cost": "6",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with 5000 DP or less. If you have a red Tamer in play， delete 1 of your opponent's Digimon with 8000 DP or less instead.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

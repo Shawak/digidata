@@ -1,0 +1,22 @@
+{
+  "number": "BT5-051",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "MoriShellmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Mollusk",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

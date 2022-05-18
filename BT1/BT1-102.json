@@ -1,0 +1,12 @@
+{
+  "number": "BT1-102",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Blade of the True",
+  "play_cost": "2",
+  "effect": "[Main] Trigger ＜Draw 1＞ (Draw 1 card from your deck) for every 2 security cards you have.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

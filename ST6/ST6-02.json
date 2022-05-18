@@ -1,0 +1,22 @@
+{
+  "number": "ST6-02",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "DemiDevimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Evil",
+  "dp": "4000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Purple"
+    }
+  ]
+}

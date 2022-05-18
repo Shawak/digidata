@@ -1,0 +1,23 @@
+{
+  "number": "BT3-016",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Durandamon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Sword/Legend-Arms",
+  "dp": "12000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)"
+}

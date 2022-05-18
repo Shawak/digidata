@@ -1,0 +1,12 @@
+{
+  "number": "ST8-11",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Victory Sword",
+  "play_cost": "3",
+  "effect": "[Main] Unsuspend 1 of your blue Digimon.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

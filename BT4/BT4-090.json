@@ -1,0 +1,28 @@
+{
+  "number": "BT4-090",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Chaosmon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Unique",
+  "dp": "14000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Green"
+    },
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)[When Digivolving] Unsuspend this Digimon. Then, it can attack your opponent's Digimon. This effect allows you to attack unsuspended Digimon as well."
+}

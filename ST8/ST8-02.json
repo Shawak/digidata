@@ -1,0 +1,23 @@
+{
+  "number": "ST8-02",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gabumon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Reptile",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[All Turns] While you have 8 or more cards in your hand, this Digimon gets +1000 DP."
+}

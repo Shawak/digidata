@@ -1,0 +1,23 @@
+{
+  "number": "BT7-021",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kumamon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Beastkin",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "You may digivolve this card from your hand onto one of your blue Tamers as if the Tamer is a level 3 blue Digimon. [When Digivolving] Trash 1 digivolution card from the bottom of 1 of your opponent's Digimon."
+}

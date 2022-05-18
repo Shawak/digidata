@@ -1,0 +1,22 @@
+{
+  "number": "BT3-078",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Shamanmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT8-007",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gazimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Mammal",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ]
+}

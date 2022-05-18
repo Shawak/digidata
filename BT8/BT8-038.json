@@ -1,0 +1,29 @@
+{
+  "number": "BT8-038",
+  "colors": [
+    "Yellow",
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Magnamon",
+  "form": "Armor Form",
+  "attribute": "Free",
+  "type": "Holy Warrior/Royal Knight",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "4",
+      "color": "Yellow"
+    },
+    {
+      "level": "3",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜Blocker＞＜Armor Purge＞ (When this Digimon would be deleted, you may trash the top card of this Digimon to prevent that deletion.)[When Digivolving] Unsuspend this Digimon, and it gets +2000 DP until the end of your opponent's next turn for each card with [Armor Form] in its traits in your trash."
+}

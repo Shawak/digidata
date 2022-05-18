@@ -1,0 +1,23 @@
+{
+  "number": "BT3-092",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MaloMyotismon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Demon Lord",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)[All Turns] When another Digimon is deleted, gain 1 memory for each Digimon deleted."
+}

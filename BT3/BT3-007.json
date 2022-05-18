@@ -1,0 +1,22 @@
+{
+  "number": "BT3-007",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Reptile",
+  "dp": "4000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Red"
+    }
+  ]
+}

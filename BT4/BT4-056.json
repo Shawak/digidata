@@ -1,0 +1,22 @@
+{
+  "number": "BT4-056",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "SkullScorpiomon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Insectoid",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

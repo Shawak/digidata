@@ -1,0 +1,23 @@
+{
+  "number": "BT1-056",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Petermon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] You may play 1 [Tinkermon] from your hand or recycle bin without paying its memory cost."
+}

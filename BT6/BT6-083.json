@@ -1,0 +1,24 @@
+{
+  "number": "BT6-083",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Eosmon",
+  "form": "Champion",
+  "attribute": "Unknown",
+  "type": "Unknown",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[On Play] You may play 1 white Tamer card with a play cost of 4 or less from your hand without paying its memory cost. Then, your opponent may play 1 Tamer card from their hand without paying its memory cost.",
+  "digivolve_effect": "[When Attacking] You may play 1 white Tamer card with a play cost of 4 or less from your hand without paying its memory cost."
+}

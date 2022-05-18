@@ -1,0 +1,23 @@
+{
+  "number": "BT3-086",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Arukenimon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Dark Animal",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Attacking] You may pay 3 memory to play 1 [MaloMyotismon] from your hand without paying its memory cost. Then, delete this Digimon."
+}

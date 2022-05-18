@@ -1,0 +1,12 @@
+{
+  "number": "ST3-12",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "T.K. Takaishi",
+  "play_cost": "2",
+  "effect": "[Opponent's Turn] All of your Security Digimon get +2000 DP.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

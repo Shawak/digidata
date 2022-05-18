@@ -1,0 +1,23 @@
+{
+  "number": "BT7-061",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Gigasmon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Mineral",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "You may digivolve this card from your hand onto one of your black Tamers as if the Tamer is a level 3 black Digimon. ＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

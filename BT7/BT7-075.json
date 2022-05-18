@@ -1,0 +1,23 @@
+{
+  "number": "BT7-075",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Rhihimon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Warrior",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When one of your Digimon with a Tamer card in its digivolution cards digivolves into this card in your hand, reduce the memory cost of the digivolution by 2. [On Deletion] If a card with [Hybrid] in its traits is in this Digimon's digivolution cards, you may play 1 purple Tamer card from your trash without paying its memory cost."
+}

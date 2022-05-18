@@ -1,0 +1,28 @@
+{
+  "number": "BT8-062",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "SkullKnightmon Cavalier Mode",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Enhancement",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Black"
+    },
+    {
+      "level": "4",
+      "cost": "1",
+      "color": "Black"
+    }
+  ],
+  "effect": "The name of this card/Digimon is also treated as [SkullKnightmon] and [DeadlyAxemon].[When Digivolving] This Digimon gains ＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon) and ＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead) until the end of your opponent's next turn."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-012",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Aquilamon",
+  "form": "Champion",
+  "attribute": "Free",
+  "type": "Giant Bird",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] Delete 1 of your opponent's Digimon with 2000 DP or less."
+}

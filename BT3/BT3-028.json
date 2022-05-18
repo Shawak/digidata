@@ -1,0 +1,22 @@
+{
+  "number": "BT3-028",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Bastemon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Beastkin",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

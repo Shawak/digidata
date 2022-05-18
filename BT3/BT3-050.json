@@ -1,0 +1,23 @@
+{
+  "number": "BT3-050",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Stingmon",
+  "form": "Champion",
+  "attribute": "Free",
+  "type": "Insectoid",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When this Digimon deletes an opponent's Digimon in battle and survives, gain 1 memory."
+}

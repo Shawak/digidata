@@ -1,0 +1,28 @@
+{
+  "number": "BT8-043",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Cherubimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Cherub/Three Great Angels",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    },
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When you would play this card from your hand, you may delete 1 of your purple [Cherubimon] to reduce this card's play cost by 8.[On Play][When Digivolving] For each Tamer you have in play, activate the effect below.・1 of your opponent's Digimon gets ＜Security Attack -2＞ until the end of your opponent's next turn. (This Digimon checks 2 fewer security cards.)"
+}

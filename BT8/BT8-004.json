@@ -1,0 +1,13 @@
+{
+  "number": "BT8-004",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Bibimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Opponent's Turn] While all of your Digimon are suspended, this Digimon gets +1000 DP."
+}

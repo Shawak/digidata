@@ -1,0 +1,23 @@
+{
+  "number": "BT3-064",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "TiaLudomon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Armor/Legend-Arms",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] If this Digimon is level 7, trigger ＜De-Digivolve 1＞ on 1 of your opponent's Digimon. (Trash a card from the top of one of your opponent's Digimon. If it has no digivolution cards, or becomes a level 3 Digimon, you can't trash any more cards.)"
+}

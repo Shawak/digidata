@@ -1,0 +1,24 @@
+{
+  "number": "BT8-054",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Pistmon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Vegetation",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Digisorption -2＞ (When one of your Digimon digivolves into this card from your hand, you may suspend 1 of your Digimon to reduce the memory cost of the digivolution by 2.)",
+  "digivolve_effect": "[All Turns] This Digimon gets +1000 DP for each of your other suspended Digimon."
+}

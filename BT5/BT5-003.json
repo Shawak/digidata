@@ -1,0 +1,13 @@
+{
+  "number": "BT5-003",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Pickmon",
+  "form": "In-Training",
+  "type": "Minor",
+  "digivolve_effect": "[When Attacking] If you have 3 or more Digimon in play, 1 of your opponent's Digimon gets -1000 DP for the turn."
+}

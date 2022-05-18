@@ -1,0 +1,23 @@
+{
+  "number": "ST10-09",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Witchmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Wizard",
+  "dp": "4000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, play this card without paying its memory cost.[On Play] Return 1 purple level 5 or lower Digimon card from your trash to your hand."
+}

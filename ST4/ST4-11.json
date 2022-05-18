@@ -1,0 +1,23 @@
+{
+  "number": "ST4-11",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MegaKabuterimon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When this Digimon deletes an opponent's Digimon in battle and survives, trash the top card of your opponent's security stack."
+}

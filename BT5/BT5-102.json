@@ -1,0 +1,12 @@
+{
+  "number": "BT5-102",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Wisselen",
+  "play_cost": "6",
+  "effect": "[Main] Up to 2 of your opponent's Digimon can't attack or block until the end of your opponent's next turn. Then, if you have a Digimon with ＜Digi-Burst＞ in play, gain 2 memory.",
+  "security_effect": "[Security] Up to 2 of your opponent's Digimon can't attack until the end of the turn. Then, if you have a Digimon with  in play, gain 2 memory."
+}

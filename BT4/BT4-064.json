@@ -1,0 +1,23 @@
+{
+  "number": "BT4-064",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Sunarizamon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Reptile",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] When this card is trashed due to activating this Digimon's ＜Digi-Burst＞, return this card to its owner's hand."
+}

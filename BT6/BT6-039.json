@@ -1,0 +1,23 @@
+{
+  "number": "BT6-039",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Mammothmon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Ancient Animal",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[All Turns] While you have 3 or fewer security cards, this Digimon gets +1000 DP."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT6-080",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Ornismon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Ancient Bird",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)[On Play] Delete 1 of your opponent's level 5 or lower Digimon."
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT3-085",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "SkullMeramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Flame",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ]
+}

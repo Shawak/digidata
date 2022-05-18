@@ -1,0 +1,23 @@
+{
+  "number": "ST9-13",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "GranKuwagamon",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Insectoid",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.) [When Digivolving] This Digimon gets +4000 DP for the turn."
+}

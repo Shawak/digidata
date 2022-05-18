@@ -1,0 +1,23 @@
+{
+  "number": "BT4-011",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Agunimon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Wizard",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 Digimon."
+}

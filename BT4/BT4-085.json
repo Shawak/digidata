@@ -1,0 +1,22 @@
+{
+  "number": "BT4-085",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Phantomon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Ghost",
+  "dp": "10000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": "BT5-077",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Vajramon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Holy Beast/Deva",
+  "dp": "8000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ]
+}

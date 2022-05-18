@@ -1,0 +1,23 @@
+{
+  "number": "BT4-027",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "KendoGarurumon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Cyborg",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "You may Digivolve this card from your hand onto one of your blue Tamers as if the Tamer is a level 3 Digimon.[When Attacking] Return 1 of your opponent's level 3 Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon."
+}

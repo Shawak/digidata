@@ -1,0 +1,13 @@
+{
+  "number": "BT5-002",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Tsunomon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Garurumon] or [Omnimon] in its name, it gets +1000 DP."
+}

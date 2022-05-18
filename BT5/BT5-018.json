@@ -1,0 +1,23 @@
+{
+  "number": "BT5-018",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Dorbickmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dragonkin/Big Death-Stars",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Attacking] You may trash 1 red Digimon card in your hand to add the trashed card's DP to this Digimon for the turn."
+}

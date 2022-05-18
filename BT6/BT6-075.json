@@ -1,0 +1,28 @@
+{
+  "number": "BT6-075",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ginkakumon Promote",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    },
+    {
+      "level": "4",
+      "cost": "1",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Rush＞ (This Digimon can attack the turn it comes into play.)[On Play] You may place 1 [Kinkakumon] and/or 1 [Ginkakumon] from your trash in this card's digivolution cards in any order. If you place 2 cards with this effect, trigger ＜Draw 1＞ (Draw 1 card from your deck) and gain 1 memory."
+}

@@ -1,0 +1,24 @@
+{
+  "number": "BT8-066",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Hisyaryumon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Beast Dragon/X-Antibody",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Your Turn] When one of your effects places a digivolution card under this Digimon, you may digivolve this Digimon into a Digimon card in your hand with [X-Antibody] in its traits by paying its digivolution cost. When this Digimon would digivolve with this effect, reduce the digivolution cost by 1.",
+  "digivolve_effect": "[Opponent's Turn] While this Digimon has [X-Antibody] in its traits, it gains ＜Reboot＞. (Unsuspend this Digimon during your opponent's unsuspend phase.)"
+}

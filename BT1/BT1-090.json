@@ -1,0 +1,10 @@
+{
+  "number": "BT1-090",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Gravity Crush",
+  "effect": "[Main] Gain 2 memory. At end of turn， lose 2 memory."
+}

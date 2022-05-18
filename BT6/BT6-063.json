@@ -1,0 +1,22 @@
+{
+  "number": "BT6-063",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "BigMamemon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Mutant",
+  "dp": "10000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT2-061",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Andromon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks， you may suspend this Digimon to force the opponent to attack it instead.)"
+}

@@ -1,0 +1,24 @@
+{
+  "number": "BT5-068",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "BlackMachGaogamon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)",
+  "digivolve_effect": "[Your Turn] While this Digimon has ＜Reboot＞, it gets +2000 DP."
+}

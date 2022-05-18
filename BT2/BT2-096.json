@@ -1,0 +1,13 @@
+{
+  "number": "BT2-096",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "Ｕ",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "The Ray of Victory",
+  "play_cost": "5",
+  "effect": "[Main] Return 1 of your opponent's level 5 or lower Digimon to their hand. (Trash all of the digivolution cards of that Digimon.) Then, if you have a blue Tamer in play, unsuspend 1 of your Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

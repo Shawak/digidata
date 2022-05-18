@@ -1,0 +1,22 @@
+{
+  "number": "BT7-020",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Shellmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Mollusk",
+  "dp": "6000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

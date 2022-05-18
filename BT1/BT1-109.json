@@ -1,0 +1,11 @@
+{
+  "number": "BT1-109",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Smashed Potatoes",
+  "play_cost": "2",
+  "effect": "[Main] For the turn， the next time you would digivoLv.e one of your green Digimon from level 5 to level 6， decrease the digivolution cost by 4."
+}

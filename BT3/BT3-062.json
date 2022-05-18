@@ -1,0 +1,23 @@
+{
+  "number": "BT3-062",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Ludomon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Armor/Legend-Arms",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 5 cards of your deck. Add 1 [RagnaLoardmon] Digimon card and 1 Digimon card with [Legend-Arms] in its type among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

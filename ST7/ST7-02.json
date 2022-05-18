@@ -1,0 +1,23 @@
+{
+  "number": "ST7-02",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] When this Digimon attacks a player, it gets +2000 DP for the turn."
+}

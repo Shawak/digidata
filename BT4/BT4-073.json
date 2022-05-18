@@ -1,0 +1,23 @@
+{
+  "number": "BT4-073",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "BanchoGolemon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Mineral/Boss",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[Opponent's Turn] While your opponent has 3 or more Digimon in play, this Digimon gets +3000 DP."
+}

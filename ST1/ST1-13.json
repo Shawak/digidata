@@ -1,0 +1,13 @@
+{
+  "number": "ST1-13",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "Shadow Wing",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn.",
+  "security_effect": "[Security] All of your Digimon gain ＜Security Attack +1＞  (This Digimon checks 1 additional security card) until the end of your next turn."
+}

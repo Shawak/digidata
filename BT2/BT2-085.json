@@ -1,0 +1,13 @@
+{
+  "number": "BT2-085",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Joe Kido",
+  "play_cost": "3",
+  "effect": "[Your Turn] When one of your opponent's digivolution cards is trashed， you may suspend this Tamer to gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

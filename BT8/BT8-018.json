@@ -1,0 +1,23 @@
+{
+  "number": "BT8-018",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Marsmon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Shaman/Olympos XII",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon can also attack your opponent's unsuspended Digimon."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "ST8-01",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "DemiVeemon",
+  "form": "In-Training",
+  "type": "Baby Dragon",
+  "digivolve_effect": "[Your Turn] While you have 8 or more cards in your hand, this Digimon gets +1000 DP."
+}

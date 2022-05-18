@@ -1,0 +1,23 @@
+{
+  "number": "BT6-036",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Mimicmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Mutant",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] If you have 3 or fewer security cards, gain 2 memory."
+}

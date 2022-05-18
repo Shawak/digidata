@@ -1,0 +1,23 @@
+{
+  "number": "BT3-057",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MegaGargomon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Machine",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Digivolving] Suspend 1 of your opponent's Digimon. It doesn't unsuspend during your opponent's next unsuspend phase.[Your Turn] While your opponent has a suspended Digimon in play, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT2-102",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Terrors Cluster",
+  "play_cost": "7",
+  "effect": "[Main] Return 1 of your opponent's suspended Digimon to the bottom of their deck. (Trash all of the digivolution cards of that Digimon.)",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

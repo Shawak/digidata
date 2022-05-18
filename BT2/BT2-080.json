@@ -1,0 +1,23 @@
+{
+  "number": "BT2-080",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Piedmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Wizard",
+  "dp": "10000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle， delete the Digimon it was battling.)[On Play] You may play up to 2 level 4 or lower purple Digimon cards from your trash without paying their memory costs. Any [On Play] effects on Digimon played with this effect don't activate."
+}

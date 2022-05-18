@@ -1,0 +1,24 @@
+{
+  "number": "BT6-007",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Reptile",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[All Turns][Once Per Turn] When you play a Tamer with [Tai Kamiya] in its name, gain 1 memory.",
+  "digivolve_effect": "[Your Turn] While this Digimon is [Agumon - Bond of Bravery], it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

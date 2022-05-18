@@ -1,0 +1,23 @@
+{
+  "number": "BT3-051",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Dokugumon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 level 5 and 1 level 6 Digimon card among them to your hand. Trash the remaining cards."
+}

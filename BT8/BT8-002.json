@@ -1,0 +1,13 @@
+{
+  "number": "BT8-002",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Hiyarimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[All Turns] While your opponent has no Digimon with digivolution cards, this Digimon gets +1000 DP."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-030",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Neptunemon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Shaman/Olympos XII",
+  "dp": "10000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Opponent's Turn] This Digimon can't be attacked."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT5-053",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Deramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Avian",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn] For each other suspended Digimon you have in play, this Digimon gets +2000 DP."
+}

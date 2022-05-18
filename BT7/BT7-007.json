@@ -1,0 +1,22 @@
+{
+  "number": "BT7-007",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "ToyAgumon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Puppet",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ]
+}

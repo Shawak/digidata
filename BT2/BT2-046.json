@@ -1,0 +1,23 @@
+{
+  "number": "BT2-046",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalTyrannomon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] When this Digimon deletes one of your opponent's level 6 or higher Digimon in battle， unsuspend this Digimon."
+}

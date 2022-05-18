@@ -1,0 +1,22 @@
+{
+  "number": "ST5-05",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Commandramon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Cyborg/D-Brigade",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ]
+}

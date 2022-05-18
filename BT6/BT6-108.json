@@ -1,0 +1,12 @@
+{
+  "number": "BT6-108",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Underworld's Call",
+  "play_cost": "4",
+  "effect": "When you trash this card in your hand using one of your effects, trigger ＜Draw 1＞. (Draw 1 card from your deck.)[Main] You may play 1 purple level 4 or lower Digimon card from your trash without paying its memory cost.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

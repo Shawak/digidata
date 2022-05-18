@@ -1,0 +1,23 @@
+{
+  "number": "BT5-058",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Argomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Mutant",
+  "dp": "11000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Digisorption -2＞ (When one of your Digimon digivolves into this card from your hand, you may suspend 1 of your Digimon to reduce the memory cost of the digivolution by 2.)[When Digivolving] Suspend all of your opponent's Tamers.[All Turns] Your opponent's Tamers don't unsuspend."
+}

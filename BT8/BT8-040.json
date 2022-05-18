@@ -1,0 +1,23 @@
+{
+  "number": "BT8-040",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Betsumon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Puppet",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Digivolving] You may trash 1 card in your hand to treat this Digimon as also having the colors of the trashed card for the turn. Then, if this Digimon has 2 or more colors, ＜Draw 2＞. (Draw 2 cards from your deck.)"
+}

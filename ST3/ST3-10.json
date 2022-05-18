@@ -1,0 +1,22 @@
+{
+  "number": "ST3-10",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Magnadramon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Dragon/Four Great Dragons",
+  "dp": "12000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ]
+}

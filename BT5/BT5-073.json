@@ -1,0 +1,22 @@
+{
+  "number": "BT5-073",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Pillomon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Mammal",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": "ST8-05",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Veedramon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Mythical Dragon",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] If you have 8 or more cards in your hand, return 1 of your opponent's level 3 Digimon to its owner's hand. Trash all of the digivolution cards of that Digimon."
+}

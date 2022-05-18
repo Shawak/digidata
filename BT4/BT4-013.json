@@ -1,0 +1,23 @@
+{
+  "number": "BT4-013",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "BurningGreymon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Dark Dragon",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "You may Digivolve this card from your hand onto one of your red Tamers as if the Tamer is a level 3 Digimon.[Your Turn] This Digimon gets +3000 DP."
+}

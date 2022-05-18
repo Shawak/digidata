@@ -1,0 +1,23 @@
+{
+  "number": "BT5-061",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Commandramon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Cyborg/D-Brigade",
+  "dp": "2000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

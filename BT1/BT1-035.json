@@ -1,0 +1,23 @@
+{
+  "number": "BT1-035",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Leomon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Deletion] Gain 2 memory."
+}

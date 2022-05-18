@@ -1,0 +1,23 @@
+{
+  "number": "BT6-009",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Huckmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mini Dragon",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 5 cards of your deck. Add up to 2 Digimon cards with [Huckmon], [Jesmon], or [Sistermon] in their names among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

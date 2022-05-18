@@ -1,0 +1,23 @@
+{
+  "number": "BT1-083",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "GranKuwagamon",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Insectoid",
+  "dp": "11000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)[Your Turn] This Digimon gets +4000 DP."
+}

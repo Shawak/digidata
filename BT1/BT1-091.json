@@ -1,0 +1,11 @@
+{
+  "number": "BT1-091",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Scrap Claw",
+  "play_cost": "3",
+  "effect": "[Main] 1 of your Digimon gains ＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would) for the turn."
+}

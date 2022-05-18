@@ -1,0 +1,23 @@
+{
+  "number": "BT5-039",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "ShootingStarmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Super Major",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Deletion] 1 of your opponent's Digimon gets -3000 DP for the turn."
+}

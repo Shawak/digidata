@@ -1,0 +1,12 @@
+{
+  "number": "BT8-093",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Yukio Oikawa",
+  "play_cost": "3",
+  "effect": "[All Turns] When one of your Digimon with [Myotismon] in its name is deleted, you may suspend this Tamer to gain 1 memory.[End of Opponent's Turn] If this Tamer is suspended, you may delete this Tamer to play 1 [MaloMyotismon] from your trash without paying its memory cost.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "ST10-01",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Nyaromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking] If you have a yellow Digimon in play, ＜Draw 1＞. (Draw 1 card from your deck.) If you do, trash 1 card in your hand."
+}

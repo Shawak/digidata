@@ -1,0 +1,22 @@
+{
+  "number": "ST4-09",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Okuwamon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

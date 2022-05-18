@@ -1,0 +1,23 @@
+{
+  "number": "BT7-065",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Dorugoramon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Beast Dragon/X-Antibody",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Your Turn] For each card with [X-Antibody] in its traits in this Digimon's digivolution cards, this Digimon gets +1000 DP. [When Attacking][Once Per Turn] You may place 1 card with [X-Antibody] in its traits from your hand at the bottom of this Digimon's digivolution cards to delete up to 2 of your opponent's Digimon with play costs less than or equal to this Digimon's digivolution cards."
+}

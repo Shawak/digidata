@@ -1,0 +1,11 @@
+{
+  "number": "BT3-109",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Back for Revenge!",
+  "play_cost": "2",
+  "effect": "[Main] 1 of your Digimon gains “[On Deletion] Play this card without paying its memory cost. Any [On Play] effects on Digimon played with this effect don't activate“ for the turn."
+}

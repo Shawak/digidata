@@ -1,0 +1,12 @@
+{
+  "number": "ST1-14",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Starlight Explosion",
+  "play_cost": "2",
+  "effect": "[Main] All of your Security Digimon get +7000 DP until the end of your opponent's next turn.",
+  "security_effect": "[Security] All of your Security Digimon get +7000 DP for the turn."
+}

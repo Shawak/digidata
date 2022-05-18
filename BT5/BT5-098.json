@@ -1,0 +1,12 @@
+{
+  "number": "BT5-098",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Meteor Shower",
+  "play_cost": "3",
+  "effect": "[Main] You may play 1 yellow Digimon card with [Starmon] in its name from your hand without paying its memory cost.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

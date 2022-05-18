@@ -1,0 +1,23 @@
+{
+  "number": "BT5-044",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Sakuyamon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Shaman",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[Opponent's Turn] When an opponent's Digimon moves from the breeding area to the battle area, it gains ＜Security Attack -3＞ (This Digimon checks 3 fewer security cards) for the turn.[Your Turn] All of your opponent's Security Digimon get -3000 DP."
+}

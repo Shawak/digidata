@@ -1,0 +1,23 @@
+{
+  "number": "BT4-089",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Plutomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Shaman",
+  "dp": "12000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] Trigger ＜Draw 2＞. (Draw 2 cards from your deck.) Then, you may use a purple Option card with a memory cost of 6 or less in your hand without paying its memory cost."
+}

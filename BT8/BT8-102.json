@@ -1,0 +1,12 @@
+{
+  "number": "BT8-102",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Samādhi Śānti",
+  "play_cost": "1",
+  "effect": "[Main] You may suspend 1 of your Digimon to suspend 1 of your opponent's Digimon or Tamers. Your opponent's cards suspended with this effect can't unsuspend until the end of their next turn.",
+  "security_effect": "[Security] Suspend 1 of your opponent's Digimon or Tamers."
+}

@@ -1,0 +1,13 @@
+{
+  "number": "BT4-093",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Thomas H. Norstein",
+  "play_cost": "3",
+  "effect": "[On Play] Trigger ＜Draw 1＞. (Draw 1 card from your deck.)[Main] If your opponent has 8 or more cards in their hand, you may suspend this Tamer to unsuspend 1 of your Digimon with [Gao] in its name.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

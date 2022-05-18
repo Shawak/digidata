@@ -1,0 +1,24 @@
+{
+  "number": "ST7-03",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Guilmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Reptile",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn] If your opponent has a level 6 or higher Digimon in play, this Digimon can digivolve into a [Gallantmon] in your hand for a memory cost of 4, ignoring its digivolution requirements.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When an opponent's Digimon is deleted, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

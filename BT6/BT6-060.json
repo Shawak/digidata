@@ -1,0 +1,23 @@
+{
+  "number": "BT6-060",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Deputymon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Mutant",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with [Three Musketeers] in its type and/or 1 Option card with a memory cost of 7 among them to your hand. Trash the remaining cards.[Your Turn] This Digimon can digivolve into a Digimon card with [Three Musketeers] in its type from your hand for a memory cost of 6, ignoring its digivolution requirements."
+}

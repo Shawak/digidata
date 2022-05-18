@@ -1,0 +1,23 @@
+{
+  "number": "BT6-030",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Gabumon - Bond of Friendship",
+  "form": "Mega",
+  "attribute": "Unknown",
+  "type": "Unknown",
+  "dp": "14000",
+  "play_cost": "14",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Attacking][Once Per Turn] If you have a Tamer in play, you may unsuspend this Digimon.[When Attacking] Return 1 of your opponent's level 5 or lower Digimon to the bottom of its owner's deck. Trash all of the digivolution cards of that Digimon."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT3-099",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "We Have to Stop Fighting!",
+  "play_cost": "2",
+  "effect": "[Main] Neither player's Digimon can be deleted in battle for the turn.",
+  "security_effect": "[Security] Add this card to your hand."
+}

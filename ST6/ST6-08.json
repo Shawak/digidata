@@ -1,0 +1,23 @@
+{
+  "number": "ST6-08",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Devimon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "1",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[When Attacking] Lose 2 memory."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT8-107",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Pandemonium Flame",
+  "play_cost": "2",
+  "effect": "[Main] You may delete 1 of your Digimon to delete 1 of your opponent's unsuspended Digimon with a level less than or equal to the deleted Digimon's level.",
+  "security_effect": "[Security] Delete 1 of your opponent's unsuspended Digimon."
+}

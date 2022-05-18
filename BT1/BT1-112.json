@@ -1,0 +1,12 @@
+{
+  "number": "BT1-112",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Dimension Scissor",
+  "play_cost": "3",
+  "effect": "[Main] 1 of your Digimon gains the following effect for the turn: “When this Digimon deletes an opponent's Digimon in battle and survives， unsuspend it.“",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

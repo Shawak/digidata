@@ -1,0 +1,23 @@
+{
+  "number": "BT2-051",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "RustTyrannomon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "11000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn] When you have a green Tamer in play， this Digimon can attack your opponent's unsuspended Digimon.[Your Turn] When this Digimon deletes one of your opponent's Digimon in battle and survives， suspend 1 of your opponent's Digimon."
+}

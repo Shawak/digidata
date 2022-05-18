@@ -1,0 +1,22 @@
+{
+  "number": "BT1-051",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Reppamon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "4000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ]
+}

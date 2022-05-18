@@ -1,0 +1,29 @@
+{
+  "number": "BT8-081",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Rasenmon Fury Mode",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Mysterious Beast",
+  "dp": "13000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Purple"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[End of Attack] You may digivolve this Digimon into a [Rasenmon] in your hand, ignoring its digivolution requirements and without paying its digivolution cost.[End of Your Turn] Trash the top card of your security stack.",
+  "digivolve_effect": "[Your Turn] When this card is trashed as a digivolution card by [Rasenmon]'s effect, unsuspend 1 of your Digimon and it gets +3000 DP for the turn."
+}

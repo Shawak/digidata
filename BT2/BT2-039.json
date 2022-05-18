@@ -1,0 +1,23 @@
+{
+  "number": "BT2-039",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Magnadramon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Holy Dragon/Four Great Dragons",
+  "dp": "10000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] If you have 3 or fewer security cards， trigger ＜Recovery +2 (Deck)＞. (Place the top 2 cards of your deck on top of your security stack.)[When Attacking] You may play 1 yellow level 3 Digimon card from your hand without paying its memory cost."
+}

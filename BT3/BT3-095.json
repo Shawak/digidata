@@ -1,0 +1,12 @@
+{
+  "number": "BT3-095",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Joe Kido",
+  "play_cost": "2",
+  "effect": "[Start of Your Turn] If you have a Digimon with ＜Blocker＞ in play, gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

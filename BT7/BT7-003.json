@@ -1,0 +1,13 @@
+{
+  "number": "BT7-003",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Pusurimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] When this card is trashed due to activating this Digimon's ＜Digi-Burst＞, 1 of your opponent's Digimon gets -1000 DP for the turn."
+}

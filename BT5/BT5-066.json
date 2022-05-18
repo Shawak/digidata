@@ -1,0 +1,22 @@
+{
+  "number": "BT5-066",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "WaruMonzaemon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Puppet",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Black"
+    }
+  ]
+}

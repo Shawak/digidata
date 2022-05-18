@@ -1,0 +1,22 @@
+{
+  "number": "BT3-044",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Aruraumon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Vegetation",
+  "dp": "5000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

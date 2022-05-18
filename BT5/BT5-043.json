@@ -1,0 +1,23 @@
+{
+  "number": "BT5-043",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Jijimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Ancient",
+  "dp": "10000",
+  "play_cost": "10",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Deletion] Trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)"
+}

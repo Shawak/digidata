@@ -1,0 +1,12 @@
+{
+  "number": "BT2-107",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Darkness Claw",
+  "play_cost": "1",
+  "effect": "[Main] 1 of your Digimon gets +3000 DP for the turn.",
+  "security_effect": "[Security] Gain 2 memory."
+}

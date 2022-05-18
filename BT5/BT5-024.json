@@ -1,0 +1,24 @@
+{
+  "number": "BT5-024",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Garurumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beast",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] If this Digimon has [Gabumon] in its digivolution cards, gain 1 memory.",
+  "digivolve_effect": "[All Turns] While this Digimon has [Garurumon] or [Omnimon] in its name, it gets +1000 DP."
+}

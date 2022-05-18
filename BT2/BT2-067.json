@@ -1,0 +1,22 @@
+{
+  "number": "BT2-067",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "DemiDevimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Evil",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ]
+}

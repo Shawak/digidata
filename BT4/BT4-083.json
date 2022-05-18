@@ -1,0 +1,23 @@
+{
+  "number": "BT4-083",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Cerberusmon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Dark Animal",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] Trigger ＜Draw 2＞. (Draw 2 cards from your deck.) Then, trash 1 card in your hand."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT7-041",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Kazuchimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Shaman",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Digivolving] If you have 3 or more security cards, gain 2 memory. If you have 2 or fewer security cards, you may ＜Recovery +1 (Deck)＞ until there are 3 cards in your security stack. (Place the top card of your deck on top of your security stack.) [Your Turn] While you have 3 or more security cards, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

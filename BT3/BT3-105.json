@@ -1,0 +1,12 @@
+{
+  "number": "BT3-105",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Breath of the Gods",
+  "play_cost": "2",
+  "effect": "[Main] 1 of your Digimon gains ＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase) and \"This Digimon can't have its DP reduced or be returned to its owner's hand or deck\" until the end of your opponent's next turn.",
+  "security_effect": "[Security] Your opponent's Digimon can't attack players for the turn."
+}

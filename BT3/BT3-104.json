@@ -1,0 +1,12 @@
+{
+  "number": "BT3-104",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Positron Laser",
+  "play_cost": "6",
+  "effect": "[Main] Up to 2 of your opponent's Digimon can't attack or block until the end of your opponent's next turn. Then, if you have a blue Digimon in play, return 1 of your opponent's suspended Digimon to its owner's hand. (Trash all of its digivolution cards.)",
+  "security_effect": "[Security] Up to 2 of your opponent's Digimon can't attack for the turn. Then, if you have a blue Digimon in play, return 1 of your opponent's suspended Digimon to its owner's hand. (Trash all of its digivolution cards.)"
+}

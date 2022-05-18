@@ -1,0 +1,22 @@
+{
+  "number": "BT5-027",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MarineDevimon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Aquabeast",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

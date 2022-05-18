@@ -1,0 +1,23 @@
+{
+  "number": "BT2-041",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "ShineGreymon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Light Dragon",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Digivolving] Suspend all of your yellow Tamers. For each Tamer you suspend this way, activate the following effect:・1 of your opponent's Digimon gets -4000 DP for the turn.[Your Turn] This Digimon gets +1000 DP for each Tamer you have in play."
+}

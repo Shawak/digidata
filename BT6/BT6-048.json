@@ -1,0 +1,22 @@
+{
+  "number": "BT6-048",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Parasaurmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "5000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT4-057",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "GrapLeomon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "6000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Attacking] Gain 1 memory."
+}

@@ -1,0 +1,11 @@
+{
+  "number": "BT1-106",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Symphony No. 1",
+  "play_cost": "5",
+  "effect": "[Main] 1 of your opponent's Digimon gets -7000 DP for the turn."
+}

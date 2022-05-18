@@ -1,0 +1,23 @@
+{
+  "number": "BT3-023",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Angemon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Angel",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] Trash the bottom digivolution card of 1 of your opponent's Digimon."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT2-109",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Heat Viper",
+  "play_cost": "5",
+  "effect": "[Main] You may delete 1 of your Digimon to delete up to 2 of your opponent's level 4 or lower Digimon.",
+  "security_effect": "[Security] Add this card to your hand."
+}

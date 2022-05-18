@@ -1,0 +1,23 @@
+{
+  "number": "BT2-029",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MegaSeadramon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Sea Animal",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon can't be blocked by your opponent's Digimon with no digivolution cards."
+}

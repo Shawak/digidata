@@ -1,0 +1,13 @@
+{
+  "number": "BT2-007",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Pagumon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking] Trash the top card of your deck."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT1-015",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Greymon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] This Digimon gets +2000 DP."
+}

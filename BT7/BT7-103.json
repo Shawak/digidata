@@ -1,0 +1,12 @@
+{
+  "number": "BT7-103",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Mugen",
+  "play_cost": "4",
+  "effect": "[Main] Suspend 1 of your opponent's Digimon. That Digimon doesn't unsuspend during your opponent's next unsuspend phase.",
+  "security_effect": "[Security] Suspend 1 of your opponent's Digimon."
+}

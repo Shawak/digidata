@@ -1,0 +1,12 @@
+{
+  "number": "ST6-14",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Matt Ishida",
+  "play_cost": "2",
+  "effect": "[Your Turn] When one of your Digimon is deleted, you may suspend this Tamer to gain 1 memory.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

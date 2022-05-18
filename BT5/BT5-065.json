@@ -1,0 +1,23 @@
+{
+  "number": "BT5-065",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Shademon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Unidentified",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, play this card without paying its memory cost.＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[Your Turn] This Digimon can't attack."
+}

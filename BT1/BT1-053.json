@@ -1,0 +1,23 @@
+{
+  "number": "BT1-053",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Darcmon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Angel",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[Your Turn] When you play a level 3 yellow Digimon， if this Digimon is suspended， trigger ＜Draw 1＞ (Draw 1 card from your deck)."
+}

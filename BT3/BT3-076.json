@@ -1,0 +1,22 @@
+{
+  "number": "BT3-076",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Candlemon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Flame",
+  "dp": "3000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ]
+}

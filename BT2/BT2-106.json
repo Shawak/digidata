@@ -1,0 +1,12 @@
+{
+  "number": "BT2-106",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Infinity Cannon",
+  "play_cost": "6",
+  "effect": "[Main] Trigger ＜De-DigivoLv.e 4＞ on 1 of your opponent's Digimon. (Trash up to 4 cards from the top of one of your opponent's Digimon. If it has no digivolution cards， or becomes a level 3 Digimon， you can't trash any more cards.)",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

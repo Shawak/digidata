@@ -1,0 +1,23 @@
+{
+  "number": "BT2-015",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Garudamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Birdkin",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Attacking] When this Digimon attacks a player, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

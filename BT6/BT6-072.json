@@ -1,0 +1,23 @@
+{
+  "number": "BT6-072",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ogremon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Play] You may trash 1 card in your hand to delete 1 of your opponent's level 4 or lower Digimon."
+}

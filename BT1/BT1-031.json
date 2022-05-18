@@ -1,0 +1,23 @@
+{
+  "number": "BT1-031",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Monmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Beast",
+  "dp": "1000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks， you may suspend this Digimon to force the opponent to attack it instead.)"
+}

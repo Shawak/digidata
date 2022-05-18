@@ -1,0 +1,22 @@
+{
+  "number": "ST4-07",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kuwagamon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

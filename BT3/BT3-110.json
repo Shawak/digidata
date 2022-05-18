@@ -1,0 +1,12 @@
+{
+  "number": "BT3-110",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Necrophobia",
+  "play_cost": "5",
+  "effect": "[Main] Play 1 level 5 purple Digimon card from your trash without paying its memory cost. Any [On Play] effects on Digimon played with this effect don't activate.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

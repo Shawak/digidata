@@ -1,0 +1,23 @@
+{
+  "number": "BT7-043",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gotsumon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Rock",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ],
+  "effect": "[On Play] You may reveal 1 green Digimon card from your hand. If you do, place it on top of your deck."
+}

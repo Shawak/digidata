@@ -1,0 +1,13 @@
+{
+  "number": "BT8-005",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Kyokyomon",
+  "form": "In-Training",
+  "type": "Lesser/X-Antibody",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When an effect places a digivolution card under this Digimon, it gets +1000 DP until the end of your opponent's next turn."
+}

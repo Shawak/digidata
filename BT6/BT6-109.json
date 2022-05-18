@@ -1,0 +1,12 @@
+{
+  "number": "BT6-109",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Fly Bullet",
+  "play_cost": "7",
+  "effect": "If you have a Digimon with [Three Musketeers] in its type in play, you may use this Option card without meeting its color requirements.[Main] Delete 1 of your opponent's level 6 or lower Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

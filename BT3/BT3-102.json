@@ -1,0 +1,11 @@
+{
+  "number": "BT3-102",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Code Cracking",
+  "play_cost": "4",
+  "effect": "[Main] Your opponent may trash the top card of their security stack. If they don't, trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)"
+}

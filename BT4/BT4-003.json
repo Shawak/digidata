@@ -1,0 +1,13 @@
+{
+  "number": "BT4-003",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Koromon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If you have 3 or fewer security cards, 1 of your opponent's Digimon gets -1000 DP for the turn."
+}

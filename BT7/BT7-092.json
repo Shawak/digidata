@@ -1,0 +1,12 @@
+{
+  "number": "BT7-092",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Flame Memory Boost！",
+  "play_cost": "3",
+  "effect": "[Main] 1 of your Digimon gains ＜Security Attack +1＞ for the turn. (This Digimon checks 1 additional security card.) Then, place this card in your battle area.  [Main] ＜Delay＞ (Trash this card in your battle area to activate the effect below. You can't activate this effect the turn this card enters play.) ・Gain 2 memory.",
+  "security_effect": "[Security] Place this card in its owner's battle area."
+}

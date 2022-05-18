@@ -1,0 +1,22 @@
+{
+  "number": "BT6-074",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Boogiemon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Wizard",
+  "dp": "7000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT7-010",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Tuskmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] 1 of your Digimon gets +2000 DP for the turn."
+}

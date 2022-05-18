@@ -1,0 +1,23 @@
+{
+  "number": "BT4-078",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Soundbirdmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Avian",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Attacking] You may trash 1 Option card in your hand to gain 1 memory."
+}

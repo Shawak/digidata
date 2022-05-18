@@ -1,0 +1,23 @@
+{
+  "number": "BT5-062",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Mekanorimon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Machine",
+  "dp": "6000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[Your Turn] This Digimon can't attack.[Opponent's Turn] When this Digimon deletes an opponent's Digimon in battle and survives, unsuspend it."
+}

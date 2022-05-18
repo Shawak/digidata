@@ -1,0 +1,13 @@
+{
+  "number": "BT6-001",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "DemiMeramon",
+  "form": "In-Training",
+  "type": "Flame",
+  "digivolve_effect": "[When Attacking] When this Digimon attacks a player, it gets +1000 DP for the turn."
+}

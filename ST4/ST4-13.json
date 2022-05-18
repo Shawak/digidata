@@ -1,0 +1,23 @@
+{
+  "number": "ST4-13",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "HerculesKabuterimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)[Main] ＜Digi-Burst 2＞ (Trash 2 of this Digimon's Digivolution cards to activate the effect below.)・Suspend 1 of your opponent's Digimon."
+}

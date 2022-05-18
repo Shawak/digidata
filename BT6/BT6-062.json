@@ -1,0 +1,23 @@
+{
+  "number": "BT6-062",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Volcanomon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[Your Turn] While your opponent has an unsuspended Digimon in play, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT1-011",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Agumon Expert",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Dinosaur",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] Return 1 Digimon card with [Agumon] in its name from your recycle bin to your hand."
+}

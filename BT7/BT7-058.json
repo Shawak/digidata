@@ -1,0 +1,24 @@
+{
+  "number": "BT7-058",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "SkullKnightmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Undead",
+  "dp": "3000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "[When Attacking] You may trash all of the digivolution cards of 1 of your [DeadlyAxemon] and place it at the bottom of this Digimon's digivolution cards to digivolve this Digimon into a [DarkKnightmon] in your hand without paying its memory cost.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Knightmon] or [Bagramon] in its name, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

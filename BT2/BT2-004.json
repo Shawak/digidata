@@ -1,0 +1,13 @@
+{
+  "number": "BT2-004",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Argomon",
+  "form": "In-Training",
+  "type": "Mutant",
+  "digivolve_effect": "[Your Turn] When this Digimon becomes unsuspended during your unsuspend phase, gain 1 memory."
+}

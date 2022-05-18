@@ -1,0 +1,23 @@
+{
+  "number": "ST7-05",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Growlmon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Dark Dragon",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When an opponent's Digimon is deleted, gain 1 memory."
+}

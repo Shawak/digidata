@@ -1,0 +1,29 @@
+{
+  "number": "ST9-05",
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Paildramon",
+  "form": "Ultimate",
+  "attribute": "Free",
+  "type": "Dragonkin",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Blue"
+    },
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜DNA Digivolution: 0 from blue Lv.4 + green Lv.4＞ Digivolve unsuspended with the 2 specified Digimon stacked on top of each other.[When Digivolving] When DNA digivolving, return 1 of your opponent's Digimon with 6000 DP or less to the bottom of its owner's deck.[When Attacking][Once Per Turn] Unsuspend this Digimon."
+}

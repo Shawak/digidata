@@ -1,0 +1,30 @@
+{
+  "number": "BT8-042",
+  "colors": [
+    "Yellow",
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Shakkoumon",
+  "form": "Ultimate",
+  "attribute": "Free",
+  "type": "Mutant",
+  "dp": "8000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Yellow"
+    },
+    {
+      "level": "4",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] If you have 5 or fewer security cards, ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.) Then, when DNA digivolving, return 1 of your opponent's Digimon whose level is less than or equal to the number of cards in your security stack to its owner's hand.",
+  "digivolve_effect": "[When Attacking] 1 of your opponent's Digimon gets -3000 DP for the turn."
+}

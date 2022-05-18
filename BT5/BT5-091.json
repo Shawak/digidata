@@ -1,0 +1,13 @@
+{
+  "number": "BT5-091",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Takumi Aiba",
+  "play_cost": "2",
+  "effect": "[Your Turn] When one of your Digimon digivolves, you may suspend this Tamer to trigger ＜Draw 1＞. (Draw 1 card from your deck.)[All Turns] All level 3 Digimon gain \"[When Attacking] Lose 1 memory.\"",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

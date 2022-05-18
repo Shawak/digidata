@@ -1,0 +1,22 @@
+{
+  "number": "BT3-060",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Psychemon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Reptile",
+  "dp": "5000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Black"
+    }
+  ]
+}

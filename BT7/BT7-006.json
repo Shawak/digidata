@@ -1,0 +1,13 @@
+{
+  "number": "BT7-006",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Kokomon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[When Attacking] You may reveal the top 3 cards of your deck. Trash 1 Tamer card among them. Place the remaining cards at the bottom of your deck in any order."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "BT7-110",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "level": "Alternative Art",
+  "name": "Evolution Ancient",
+  "effect": "If you have a Digimon with [Hybrid] in its traits in play, you may use this Option card without meeting its color requirements.  [Main] Your level 4 Digimon can digivolve into 1 Digimon card in your hand with matching colors and [Ten Warriors] in its traits for its digivolution cost, ignoring its level.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

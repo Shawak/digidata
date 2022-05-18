@@ -1,0 +1,12 @@
+{
+  "number": "BT6-101",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Wyvern's Breath",
+  "play_cost": "8",
+  "effect": "[Main] 1 of your opponent's Digimon gets -15000 DP for the turn.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-071",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MetalMamemon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)[When Digivolving] Return 1 level 7 Digimon card with [Virus] in its attribute from your trash to your hand."
+}

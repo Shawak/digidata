@@ -1,0 +1,23 @@
+{
+  "number": "ST8-03",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Dracomon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Dragon",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 Digimon card with [Dramon] in its name among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

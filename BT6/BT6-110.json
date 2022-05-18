@@ -1,0 +1,12 @@
+{
+  "number": "BT6-110",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Cutting Edge",
+  "play_cost": "6",
+  "effect": "[Main] You may play 1 level 5 or lower [Eosmon] from your hand without paying its memory cost. Then, delete 1 of your opponent's Digimon with DP less than or equal to the Digimon played with this effect.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

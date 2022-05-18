@@ -1,0 +1,12 @@
+{
+  "number": "BT2-097",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Lightning Paw",
+  "play_cost": "3",
+  "effect": "[Main]  3 of your opponent’s level 3 Digimon get-4000 DP for the turn.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

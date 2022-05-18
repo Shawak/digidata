@@ -1,0 +1,24 @@
+{
+  "number": "BT8-008",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gammamon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Ceratopsian",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[Your Turn][Once Per Turn] When you play a red Tamer, ＜Draw 1＞. (Draw 1 card from your deck.)",
+  "digivolve_effect": "[When Attacking] If this Digimon has 6000 DP or more, delete 1 of your opponent's Digimon with 3000 DP or less."
+}

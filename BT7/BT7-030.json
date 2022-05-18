@@ -1,0 +1,23 @@
+{
+  "number": "BT7-030",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "AncientMegatheriummon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Ancient Animal/Ten Warriors",
+  "dp": "13000",
+  "play_cost": "13",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "5",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] For each card with [Hybrid] in its traits in this Digimon's digivolution cards, trash 1 digivolution card from the bottom of each of your opponent's Digimon. Then, for each Digimon your opponent has with no digivolution cards, ＜Draw 2＞. (Draw 2 cards from your deck.) [On Deletion] You may play 1 blue level 4 or lower card with [Hybrid] in its traits from your hand without paying its memory cost."
+}

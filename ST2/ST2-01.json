@@ -1,0 +1,13 @@
+{
+  "number": "ST2-01",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Tsunomon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] This Digimon gets +1000 DP when battling an opponent's Digimon that has no digivolution cards."
+}

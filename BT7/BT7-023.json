@@ -1,0 +1,28 @@
+{
+  "number": "BT7-023",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Korikakumon",
+  "form": "Hybrid",
+  "attribute": "Variable",
+  "type": "Beast",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "3",
+      "color": "Blue"
+    },
+    {
+      "level": "4",
+      "cost": "1",
+      "color": "Blue"
+    }
+  ],
+  "effect": "You may digivolve this card from your hand onto one of your blue Tamers as if the Tamer is a level 3 blue Digimon for a memory cost of 2. [When Digivolving] If a card with [Hybrid] in its traits or [Tommy Himi] is in this Digimon's digivolution cards, 1 of your opponent's Digimon with no digivolution cards can't attack or block until the end of their next turn."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "BT3-081",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Devidramon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Evil Dragon",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[On Deletion] Gain 1 memory."
+}

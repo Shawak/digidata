@@ -1,0 +1,22 @@
+{
+  "number": "BT1-038",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Monzaemon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Puppet",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ]
+}

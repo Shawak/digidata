@@ -1,0 +1,22 @@
+{
+  "number": "BT4-069",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Blimpmon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Machine",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ]
+}

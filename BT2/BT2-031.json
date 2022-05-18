@@ -1,0 +1,23 @@
+{
+  "number": "BT2-031",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Vikemon",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Beastkin",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Your Turn] While your opponent has a Digimon with no digivolution cards in play, this Digimon gets +1000 DP and ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

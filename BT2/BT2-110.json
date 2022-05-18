@@ -1,0 +1,12 @@
+{
+  "number": "BT2-110",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Trump Sword",
+  "play_cost": "7",
+  "effect": "[Main] Delete 1 of your opponent's unsuspended Digimon.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

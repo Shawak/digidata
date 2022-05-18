@@ -1,0 +1,13 @@
+{
+  "number": "BT6-005",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Pagumon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[On Deletion] Reveal the top card of your deck. Add it to your hand if it's a black Digimon card. Otherwise, place it at the bottom of your deck."
+}

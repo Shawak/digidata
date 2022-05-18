@@ -1,0 +1,12 @@
+{
+  "number": "BT6-105",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Gewalt Schwärmer",
+  "play_cost": "7",
+  "effect": "If you have a Digimon with [Three Musketeers] in its type in play, you may use this Option card without meeting its color requirements.[Main] Delete all Digimon with play costs of 7 or less.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

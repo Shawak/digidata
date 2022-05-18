@@ -1,0 +1,23 @@
+{
+  "number": "BT5-072",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Fake Agumon Expert",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Dinosaur",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[On Deletion] You may return 1 level 3 Digimon card with an [On Deletion] effect other than [Fake Agumon Expert] from your trash to your hand."
+}

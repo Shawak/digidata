@@ -1,0 +1,13 @@
+{
+  "number": "BT5-090",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "level": "Alternative Art",
+  "name": "Arata Sanada",
+  "play_cost": "3",
+  "effect": "[Start of Your Turn] If a Digimon card with [Unidentified] in its type is in your trash, gain 1 memory.[Your Turn] When one of your Digimon digivolves into [Diaboromon], you may suspend this Tamer to play 1 [Diaboromon] Token without paying its memory cost. (Diaboromon Tokens are level 6 white Digimon with a memory cost of 14, 3000 DP, and are Mega form, Unidentified type, and Unknown attribute.)",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

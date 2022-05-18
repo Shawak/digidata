@@ -1,0 +1,13 @@
+{
+  "number": "ST4-01",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Motimon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While this Digimon is level 6 or higher, it gets +1000 DP."
+}

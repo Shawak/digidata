@@ -1,0 +1,22 @@
+{
+  "number": "BT4-050",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Liollmon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "5000",
+  "play_cost": "2",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "2",
+      "color": "Green"
+    }
+  ]
+}

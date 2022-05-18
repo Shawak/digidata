@@ -1,0 +1,23 @@
+{
+  "number": "BT1-029",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Gabumon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Reptile",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] Trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

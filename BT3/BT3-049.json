@@ -1,0 +1,23 @@
+{
+  "number": "BT3-049",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Flymon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, play this card without paying its memory cost."
+}

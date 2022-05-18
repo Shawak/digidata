@@ -1,0 +1,13 @@
+{
+  "number": "BT6-006",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Tsunomon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you trash a card in your hand using one of your effects, trigger ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

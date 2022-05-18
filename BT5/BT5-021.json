@@ -1,0 +1,23 @@
+{
+  "number": "BT5-021",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Syakomon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Crustacean",
+  "dp": "3000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Opponent's Turn] Your opponent can't reduce digivolution costs."
+}

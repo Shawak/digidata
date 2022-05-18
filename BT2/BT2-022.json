@@ -1,0 +1,22 @@
+{
+  "number": "BT2-022",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Betamon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Amphibian",
+  "dp": "5000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "1",
+      "color": "Blue"
+    }
+  ]
+}

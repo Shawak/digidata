@@ -1,0 +1,12 @@
+{
+  "number": "BT4-112",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Hell’s Gate",
+  "play_cost": "6",
+  "effect": "[Main] Delete 1 of your opponent's level 6 or higher Digimon.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}
