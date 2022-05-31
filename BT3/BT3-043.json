@@ -19,5 +19,5 @@
       "color": "Yellow"
     }
   ],
-  "effect": "[When DigivoLv.ing] Up to 5 of your opponent's Digimon gain ＜Security Attack -2＞ (This Digimon checks 2 fewer security cards) until the end of your opponent's next turn.[On Deletion] 1 of your opponent's Digimon gets -11000 DP for the turn."
+  "effect": "[When Digivolving] Up to 5 of your opponent's Digimon gain ＜Security Attack -2＞ (This Digimon checks 2 fewer security cards) until the end of your opponent's next turn.[On Deletion] 1 of your opponent's Digimon gets -11000 DP for the turn."
 }

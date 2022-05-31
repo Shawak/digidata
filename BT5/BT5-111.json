@@ -16,12 +16,12 @@
     {
       "level": "6",
       "cost": "6",
-      "color": "White"
+      "color": "Red"
     },
     {
       "level": "6",
       "cost": "6",
-      "color": "White"
+      "color": "Blue"
     }
   ],
   "effect": "Your Digimon with [Omnimon] in its name can digivolve into this card in your hand for a memory cost of 3, ignoring this card's digivolution requirements.[When Attacking] Delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP.[Opponent's Turn] When your opponent's Digimon attacks, you may trash 2 of this Digimon's digivolution cards to end the attack."

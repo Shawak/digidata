@@ -19,6 +19,6 @@
       "color": "Red"
     }
   ],
-  "effect": "[When DigivoLv.ing] If you have a red Tamer in play， delete 1 of your opponent's Digimon with 3000 DP or less.",
+  "effect": "[When Digivolving] If you have a red Tamer in play， delete 1 of your opponent's Digimon with 3000 DP or less.",
   "digivolve_effect": "[Your Turn] While there are 5 or more cards in your opponent's trash， this Digimon gets +1000 DP."
 }

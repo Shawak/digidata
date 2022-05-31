@@ -24,5 +24,5 @@
       "color": "Blue"
     }
   ],
-  "effect": "[When DigivoLv.ing] Choose 1 of your opponent's Digimon. Delete all of your opponent's Digimon that share a name with it.[When Attacking] You can unsuspend this Digimon by returning 1 of this Digimon's level 6 digivolution cards to your hand."
+  "effect": "[When Digivolving] Choose 1 of your opponent's Digimon. Delete all of your opponent's Digimon that share a name with it.[When Attacking] You can unsuspend this Digimon by returning 1 of this Digimon's level 6 digivolution cards to your hand."
 }

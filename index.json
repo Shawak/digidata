@@ -2218,7 +2218,8 @@
   "BT5-009": {
     "json": "BT5/BT5-009.json",
     "arts": [
-      "BT5/BT5-009.png"
+      "BT5/BT5-009.png",
+      "BT5/BT5-009_P1.png"
     ]
   },
   "BT5-010": {
@@ -2944,7 +2945,8 @@
     "json": "BT4/BT4-011.json",
     "arts": [
       "BT4/BT4-011.png",
-      "BT4/BT4-011_P1.png"
+      "BT4/BT4-011_P1.png",
+      "BT4/BT4-011_P2.png"
     ]
   },
   "BT4-012": {
@@ -3807,7 +3809,8 @@
   "BT2-033": {
     "json": "BT2/BT2-033.json",
     "arts": [
-      "BT2/BT2-033.png"
+      "BT2/BT2-033.png",
+      "BT2/BT2-033_P1.png"
     ]
   },
   "BT2-034": {
@@ -4133,7 +4136,8 @@
   "BT3-047": {
     "json": "BT3/BT3-047.json",
     "arts": [
-      "BT3/BT3-047.png"
+      "BT3/BT3-047.png",
+      "BT3/BT3-047_P1.png"
     ]
   },
   "BT3-048": {
@@ -6086,7 +6090,8 @@
   "ST7-03": {
     "json": "ST7/ST7-03.json",
     "arts": [
-      "ST7/ST7-03.png"
+      "ST7/ST7-03.png",
+      "ST7/ST7-03_P1.png"
     ]
   },
   "ST7-04": {

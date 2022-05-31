@@ -19,6 +19,6 @@
       "color": "Purple"
     }
   ],
-  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)",
-  "digivolve_effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)"
+  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle， delete the Digimon it was battling.)",
+  "digivolve_effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle， delete the Digimon it was battling.)"
 }

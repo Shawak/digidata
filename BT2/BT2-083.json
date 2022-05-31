@@ -21,8 +21,8 @@
     {
       "level": "6",
       "cost": "6",
-      "color": "Black"
+      "color": "Purple"
     }
   ],
-  "effect": "[When Digivolving] Return 1 of your opponent's Digimon to the bottom of their deck. Trash all of the digivolution cards of that Digimon.[On Deletion] If this card had digivolution cards, you may play this card from your trash without paying its memory cost."
+  "effect": "[When Digivolving] Return 1 of your opponent's Digimon to the bottom of their deck. (Trash all of the digivolution cards of that Digimon.)[On Deletion] If this card had digivolution cards， you may play this card from your trash without paying its memory cost."
 }

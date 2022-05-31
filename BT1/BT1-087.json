@@ -5,7 +5,6 @@
   ],
   "rarity": "R",
   "card_type": "Tamer",
-  "level": "Alternative Art",
   "name": "T.K. Takaishi",
   "play_cost": "4",
   "effect": "[Start of Your Turn] If you have 2 or less memory， set your memory to 3.[On Play] Look at your security stack， then reveal 1 card in it and add it to your hand. If that card is yellow， trigger ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.) Then shuffle your security stack.",

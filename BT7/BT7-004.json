@@ -9,5 +9,5 @@
   "name": "Koromon",
   "form": "In-Training",
   "type": "Lesser",
-  "effect": "[When Attacking] Reveal the top card of your deck, and place it at the top or bottom of your deck."
+  "digivolve_effect": "[When Attacking] Reveal the top card of your deck, and place it at the top or bottom of your deck."
 }

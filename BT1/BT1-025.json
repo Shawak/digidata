@@ -19,5 +19,5 @@
       "color": "Red"
     }
   ],
-  "effect": "[When DigivoLv.ing] This Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn. [Your Turn] This Digimon doesn't activate [Security] skills on Option cards it checks."
+  "effect": "[When Digivolving] This Digimon gains ＜Security Attack +1＞ (This Digimon checks 1 additional security card) for the turn. [Your Turn] This Digimon doesn't activate [Security] skills on Option cards it checks."
 }
