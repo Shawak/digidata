@@ -1,0 +1,28 @@
+{
+  "number": "EX1-022",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Imperialdramon Dragon Mode",
+  "form": "Mega",
+  "attribute": "Free",
+  "type": "Ancient Dragon",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Digivolving] If a Digimon card with [Free] in its traits is in this Digimon's digivolution cards, unsuspend this Digimon and suspend 1 of your opponent's Digimon. [Your Turn] For each color in this Digimon's digivolution cards, it gets +1000 DP."
+}

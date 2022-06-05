@@ -1,0 +1,23 @@
+{
+  "number": "EX1-045",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Hagurumon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Machine",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] You may trash 1 Digimon card with [Machine] or [Cyborg] in its traits in your hand to ＜Draw 2＞. (Draw 2 cards from your deck.)"
+}

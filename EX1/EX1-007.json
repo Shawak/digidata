@@ -1,0 +1,29 @@
+{
+  "number": "EX1-007",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Megadramon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    },
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[On Play] Delete up to 2 of your opponent's Digimon with 3000 DP or less.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Machine] in its traits, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+}

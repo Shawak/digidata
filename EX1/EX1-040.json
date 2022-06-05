@@ -1,0 +1,24 @@
+{
+  "number": "EX1-040",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MegaKabuterimon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Attacking] This Digimon can digivolve into a Digimon card with [Insectoid] or [Ancient Insect] in its traits in your hand for its digivolution cost.",
+  "digivolve_effect": "[Your Turn] When this Digimon deletes an opponent's Digimon in battle and survives, gain 1 memory."
+}

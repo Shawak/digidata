@@ -1,0 +1,23 @@
+{
+  "number": "EX1-043",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "HerculesKabuterimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn][Once Per Turn] When one of your Digimon with [Insectoid] or [Ancient Insect] in its traits deletes an opponent's Digimon in battle and survives, you may unsuspend this Digimon. [Your Turn] For each Digimon card with [Insectoid] in its traits in this Digimon's digivolution cards, it gets +1000 DP."
+}

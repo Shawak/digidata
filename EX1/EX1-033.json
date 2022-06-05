@@ -1,0 +1,23 @@
+{
+  "number": "EX1-033",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Tentomon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Insectoid",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ],
+  "digivolve_effect": "[When Attacking] The next time one of your Digimon digivolves into a Digimon card with [Insectoid] or [Ancient Insect] in its traits this turn, reduce the memory cost of the digivolution by 1."
+}

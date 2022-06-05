@@ -1,0 +1,23 @@
+{
+  "number": "EX1-042",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Rosemon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Fairy",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon gets +1000 DP for each of your opponent's suspended Digimon. [When Attacking] Suspend 1 of your opponent's Digimon."
+}

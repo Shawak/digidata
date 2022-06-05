@@ -1444,6 +1444,483 @@
       "BT7/BT7-091_P1.png"
     ]
   },
+  "EX1-001": {
+    "json": "EX1/EX1-001.json",
+    "arts": [
+      "EX1/EX1-001.png",
+      "EX1/EX1-001_P1.png"
+    ]
+  },
+  "EX1-002": {
+    "json": "EX1/EX1-002.json",
+    "arts": [
+      "EX1/EX1-002.png",
+      "EX1/EX1-002_P1.png"
+    ]
+  },
+  "EX1-003": {
+    "json": "EX1/EX1-003.json",
+    "arts": [
+      "EX1/EX1-003.png"
+    ]
+  },
+  "EX1-004": {
+    "json": "EX1/EX1-004.json",
+    "arts": [
+      "EX1/EX1-004.png",
+      "EX1/EX1-004_P1.png"
+    ]
+  },
+  "EX1-005": {
+    "json": "EX1/EX1-005.json",
+    "arts": [
+      "EX1/EX1-005.png",
+      "EX1/EX1-005_P1.png"
+    ]
+  },
+  "EX1-006": {
+    "json": "EX1/EX1-006.json",
+    "arts": [
+      "EX1/EX1-006.png",
+      "EX1/EX1-006_P1.png"
+    ]
+  },
+  "EX1-007": {
+    "json": "EX1/EX1-007.json",
+    "arts": [
+      "EX1/EX1-007.png",
+      "EX1/EX1-007_P1.png",
+      "EX1/EX1-007_P2.png",
+      "EX1/EX1-007_P3.png"
+    ]
+  },
+  "EX1-008": {
+    "json": "EX1/EX1-008.json",
+    "arts": [
+      "EX1/EX1-008.png",
+      "EX1/EX1-008_P1.png"
+    ]
+  },
+  "EX1-009": {
+    "json": "EX1/EX1-009.json",
+    "arts": [
+      "EX1/EX1-009.png",
+      "EX1/EX1-009_P1.png"
+    ]
+  },
+  "EX1-010": {
+    "json": "EX1/EX1-010.json",
+    "arts": [
+      "EX1/EX1-010.png"
+    ]
+  },
+  "EX1-011": {
+    "json": "EX1/EX1-011.json",
+    "arts": [
+      "EX1/EX1-011.png",
+      "EX1/EX1-011_P1.png"
+    ]
+  },
+  "EX1-012": {
+    "json": "EX1/EX1-012.json",
+    "arts": [
+      "EX1/EX1-012.png",
+      "EX1/EX1-012_P1.png"
+    ]
+  },
+  "EX1-013": {
+    "json": "EX1/EX1-013.json",
+    "arts": [
+      "EX1/EX1-013.png",
+      "EX1/EX1-013_P1.png"
+    ]
+  },
+  "EX1-014": {
+    "json": "EX1/EX1-014.json",
+    "arts": [
+      "EX1/EX1-014.png",
+      "EX1/EX1-014_P1.png"
+    ]
+  },
+  "EX1-015": {
+    "json": "EX1/EX1-015.json",
+    "arts": [
+      "EX1/EX1-015.png",
+      "EX1/EX1-015_P1.png"
+    ]
+  },
+  "EX1-016": {
+    "json": "EX1/EX1-016.json",
+    "arts": [
+      "EX1/EX1-016.png"
+    ]
+  },
+  "EX1-017": {
+    "json": "EX1/EX1-017.json",
+    "arts": [
+      "EX1/EX1-017.png",
+      "EX1/EX1-017_P1.png"
+    ]
+  },
+  "EX1-018": {
+    "json": "EX1/EX1-018.json",
+    "arts": [
+      "EX1/EX1-018.png",
+      "EX1/EX1-018_P1.png"
+    ]
+  },
+  "EX1-019": {
+    "json": "EX1/EX1-019.json",
+    "arts": [
+      "EX1/EX1-019.png",
+      "EX1/EX1-019_P1.png"
+    ]
+  },
+  "EX1-020": {
+    "json": "EX1/EX1-020.json",
+    "arts": [
+      "EX1/EX1-020.png"
+    ]
+  },
+  "EX1-021": {
+    "json": "EX1/EX1-021.json",
+    "arts": [
+      "EX1/EX1-021.png",
+      "EX1/EX1-021_P1.png"
+    ]
+  },
+  "EX1-022": {
+    "json": "EX1/EX1-022.json",
+    "arts": [
+      "EX1/EX1-022.png",
+      "EX1/EX1-022_P1.png"
+    ]
+  },
+  "EX1-023": {
+    "json": "EX1/EX1-023.json",
+    "arts": [
+      "EX1/EX1-023.png"
+    ]
+  },
+  "EX1-024": {
+    "json": "EX1/EX1-024.json",
+    "arts": [
+      "EX1/EX1-024.png",
+      "EX1/EX1-024_P1.png"
+    ]
+  },
+  "EX1-025": {
+    "json": "EX1/EX1-025.json",
+    "arts": [
+      "EX1/EX1-025.png"
+    ]
+  },
+  "EX1-026": {
+    "json": "EX1/EX1-026.json",
+    "arts": [
+      "EX1/EX1-026.png",
+      "EX1/EX1-026_P1.png"
+    ]
+  },
+  "EX1-027": {
+    "json": "EX1/EX1-027.json",
+    "arts": [
+      "EX1/EX1-027.png"
+    ]
+  },
+  "EX1-028": {
+    "json": "EX1/EX1-028.json",
+    "arts": [
+      "EX1/EX1-028.png"
+    ]
+  },
+  "EX1-029": {
+    "json": "EX1/EX1-029.json",
+    "arts": [
+      "EX1/EX1-029.png",
+      "EX1/EX1-029_P1.png"
+    ]
+  },
+  "EX1-030": {
+    "json": "EX1/EX1-030.json",
+    "arts": [
+      "EX1/EX1-030.png",
+      "EX1/EX1-030_P1.png"
+    ]
+  },
+  "EX1-031": {
+    "json": "EX1/EX1-031.json",
+    "arts": [
+      "EX1/EX1-031.png"
+    ]
+  },
+  "EX1-032": {
+    "json": "EX1/EX1-032.json",
+    "arts": [
+      "EX1/EX1-032.png"
+    ]
+  },
+  "EX1-033": {
+    "json": "EX1/EX1-033.json",
+    "arts": [
+      "EX1/EX1-033.png",
+      "EX1/EX1-033_P1.png"
+    ]
+  },
+  "EX1-034": {
+    "json": "EX1/EX1-034.json",
+    "arts": [
+      "EX1/EX1-034.png",
+      "EX1/EX1-034_P1.png"
+    ]
+  },
+  "EX1-035": {
+    "json": "EX1/EX1-035.json",
+    "arts": [
+      "EX1/EX1-035.png"
+    ]
+  },
+  "EX1-036": {
+    "json": "EX1/EX1-036.json",
+    "arts": [
+      "EX1/EX1-036.png"
+    ]
+  },
+  "EX1-037": {
+    "json": "EX1/EX1-037.json",
+    "arts": [
+      "EX1/EX1-037.png",
+      "EX1/EX1-037_P1.png"
+    ]
+  },
+  "EX1-038": {
+    "json": "EX1/EX1-038.json",
+    "arts": [
+      "EX1/EX1-038.png"
+    ]
+  },
+  "EX1-039": {
+    "json": "EX1/EX1-039.json",
+    "arts": [
+      "EX1/EX1-039.png",
+      "EX1/EX1-039_P1.png"
+    ]
+  },
+  "EX1-040": {
+    "json": "EX1/EX1-040.json",
+    "arts": [
+      "EX1/EX1-040.png",
+      "EX1/EX1-040_P1.png"
+    ]
+  },
+  "EX1-041": {
+    "json": "EX1/EX1-041.json",
+    "arts": [
+      "EX1/EX1-041.png"
+    ]
+  },
+  "EX1-042": {
+    "json": "EX1/EX1-042.json",
+    "arts": [
+      "EX1/EX1-042.png"
+    ]
+  },
+  "EX1-043": {
+    "json": "EX1/EX1-043.json",
+    "arts": [
+      "EX1/EX1-043.png",
+      "EX1/EX1-043_P1.png"
+    ]
+  },
+  "EX1-044": {
+    "json": "EX1/EX1-044.json",
+    "arts": [
+      "EX1/EX1-044.png"
+    ]
+  },
+  "EX1-045": {
+    "json": "EX1/EX1-045.json",
+    "arts": [
+      "EX1/EX1-045.png"
+    ]
+  },
+  "EX1-046": {
+    "json": "EX1/EX1-046.json",
+    "arts": [
+      "EX1/EX1-046.png"
+    ]
+  },
+  "EX1-047": {
+    "json": "EX1/EX1-047.json",
+    "arts": [
+      "EX1/EX1-047.png"
+    ]
+  },
+  "EX1-048": {
+    "json": "EX1/EX1-048.json",
+    "arts": [
+      "EX1/EX1-048.png",
+      "EX1/EX1-048_P1.png",
+      "EX1/EX1-048_P2.png",
+      "EX1/EX1-048_P3.png"
+    ]
+  },
+  "EX1-049": {
+    "json": "EX1/EX1-049.json",
+    "arts": [
+      "EX1/EX1-049.png"
+    ]
+  },
+  "EX1-050": {
+    "json": "EX1/EX1-050.json",
+    "arts": [
+      "EX1/EX1-050.png"
+    ]
+  },
+  "EX1-051": {
+    "json": "EX1/EX1-051.json",
+    "arts": [
+      "EX1/EX1-051.png"
+    ]
+  },
+  "EX1-052": {
+    "json": "EX1/EX1-052.json",
+    "arts": [
+      "EX1/EX1-052.png"
+    ]
+  },
+  "EX1-053": {
+    "json": "EX1/EX1-053.json",
+    "arts": [
+      "EX1/EX1-053.png"
+    ]
+  },
+  "EX1-054": {
+    "json": "EX1/EX1-054.json",
+    "arts": [
+      "EX1/EX1-054.png"
+    ]
+  },
+  "EX1-055": {
+    "json": "EX1/EX1-055.json",
+    "arts": [
+      "EX1/EX1-055.png"
+    ]
+  },
+  "EX1-056": {
+    "json": "EX1/EX1-056.json",
+    "arts": [
+      "EX1/EX1-056.png"
+    ]
+  },
+  "EX1-057": {
+    "json": "EX1/EX1-057.json",
+    "arts": [
+      "EX1/EX1-057.png"
+    ]
+  },
+  "EX1-058": {
+    "json": "EX1/EX1-058.json",
+    "arts": [
+      "EX1/EX1-058.png"
+    ]
+  },
+  "EX1-059": {
+    "json": "EX1/EX1-059.json",
+    "arts": [
+      "EX1/EX1-059.png",
+      "EX1/EX1-059_P1.png"
+    ]
+  },
+  "EX1-060": {
+    "json": "EX1/EX1-060.json",
+    "arts": [
+      "EX1/EX1-060.png"
+    ]
+  },
+  "EX1-061": {
+    "json": "EX1/EX1-061.json",
+    "arts": [
+      "EX1/EX1-061.png"
+    ]
+  },
+  "EX1-062": {
+    "json": "EX1/EX1-062.json",
+    "arts": [
+      "EX1/EX1-062.png"
+    ]
+  },
+  "EX1-063": {
+    "json": "EX1/EX1-063.json",
+    "arts": [
+      "EX1/EX1-063.png",
+      "EX1/EX1-063_P1.png"
+    ]
+  },
+  "EX1-064": {
+    "json": "EX1/EX1-064.json",
+    "arts": [
+      "EX1/EX1-064.png"
+    ]
+  },
+  "EX1-065": {
+    "json": "EX1/EX1-065.json",
+    "arts": [
+      "EX1/EX1-065.png",
+      "EX1/EX1-065_P1.png"
+    ]
+  },
+  "EX1-067": {
+    "json": "EX1/EX1-067.json",
+    "arts": [
+      "EX1/EX1-067.png"
+    ]
+  },
+  "EX1-068": {
+    "json": "EX1/EX1-068.json",
+    "arts": [
+      "EX1/EX1-068.png"
+    ]
+  },
+  "EX1-073": {
+    "json": "EX1/EX1-073.json",
+    "arts": [
+      "EX1/EX1-073.png",
+      "EX1/EX1-073_P1.png"
+    ]
+  },
+  "EX1-069": {
+    "json": "EX1/EX1-069.json",
+    "arts": [
+      "EX1/EX1-069.png"
+    ]
+  },
+  "EX1-070": {
+    "json": "EX1/EX1-070.json",
+    "arts": [
+      "EX1/EX1-070.png"
+    ]
+  },
+  "EX1-066": {
+    "json": "EX1/EX1-066.json",
+    "arts": [
+      "EX1/EX1-066.png",
+      "EX1/EX1-066_P1.png"
+    ]
+  },
+  "EX1-071": {
+    "json": "EX1/EX1-071.json",
+    "arts": [
+      "EX1/EX1-071.png",
+      "EX1/EX1-071_P1.png"
+    ]
+  },
+  "EX1-072": {
+    "json": "EX1/EX1-072.json",
+    "arts": [
+      "EX1/EX1-072.png"
+    ]
+  },
   "BT6-001": {
     "json": "BT6/BT6-001.json",
     "arts": [
@@ -1971,7 +2448,8 @@
   "BT6-083": {
     "json": "BT6/BT6-083.json",
     "arts": [
-      "BT6/BT6-083.png"
+      "BT6/BT6-083.png",
+      "BT6/BT6-083_P1.png"
     ]
   },
   "BT6-084": {
@@ -2378,7 +2856,8 @@
   "BT5-034": {
     "json": "BT5/BT5-034.json",
     "arts": [
-      "BT5/BT5-034.png"
+      "BT5/BT5-034.png",
+      "BT5/BT5-034_P1.png"
     ]
   },
   "BT5-035": {
@@ -4183,7 +4662,8 @@
   "BT3-054": {
     "json": "BT3/BT3-054.json",
     "arts": [
-      "BT3/BT3-054.png"
+      "BT3/BT3-054.png",
+      "BT3/BT3-054_P1.png"
     ]
   },
   "BT3-055": {

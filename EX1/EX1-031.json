@@ -1,0 +1,23 @@
+{
+  "number": "EX1-031",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Seraphimon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Seraph/Three Great Angels",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Digivolving] ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)[Opponent's Turn] While this Digimon is suspended, all of your Security Digimon get +5000 DP."
+}

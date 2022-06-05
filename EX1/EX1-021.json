@@ -1,0 +1,23 @@
+{
+  "number": "EX1-021",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MetalGarurumon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Cyborg",
+  "dp": "12000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Digivolving] Gain 1 memory for every 4 cards in your hand. [When Attacking] If you have 8 or more cards in your hand and a Tamer in play, return 1 of your opponent's Digimon with an [On Deletion] effect to the bottom of its owner's deck. Trash all of the digivolution cards of that Digimon."
+}

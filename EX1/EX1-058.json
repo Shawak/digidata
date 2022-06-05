@@ -1,0 +1,23 @@
+{
+  "number": "EX1-058",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Devimon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[On Deletion] Return 1 purple level 4 or lower Digimon card from your trash to your hand."
+}

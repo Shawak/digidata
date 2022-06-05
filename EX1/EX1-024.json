@@ -1,0 +1,23 @@
+{
+  "number": "EX1-024",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Patamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 4 cards of your deck. Add 1 Digimon card with [Angel], [Archangel], or [Three Great Angels] in its traits among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

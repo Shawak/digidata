@@ -1,0 +1,23 @@
+{
+  "number": "EX1-063",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "VenomMyotismon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dark Animal",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)[When Attacking][Once Per Turn] You may play 1 purple level 4 or lower Digimon card with ＜Retaliation＞ from your trash without paying its memory cost. Any [On Play] effects on Digimon played with this effect don't activate."
+}

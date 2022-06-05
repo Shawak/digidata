@@ -1,0 +1,23 @@
+{
+  "number": "EX1-020",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Plesiomon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Plesiosaur",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Your Turn][Once Per Turn] When one of your opponent's digivolution cards is trashed, ＜Draw 2＞. (Draw 2 cards from your deck.) [Your Turn] This Digimon can also attack your opponent's unsuspended Digimon with no digivolution cards."
+}

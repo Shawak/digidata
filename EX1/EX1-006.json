@@ -1,0 +1,23 @@
+{
+  "number": "EX1-006",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Garudamon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Birdkin",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] When this Digimon attacks a player, gain 1 memory."
+}

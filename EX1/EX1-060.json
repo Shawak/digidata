@@ -1,0 +1,24 @@
+{
+  "number": "EX1-060",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "LadyDevimon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] You may trash the top 3 cards of your deck.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you play a Digimon from your trash, gain 1 memory."
+}

@@ -1,0 +1,29 @@
+{
+  "number": "EX1-019",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Paildramon",
+  "form": "Ultimate",
+  "attribute": "Free",
+  "type": "Dragonkin",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Blue"
+    },
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Green"
+    }
+  ],
+  "effect": "[When Digivolving] If a Digimon card with [Free] in its traits is in this Digimon's digivolution cards, unsuspend this Digimon.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Imperialdramon] in its name, it can't be blocked."
+}

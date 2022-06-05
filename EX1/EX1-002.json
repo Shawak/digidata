@@ -1,0 +1,23 @@
+{
+  "number": "EX1-002",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Biyomon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Bird",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] When this Digimon attacks a player, ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

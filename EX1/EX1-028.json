@@ -1,0 +1,23 @@
+{
+  "number": "EX1-028",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Angemon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Angel",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] If you have 3 or more security cards, this Digimon gets +1000 DP until the end of your opponent's next turn."
+}

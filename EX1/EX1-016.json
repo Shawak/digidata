@@ -1,0 +1,23 @@
+{
+  "number": "EX1-016",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ikkakumon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Sea Beast",
+  "dp": "6000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon can also attack your opponent's unsuspended Digimon with no digivolution cards."
+}

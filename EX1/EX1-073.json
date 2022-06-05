@@ -1,0 +1,28 @@
+{
+  "number": "EX1-073",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Machinedramon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Machine",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    },
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] You may place up to 5 level 5 red and/or black cards with [Cyborg] in their traits and different card numbers from your hand and/or trash in this Digimon's digivolution cards to gain 1 memory for each card placed."
+}

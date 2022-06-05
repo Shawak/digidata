@@ -1,0 +1,24 @@
+{
+  "number": "EX1-047",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Guardromon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Machine",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[Your Turn] This Digimon can't attack.",
+  "digivolve_effect": "[When Attacking] You may trash 1 Digimon card with [Machine] or [Cyborg] in its traits in your hand to ＜Draw 2＞. (Draw 2 cards from your deck.)"
+}

@@ -1,0 +1,24 @@
+{
+  "number": "EX1-029",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "MagnaAngemon",
+  "form": "Ultimate",
+  "attribute": "Vaccine",
+  "type": "Archangel",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[When Attacking] If you have 3 or more security cards, this Digimon gets +4000 DP until the end of your opponent's next turn.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When a card is added to your security stack, gain 1 memory."
+}

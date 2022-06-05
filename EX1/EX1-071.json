@@ -1,0 +1,12 @@
+{
+  "number": "EX1-071",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Win Rate: 60%!",
+  "play_cost": "2",
+  "effect": "If you have a Tamer in play, you may use this Option card without meeting its color requirements.[Main] The next time one of your Digimon digivolves this turn, you may trash 1 Digimon card in your hand of the same color as the digivolving Digimon to reduce the memory cost of the digivolution by 4.",
+  "security_effect": "[Security] Add this card to its owner's hand."
+}

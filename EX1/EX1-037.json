@@ -1,0 +1,24 @@
+{
+  "number": "EX1-037",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kuwagamon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Insectoid",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Start of Your Turn] Suspend 1 of your opponent's Digimon with 3000 DP or less.",
+  "digivolve_effect": "[Your Turn] When this Digimon deletes one of your opponent's Digimon in battle and survives, 1 of your opponent's suspended Digimon doesn't unsuspend during their next unsuspend phase."
+}

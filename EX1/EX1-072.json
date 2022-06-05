@@ -1,0 +1,12 @@
+{
+  "number": "EX1-072",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Emergency Program Shutdown!",
+  "play_cost": "3",
+  "effect": "[Main] Your opponent can't use Option cards until the end of their next turn.",
+  "security_effect": "[Security] Your opponent can't use Option cards this turn. Then, add this card to its owner's hand."
+}

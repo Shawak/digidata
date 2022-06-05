@@ -1,0 +1,12 @@
+{
+  "number": "EX1-067",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Baptism by Fire!",
+  "play_cost": "3",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with 6000 DP or less and ＜Blocker＞.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

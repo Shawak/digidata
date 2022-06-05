@@ -1,0 +1,23 @@
+{
+  "number": "EX1-053",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MetalEtemon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "10000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Opponent's Turn] For each Digimon card with [Etemon] in its name in your trash, this Digimon gets +1000 DP. [On Deletion] ＜De-Digivolve 1＞ 1 of your opponent's Digimon. (Trash 1 card from the top of one of your opponent's Digimon. If it has no digivolution cards, or becomes a level 3 Digimon, you can't trash any more cards.)"
+}

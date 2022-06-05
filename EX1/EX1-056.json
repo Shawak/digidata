@@ -1,0 +1,23 @@
+{
+  "number": "EX1-056",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "DemiDevimon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Evil",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "effect": "＜Retaliation＞ (When this Digimon is deleted after losing a battle, delete the Digimon it was battling.)[Your Turn] While you don't have a Digimon with [Myotismon] in its name in play, this Digimon can't attack your opponent's Digimon."
+}

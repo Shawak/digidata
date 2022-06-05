@@ -1,0 +1,24 @@
+{
+  "number": "EX1-051",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Infermon",
+  "form": "Ultimate",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Opponent's Turn][Once Per Turn] When an opponent's Digimon digivolves into a level 5 or higher Digimon, gain 1 memory.",
+  "digivolve_effect": "[All Turns] All of your other Digimon with the same name as this Digimon get +2000 DP."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "EX1-068",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Ice Wall!",
+  "play_cost": "1",
+  "effect": "[Main] All of your opponent's Digimon gain \"[When Attacking] Lose 2 memory\" until the end of their next turn.",
+  "security_effect": "[Security] Gain 2 memory."
+}

@@ -1,0 +1,24 @@
+{
+  "number": "EX1-059",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Ogremon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Demon",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Attacking] You may trash 1 card in your hand to have this Digimon gain ＜Security Attack +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "digivolve_effect": "[When Attacking] You may trash 1 card in your hand to have this Digimon get +2000 DP for the turn."
+}

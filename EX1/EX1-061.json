@@ -1,0 +1,24 @@
+{
+  "number": "EX1-061",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Myotismon",
+  "form": "Ultimate",
+  "attribute": "Virus",
+  "type": "Undead",
+  "dp": "7000",
+  "play_cost": "8",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[Your Turn] When this Digimon digivolves into a Digimon card with [Myotismon] in its name in your hand, reduce the memory cost of the digivolution by 1.",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Myotismon] in its name, all of your Digimon with ＜Retaliation＞ can also attack your opponent's unsuspended level 4 or lower Digimon."
+}

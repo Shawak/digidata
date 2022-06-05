@@ -1,0 +1,23 @@
+{
+  "number": "EX1-025",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Salamon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Mammal",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] If you have 3 or more security cards, ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

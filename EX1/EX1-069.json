@@ -1,0 +1,12 @@
+{
+  "number": "EX1-069",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Ultimate Connection!",
+  "play_cost": "1",
+  "effect": "[Main] You may trash 1 level 5 Digimon card with [Cyborg] in its traits in your hand to gain 2 memory and ＜Draw 1＞. (Draw 1 card from your deck.)",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

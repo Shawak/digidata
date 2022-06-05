@@ -1,0 +1,23 @@
+{
+  "number": "EX1-027",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Leomon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "5000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, if you have 3 or fewer security cards, ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)"
+}

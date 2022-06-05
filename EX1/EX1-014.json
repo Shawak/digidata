@@ -1,0 +1,29 @@
+{
+  "number": "EX1-014",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "ExVeemon",
+  "form": "Champion",
+  "attribute": "Free",
+  "type": "Mythical Dragon",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    },
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    }
+  ],
+  "effect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Imperialdramon] in its name or [Free] in its traits, it gains ＜Jamming＞."
+}

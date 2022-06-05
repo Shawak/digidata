@@ -1,0 +1,23 @@
+{
+  "number": "EX1-065",
+  "colors": [
+    "White"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Diaboromon",
+  "form": "Mega",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Security] At the end of the battle, you may play 1 [Diaboromon] Token without paying its memory cost. (Diaboromon Tokens are level 6 white Digimon with a memory cost of 14, 3000 DP, and Mega/Unknown/Unidentified traits.)[Opponent's Turn] All of your [Diaboromon] gain ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

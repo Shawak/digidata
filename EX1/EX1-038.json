@@ -1,0 +1,29 @@
+{
+  "number": "EX1-038",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Stingmon",
+  "form": "Champion",
+  "attribute": "Free",
+  "type": "Insectoid",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Green"
+    },
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜Piercing＞ (When this Digimon attacks and deletes an opponent's Digimon and survives the battle, it performs any security checks it normally would.)",
+  "digivolve_effect": "[Your Turn] While this Digimon has [Imperialdramon] in its name or [Free] in its traits, it gains ＜Piercing＞."
+}

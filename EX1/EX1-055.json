@@ -1,0 +1,23 @@
+{
+  "number": "EX1-055",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Tapirmon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Purple"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When one of your other Digimon is deleted, ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

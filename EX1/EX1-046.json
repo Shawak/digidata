@@ -1,0 +1,23 @@
+{
+  "number": "EX1-046",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Kurisarimon",
+  "form": "Champion",
+  "attribute": "Unknown",
+  "type": "Unidentified",
+  "dp": "5000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Black"
+    }
+  ],
+  "digivolve_effect": "[Your Turn][Once Per Turn] When one of your other Digimon with the same name as this Digimon is deleted, unsuspend this Digimon."
+}
