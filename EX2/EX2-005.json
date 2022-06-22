@@ -1,0 +1,13 @@
+{
+  "number": "EX2-005",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Hopmon",
+  "form": "In-Training",
+  "type": "Baby Dragon",
+  "digivolve_effect": "[Your Turn] While you have a black Tamer in play, this Digimon gets +1000 DP."
+}

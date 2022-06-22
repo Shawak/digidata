@@ -1,0 +1,23 @@
+{
+  "number": "EX2-017",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Leomon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Beastkin",
+  "dp": "4000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[Opponent's Turn] While you have a Tamer in play, this Digimon gains ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)[On Deletion] Gain 2 memory and ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

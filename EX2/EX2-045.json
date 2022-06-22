@@ -1,0 +1,16 @@
+{
+  "number": "EX2-045",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "Calumon",
+  "form": "Unknown",
+  "attribute": "Unknown",
+  "type": "Unknown",
+  "dp": "1000",
+  "play_cost": "3",
+  "effect": "When you would play this card from your hand, reduce its play cost by 2 if you have [Guilmon], [Terriermon], [Renamon], or [Impmon] in play.[Your Turn] This Digimon can't attack.[Your Turn] When one of your Digimon digivolves, you may suspend this Digimon to gain 1 memory, ＜Draw 1＞ (Draw 1 card from your deck), and have 1 of your Digimon get +3000 DP for the turn."
+}

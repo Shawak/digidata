@@ -8,6 +8,6 @@
   "card_type": "Option",
   "name": "Flame Hellscythe",
   "play_cost": "6",
-  "effect": "[Main] 1 of your opponent's Digimon gets -6000 DP for the turn. Then, play 1 purple or yellow Digimon card with 6000 DP or less from your trash without paying its memory cost.",
+  "effect": "[Main] 1 of your opponent's Digimon gets -6000 DP for the turn. Then, you may play 1 purple or yellow Digimon card with 6000 DP or less from your trash without paying its memory cost.",
   "security_effect": "[Security] Activate this card's [Main] effect."
 }

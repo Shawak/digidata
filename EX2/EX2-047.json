@@ -1,0 +1,15 @@
+{
+  "number": "EX2-047",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-03 Pendulum Feet",
+  "form": "D-Reaper",
+  "type": "AA Defense Agent",
+  "dp": "3000",
+  "play_cost": "3",
+  "effect": "[On Play] Reveal the top 3 cards of your deck. Add 1 card with [D-Reaper] in its traits and 1 [ADR-02 Searcher] among them to your hand. Place the remaining cards at the bottom of your deck in any order."
+}

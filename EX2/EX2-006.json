@@ -1,0 +1,13 @@
+{
+  "number": "EX2-006",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Yaamon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn] While there are 10 or more cards in your trash, this Digimon gets +2000 DP."
+}

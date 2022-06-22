@@ -1,0 +1,15 @@
+{
+  "number": "EX2-049",
+  "colors": [
+    "White"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-01 Jeri",
+  "form": "D-Reaper",
+  "type": "Espionage Agent",
+  "dp": "5000",
+  "play_cost": "5",
+  "effect": "[Main] You may suspend this Digimon to reveal the top 5 cards of your deck. Place 1 [ADR-02 Searcher] among them under 1 of your [Mother D-Reaper]s as its bottom digivolution card. Place the remaining cards at the bottom of your deck in any order."
+}

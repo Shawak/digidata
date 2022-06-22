@@ -1,0 +1,12 @@
+{
+  "number": "EX2-064",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Tamer",
+  "name": "Alice McCoy",
+  "play_cost": "2",
+  "effect": "[Your Turn][Once Per Turn] When one of your Digimon would digivolve from level 5 to level 6, you may delete 1 of your Digimon to reduce the digivolution cost by 3.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

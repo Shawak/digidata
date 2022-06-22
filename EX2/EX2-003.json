@@ -1,0 +1,13 @@
+{
+  "number": "EX2-003",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Viximon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you use an Option card with a cost of 2 or more, ＜Draw 1＞. (Draw 1 card from your deck.)"
+}

@@ -1,0 +1,12 @@
+{
+  "number": "EX2-063",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Tamer",
+  "name": "Kazu Shioda",
+  "play_cost": "3",
+  "effect": "[Start of Your Main Phase] If you have a Digimon with [Cyborg] or [Machine] in its traits in play, gain 1 memory.[All Turns] When one of your Digimon with [Cyborg] or [Machine] in its traits becomes suspended, you may suspend this Tamer to ＜Draw 1＞. (Draw 1 card from your deck.) Then, trash 1 card in your hand.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

@@ -1,0 +1,24 @@
+{
+  "number": "EX2-008",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Guilmon",
+  "form": "Rookie",
+  "attribute": "Virus",
+  "type": "Reptile",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Red"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 4 cards of your deck. Add 1 card with [Growlmon] or [Gallantmon] in its name and 1 [Takato Matsuki] among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "digivolve_effect": "[When Attacking][Once Per Turn] If this Digimon has [Growlmon] or [Gallantmon] in its name, delete 1 of your opponent's Digimon with 3000 DP or less."
+}

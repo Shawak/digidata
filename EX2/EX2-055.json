@@ -1,0 +1,15 @@
+{
+  "number": "EX2-055",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "Reaper",
+  "form": "D-Reaper",
+  "type": "Ability Synthesis Agent",
+  "dp": "15000",
+  "play_cost": "20",
+  "effect": "When you would play this Digimon, you may trash 7 or more digivolution cards from the bottom of 1 of your [Mother D-Reaper]s to set this Digimon's play cost to 0.＜Rush＞ (This Digimon can attack the turn it comes into play.) [When Attacking] You may place 2 [ADR-02 Searcher]s from your trash under this Digimon in any order as its bottom digivolution cards to unsuspend this Digimon."
+}

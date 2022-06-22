@@ -1,0 +1,15 @@
+{
+  "number": "EX2-051",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-07 Palates Head",
+  "form": "D-Reaper",
+  "type": "Reconnaissance Agent",
+  "dp": "3000",
+  "play_cost": "6",
+  "effect": "[Main] If you have a [Mother D-Reaper] in play, you may suspend this Digimon to delete 1 of your opponent's Digimon with DP less than or equal to this Digimon's DP."
+}

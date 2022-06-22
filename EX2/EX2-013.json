@@ -1,0 +1,23 @@
+{
+  "number": "EX2-013",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Labramon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Beast",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Blue"
+    }
+  ],
+  "digivolve_effect": "[When Attacking][Once Per Turn] If this Digimon has ＜Jamming＞, gain 1 memory."
+}

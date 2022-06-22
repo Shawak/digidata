@@ -1,0 +1,23 @@
+{
+  "number": "EX2-033",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Locomon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Machine",
+  "dp": "7000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Your Turn] When this Digimon would digivolve into a [GroundLocomon] in your hand, reduce the digivolution cost by 1."
+}

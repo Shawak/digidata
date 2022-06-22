@@ -1,0 +1,23 @@
+{
+  "number": "EX2-020",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Lopmon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Beast",
+  "dp": "2000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] If you have 3 or fewer security cards and [Shu-Chong Wong] in play, ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.)"
+}

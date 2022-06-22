@@ -1,0 +1,23 @@
+{
+  "number": "EX2-073",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "SEC",
+  "card_type": "Digimon",
+  "level": "7",
+  "name": "Gallantmon Crimson Mode",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Holy Warrior",
+  "dp": "15000",
+  "play_cost": "15",
+  "digivolves": [
+    {
+      "level": "6",
+      "cost": "6",
+      "color": "Red"
+    }
+  ],
+  "effect": "[When Digivolving] Delete all of your opponent's Digimon with the highest DP.[When Attacking] Trash the top card of your opponent's security stack. Add 1 to the number of cards trashed by this effect for every 10 cards in your opponent's trash."
+}

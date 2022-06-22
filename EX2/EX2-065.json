@@ -1,0 +1,12 @@
+{
+  "number": "EX2-065",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Ai & Mako",
+  "play_cost": "4",
+  "effect": "[Start of Your Turn] If you have 2 memory or less, set your memory to 3.[Your Turn] When you attack with a Digimon, you may suspend this Tamer to trash the top card of your deck. Then, if the attacking Digimon is [Beelzemon], you may digivolve it into a [Beelzemon Blast Mode] in your trash for a digivolution cost of 3.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

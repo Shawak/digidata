@@ -1,0 +1,13 @@
+{
+  "number": "EX2-002",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "U",
+  "card_type": "Digi-Egg",
+  "level": "2",
+  "name": "Xiaomon",
+  "form": "In-Training",
+  "type": "Lesser",
+  "digivolve_effect": "[All Turns] While this Digimon is level 4, it gets +1000 DP."
+}

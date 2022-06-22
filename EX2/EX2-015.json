@@ -1,0 +1,23 @@
+{
+  "number": "EX2-015",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Seasarmon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Holy Beast",
+  "dp": "6000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon.)"
+}

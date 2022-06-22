@@ -1,0 +1,24 @@
+{
+  "number": "EX2-019",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Renamon",
+  "form": "Rookie",
+  "attribute": "Data",
+  "type": "Beastkin",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] Reveal the top 4 cards of your deck. Add 1 card with [Kyubimon], [Taomon], or [Sakuyamon] in its name and 1 [Rika Nonaka] among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When you use an Option card with a cost of 2 or more, gain 1 memory."
+}

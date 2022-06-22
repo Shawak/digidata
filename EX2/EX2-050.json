@@ -1,0 +1,15 @@
+{
+  "number": "EX2-050",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-05 Creep Hands",
+  "form": "D-Reaper",
+  "type": "Grappling Agent",
+  "dp": "6000",
+  "play_cost": "5",
+  "effect": "[Opponent's Turn] While you have a [Mother D-Reaper] in play, this Digimon gains ＜Blocker＞. (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)"
+}

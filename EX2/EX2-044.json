@@ -1,0 +1,23 @@
+{
+  "number": "EX2-044",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Beelzemon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Demon Lord/Seven Great Demon Lords",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When this card is trashed from your deck, you may play 1 [Impmon] from your trash without paying its memory cost.[When Digivolving][When Attacking] You may trash the top 2 cards of your deck. Then, delete 1 of your opponent's level 3 or lower Digimon. For every 10 cards in your trash, add 1 to the maximum level of the Digimon you can choose with this effect."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "EX2-066",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Offensive Plug-In A",
+  "play_cost": "2",
+  "effect": "While you have a Tamer in play, you may use this card without meeting its color requirements.[Main] 1 of your Digimon gains ＜Security Attack +1＞ for the turn. (This Digimon checks 1 additional security card.)",
+  "security_effect": "[Security] Reveal the top 3 cards of your deck. Add 1 Tamer card among them to your hand. Place the remaining cards at the bottom of your deck in any order. Then, add this card to your hand."
+}

@@ -1,0 +1,23 @@
+{
+  "number": "EX2-043",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "SR",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Gulfmon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Dark Animal",
+  "dp": "12000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Purple"
+    }
+  ],
+  "effect": "[When Digivolving] All players trash cards in their hand until they have 5 cards left.[Your Turn][Once Per Turn] When one of your effects trashes a card in your hand, you may unsuspend 1 of your Digimon."
+}

@@ -1,0 +1,15 @@
+{
+  "number": "EX2-048",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-04 Bubbles",
+  "form": "D-Reaper",
+  "type": "Ground Combat Agent",
+  "dp": "3000",
+  "play_cost": "3",
+  "effect": "[Security] You may place 1 of your [ADR-02 Searcher]s from in play or from your hand under 1 of your [Mother D-Reaper]s as its bottom digivolution card.[On Play] You may place 1 of your [ADR-02 Searcher]s from in play or from your hand under 1 of your [Mother D-Reaper]s as its bottom digivolution card."
+}

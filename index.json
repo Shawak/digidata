@@ -1,4 +1,448 @@
 {
+  "EX2-001": {
+    "json": "EX2/EX2-001.json",
+    "arts": [
+      "EX2/EX2-001.png"
+    ]
+  },
+  "EX2-002": {
+    "json": "EX2/EX2-002.json",
+    "arts": [
+      "EX2/EX2-002.png"
+    ]
+  },
+  "EX2-003": {
+    "json": "EX2/EX2-003.json",
+    "arts": [
+      "EX2/EX2-003.png"
+    ]
+  },
+  "EX2-004": {
+    "json": "EX2/EX2-004.json",
+    "arts": [
+      "EX2/EX2-004.png"
+    ]
+  },
+  "EX2-005": {
+    "json": "EX2/EX2-005.json",
+    "arts": [
+      "EX2/EX2-005.png"
+    ]
+  },
+  "EX2-006": {
+    "json": "EX2/EX2-006.json",
+    "arts": [
+      "EX2/EX2-006.png"
+    ]
+  },
+  "EX2-007": {
+    "json": "EX2/EX2-007.json",
+    "arts": [
+      "EX2/EX2-007.png"
+    ]
+  },
+  "EX2-008": {
+    "json": "EX2/EX2-008.json",
+    "arts": [
+      "EX2/EX2-008.png"
+    ]
+  },
+  "EX2-009": {
+    "json": "EX2/EX2-009.json",
+    "arts": [
+      "EX2/EX2-009.png"
+    ]
+  },
+  "EX2-010": {
+    "json": "EX2/EX2-010.json",
+    "arts": [
+      "EX2/EX2-010.png"
+    ]
+  },
+  "EX2-011": {
+    "json": "EX2/EX2-011.json",
+    "arts": [
+      "EX2/EX2-011.png"
+    ]
+  },
+  "EX2-012": {
+    "json": "EX2/EX2-012.json",
+    "arts": [
+      "EX2/EX2-012.png"
+    ]
+  },
+  "EX2-013": {
+    "json": "EX2/EX2-013.json",
+    "arts": [
+      "EX2/EX2-013.png"
+    ]
+  },
+  "EX2-014": {
+    "json": "EX2/EX2-014.json",
+    "arts": [
+      "EX2/EX2-014.png"
+    ]
+  },
+  "EX2-015": {
+    "json": "EX2/EX2-015.json",
+    "arts": [
+      "EX2/EX2-015.png"
+    ]
+  },
+  "EX2-016": {
+    "json": "EX2/EX2-016.json",
+    "arts": [
+      "EX2/EX2-016.png"
+    ]
+  },
+  "EX2-017": {
+    "json": "EX2/EX2-017.json",
+    "arts": [
+      "EX2/EX2-017.png"
+    ]
+  },
+  "EX2-018": {
+    "json": "EX2/EX2-018.json",
+    "arts": [
+      "EX2/EX2-018.png"
+    ]
+  },
+  "EX2-019": {
+    "json": "EX2/EX2-019.json",
+    "arts": [
+      "EX2/EX2-019.png"
+    ]
+  },
+  "EX2-020": {
+    "json": "EX2/EX2-020.json",
+    "arts": [
+      "EX2/EX2-020.png"
+    ]
+  },
+  "EX2-021": {
+    "json": "EX2/EX2-021.json",
+    "arts": [
+      "EX2/EX2-021.png"
+    ]
+  },
+  "EX2-022": {
+    "json": "EX2/EX2-022.json",
+    "arts": [
+      "EX2/EX2-022.png"
+    ]
+  },
+  "EX2-023": {
+    "json": "EX2/EX2-023.json",
+    "arts": [
+      "EX2/EX2-023.png"
+    ]
+  },
+  "EX2-024": {
+    "json": "EX2/EX2-024.json",
+    "arts": [
+      "EX2/EX2-024.png"
+    ]
+  },
+  "EX2-025": {
+    "json": "EX2/EX2-025.json",
+    "arts": [
+      "EX2/EX2-025.png"
+    ]
+  },
+  "EX2-026": {
+    "json": "EX2/EX2-026.json",
+    "arts": [
+      "EX2/EX2-026.png"
+    ]
+  },
+  "EX2-027": {
+    "json": "EX2/EX2-027.json",
+    "arts": [
+      "EX2/EX2-027.png"
+    ]
+  },
+  "EX2-028": {
+    "json": "EX2/EX2-028.json",
+    "arts": [
+      "EX2/EX2-028.png"
+    ]
+  },
+  "EX2-029": {
+    "json": "EX2/EX2-029.json",
+    "arts": [
+      "EX2/EX2-029.png"
+    ]
+  },
+  "EX2-030": {
+    "json": "EX2/EX2-030.json",
+    "arts": [
+      "EX2/EX2-030.png"
+    ]
+  },
+  "EX2-031": {
+    "json": "EX2/EX2-031.json",
+    "arts": [
+      "EX2/EX2-031.png"
+    ]
+  },
+  "EX2-032": {
+    "json": "EX2/EX2-032.json",
+    "arts": [
+      "EX2/EX2-032.png"
+    ]
+  },
+  "EX2-033": {
+    "json": "EX2/EX2-033.json",
+    "arts": [
+      "EX2/EX2-033.png"
+    ]
+  },
+  "EX2-034": {
+    "json": "EX2/EX2-034.json",
+    "arts": [
+      "EX2/EX2-034.png"
+    ]
+  },
+  "EX2-035": {
+    "json": "EX2/EX2-035.json",
+    "arts": [
+      "EX2/EX2-035.png"
+    ]
+  },
+  "EX2-036": {
+    "json": "EX2/EX2-036.json",
+    "arts": [
+      "EX2/EX2-036.png"
+    ]
+  },
+  "EX2-037": {
+    "json": "EX2/EX2-037.json",
+    "arts": [
+      "EX2/EX2-037.png"
+    ]
+  },
+  "EX2-038": {
+    "json": "EX2/EX2-038.json",
+    "arts": [
+      "EX2/EX2-038.png"
+    ]
+  },
+  "EX2-039": {
+    "json": "EX2/EX2-039.json",
+    "arts": [
+      "EX2/EX2-039.png"
+    ]
+  },
+  "EX2-040": {
+    "json": "EX2/EX2-040.json",
+    "arts": [
+      "EX2/EX2-040.png"
+    ]
+  },
+  "EX2-041": {
+    "json": "EX2/EX2-041.json",
+    "arts": [
+      "EX2/EX2-041.png"
+    ]
+  },
+  "EX2-042": {
+    "json": "EX2/EX2-042.json",
+    "arts": [
+      "EX2/EX2-042.png"
+    ]
+  },
+  "EX2-043": {
+    "json": "EX2/EX2-043.json",
+    "arts": [
+      "EX2/EX2-043.png"
+    ]
+  },
+  "EX2-044": {
+    "json": "EX2/EX2-044.json",
+    "arts": [
+      "EX2/EX2-044.png"
+    ]
+  },
+  "EX2-045": {
+    "json": "EX2/EX2-045.json",
+    "arts": [
+      "EX2/EX2-045.png"
+    ]
+  },
+  "EX2-046": {
+    "json": "EX2/EX2-046.json",
+    "arts": [
+      "EX2/EX2-046.png"
+    ]
+  },
+  "EX2-047": {
+    "json": "EX2/EX2-047.json",
+    "arts": [
+      "EX2/EX2-047.png"
+    ]
+  },
+  "EX2-048": {
+    "json": "EX2/EX2-048.json",
+    "arts": [
+      "EX2/EX2-048.png"
+    ]
+  },
+  "EX2-049": {
+    "json": "EX2/EX2-049.json",
+    "arts": [
+      "EX2/EX2-049.png"
+    ]
+  },
+  "EX2-050": {
+    "json": "EX2/EX2-050.json",
+    "arts": [
+      "EX2/EX2-050.png"
+    ]
+  },
+  "EX2-051": {
+    "json": "EX2/EX2-051.json",
+    "arts": [
+      "EX2/EX2-051.png"
+    ]
+  },
+  "EX2-052": {
+    "json": "EX2/EX2-052.json",
+    "arts": [
+      "EX2/EX2-052.png"
+    ]
+  },
+  "EX2-053": {
+    "json": "EX2/EX2-053.json",
+    "arts": [
+      "EX2/EX2-053.png"
+    ]
+  },
+  "EX2-054": {
+    "json": "EX2/EX2-054.json",
+    "arts": [
+      "EX2/EX2-054.png"
+    ]
+  },
+  "EX2-055": {
+    "json": "EX2/EX2-055.json",
+    "arts": [
+      "EX2/EX2-055.png"
+    ]
+  },
+  "EX2-073": {
+    "json": "EX2/EX2-073.json",
+    "arts": [
+      "EX2/EX2-073.png"
+    ]
+  },
+  "EX2-074": {
+    "json": "EX2/EX2-074.json",
+    "arts": [
+      "EX2/EX2-074.png"
+    ]
+  },
+  "EX2-056": {
+    "json": "EX2/EX2-056.json",
+    "arts": [
+      "EX2/EX2-056.png"
+    ]
+  },
+  "EX2-057": {
+    "json": "EX2/EX2-057.json",
+    "arts": [
+      "EX2/EX2-057.png"
+    ]
+  },
+  "EX2-058": {
+    "json": "EX2/EX2-058.json",
+    "arts": [
+      "EX2/EX2-058.png"
+    ]
+  },
+  "EX2-059": {
+    "json": "EX2/EX2-059.json",
+    "arts": [
+      "EX2/EX2-059.png"
+    ]
+  },
+  "EX2-060": {
+    "json": "EX2/EX2-060.json",
+    "arts": [
+      "EX2/EX2-060.png"
+    ]
+  },
+  "EX2-061": {
+    "json": "EX2/EX2-061.json",
+    "arts": [
+      "EX2/EX2-061.png"
+    ]
+  },
+  "EX2-062": {
+    "json": "EX2/EX2-062.json",
+    "arts": [
+      "EX2/EX2-062.png"
+    ]
+  },
+  "EX2-063": {
+    "json": "EX2/EX2-063.json",
+    "arts": [
+      "EX2/EX2-063.png"
+    ]
+  },
+  "EX2-064": {
+    "json": "EX2/EX2-064.json",
+    "arts": [
+      "EX2/EX2-064.png"
+    ]
+  },
+  "EX2-065": {
+    "json": "EX2/EX2-065.json",
+    "arts": [
+      "EX2/EX2-065.png"
+    ]
+  },
+  "EX2-066": {
+    "json": "EX2/EX2-066.json",
+    "arts": [
+      "EX2/EX2-066.png"
+    ]
+  },
+  "EX2-067": {
+    "json": "EX2/EX2-067.json",
+    "arts": [
+      "EX2/EX2-067.png"
+    ]
+  },
+  "EX2-068": {
+    "json": "EX2/EX2-068.json",
+    "arts": [
+      "EX2/EX2-068.png"
+    ]
+  },
+  "EX2-069": {
+    "json": "EX2/EX2-069.json",
+    "arts": [
+      "EX2/EX2-069.png"
+    ]
+  },
+  "EX2-070": {
+    "json": "EX2/EX2-070.json",
+    "arts": [
+      "EX2/EX2-070.png"
+    ]
+  },
+  "EX2-071": {
+    "json": "EX2/EX2-071.json",
+    "arts": [
+      "EX2/EX2-071.png"
+    ]
+  },
+  "EX2-072": {
+    "json": "EX2/EX2-072.json",
+    "arts": [
+      "EX2/EX2-072.png"
+    ]
+  },
   "BT8-001": {
     "json": "BT8/BT8-001.json",
     "arts": [
@@ -974,7 +1418,9 @@
   "BT7-045": {
     "json": "BT7/BT7-045.json",
     "arts": [
-      "BT7/BT7-045.png"
+      "BT7/BT7-045.png",
+      "BT7/BT7-045_P1.png",
+      "BT7/BT7-045_P2.png"
     ]
   },
   "BT7-046": {
@@ -1122,7 +1568,9 @@
   "BT7-069": {
     "json": "BT7/BT7-069.json",
     "arts": [
-      "BT7/BT7-069.png"
+      "BT7/BT7-069.png",
+      "BT7/BT7-069_P1.png",
+      "BT7/BT7-069_P2.png"
     ]
   },
   "BT7-070": {
@@ -1189,7 +1637,9 @@
   "BT7-080": {
     "json": "BT7/BT7-080.json",
     "arts": [
-      "BT7/BT7-080.png"
+      "BT7/BT7-080.png",
+      "BT7/BT7-080_P1.png",
+      "BT7/BT7-080_P2.png"
     ]
   },
   "BT7-081": {
@@ -1774,7 +2224,9 @@
   "EX1-050": {
     "json": "EX1/EX1-050.json",
     "arts": [
-      "EX1/EX1-050.png"
+      "EX1/EX1-050.png",
+      "EX1/EX1-050_P1.png",
+      "EX1/EX1-050_P2.png"
     ]
   },
   "EX1-051": {
@@ -2138,7 +2590,9 @@
   "BT6-034": {
     "json": "BT6/BT6-034.json",
     "arts": [
-      "BT6/BT6-034.png"
+      "BT6/BT6-034.png",
+      "BT6/BT6-034_P1.png",
+      "BT6/BT6-034_P2.png"
     ]
   },
   "BT6-035": {
@@ -6323,7 +6777,8 @@
   "ST10-06": {
     "json": "ST10/ST10-06.json",
     "arts": [
-      "ST10/ST10-06.png"
+      "ST10/ST10-06.png",
+      "ST10/ST10-06_P1.png"
     ]
   },
   "ST10-07": {
@@ -6413,7 +6868,8 @@
   "ST9-06": {
     "json": "ST9/ST9-06.json",
     "arts": [
-      "ST9/ST9-06.png"
+      "ST9/ST9-06.png",
+      "ST9/ST9-06_P1.png"
     ]
   },
   "ST9-07": {
@@ -6507,7 +6963,9 @@
     "json": "ST8/ST8-06.json",
     "arts": [
       "ST8/ST8-06.png",
-      "ST8/ST8-06_P1.png"
+      "ST8/ST8-06_P1.png",
+      "ST8/ST8-06_P2.png",
+      "ST8/ST8-06_P3.png"
     ]
   },
   "ST8-07": {
@@ -6571,7 +7029,9 @@
     "json": "ST7/ST7-03.json",
     "arts": [
       "ST7/ST7-03.png",
-      "ST7/ST7-03_P1.png"
+      "ST7/ST7-03_P1.png",
+      "ST7/ST7-03_P2.png",
+      "ST7/ST7-03_P3.png"
     ]
   },
   "ST7-04": {

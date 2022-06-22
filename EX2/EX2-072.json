@@ -1,0 +1,12 @@
+{
+  "number": "EX2-072",
+  "colors": [
+    "White"
+  ],
+  "rarity": "R",
+  "card_type": "Option",
+  "name": "Blue Card",
+  "play_cost": "3",
+  "effect": "While you have a Tamer in play, you may use this card without meeting its color requirements.[Main] Reveal the top 5 cards of your deck. You may digivolve 1 of your Digimon into 1 non-white Digimon card among them without paying its memory cost. If you don't, add 1 Digimon card among them to your hand. Place the remaining cards at the bottom of your deck in any order.",
+  "security_effect": "[Security] You may play 1 Tamer card from your hand without paying its memory cost."
+}

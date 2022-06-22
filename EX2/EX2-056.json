@@ -1,0 +1,12 @@
+{
+  "number": "EX2-056",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "R",
+  "card_type": "Tamer",
+  "name": "Takato Matsuki",
+  "play_cost": "3",
+  "effect": "[Your Turn] When an opponent's Digimon is deleted, you may suspend this Tamer to gain 1 memory.[Your Turn] When one of your Digimon would digivolve into a Digimon with [Gallantmon] or [Growlmon] in its name, that Digimon gains \"[When Digivolving] ＜Blitz＞ (This Digimon can attack when your opponent has 1 or more memory.)\" for the turn.",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

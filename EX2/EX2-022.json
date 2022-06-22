@@ -1,0 +1,23 @@
+{
+  "number": "EX2-022",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "5",
+  "name": "Antylamon",
+  "form": "Ultimate",
+  "attribute": "Data",
+  "type": "Holy Beast/Deva",
+  "dp": "7000",
+  "play_cost": "7",
+  "digivolves": [
+    {
+      "level": "4",
+      "cost": "3",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "If you have [Shu-Chong Wong] in play, your [Lopmon] can digivolve into this card in your hand for a digivolution cost of 3, ignoring its digivolution requirements.[When Attacking][Once Per Turn] You may trash the top card of your security stack to unsuspend this Digimon."
+}

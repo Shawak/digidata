@@ -1,0 +1,12 @@
+{
+  "number": "EX2-068",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "High-Speed Plug-In D",
+  "play_cost": "2",
+  "effect": "While you have a Tamer in play, you may use this card without meeting its color requirements.[Main] For the turn, 1 of your Digimon gains ＜Jamming＞ (This Digimon can't be deleted in battles against Security Digimon) and can't be blocked by your opponent's Digimon.",
+  "security_effect": "[Security] ＜Draw 1＞. (Draw 1 card from your deck.) Then, add this card to your hand."
+}

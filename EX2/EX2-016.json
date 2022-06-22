@@ -1,0 +1,23 @@
+{
+  "number": "EX2-016",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Gorillamon",
+  "form": "Champion",
+  "attribute": "Data",
+  "type": "Beastkin",
+  "dp": "5000",
+  "play_cost": "6",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[On Play] You may play 1 level 3 Digimon card from 1 of your blue Digimon's digivolution cards without paying its memory cost."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "EX2-059",
+  "colors": [
+    "Yellow"
+  ],
+  "rarity": "U",
+  "card_type": "Tamer",
+  "name": "Shu-Chong Wong",
+  "play_cost": "3",
+  "effect": "[On Play] You may play 1 [Lopmon] from your hand without paying its memory cost.[Start of Your Turn] If you have 3 or fewer security cards, ＜Draw 1＞. (Draw 1 card from your deck.)",
+  "security_effect": "[Security] Play this card without paying its memory cost."
+}

@@ -1,0 +1,29 @@
+{
+  "number": "EX2-018",
+  "colors": [
+    "Blue",
+    "Yellow"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "MarineAngemon",
+  "form": "Mega",
+  "attribute": "Vaccine",
+  "type": "Fairy",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Blue"
+    },
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Yellow"
+    }
+  ],
+  "effect": "[On Play] For each of your opponent's Digimon with no digivolution cards, ＜Recovery +1 (Deck)＞. (Place the top card of your deck on top of your security stack.) This effect can't increase the number of cards in your security stack to 6 or more."
+}

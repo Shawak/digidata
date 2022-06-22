@@ -1,0 +1,23 @@
+{
+  "number": "EX2-037",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "U",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "Reapermon",
+  "form": "Mega",
+  "attribute": "Virus",
+  "type": "Cyborg",
+  "dp": "11000",
+  "play_cost": "12",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "4",
+      "color": "Black"
+    }
+  ],
+  "effect": "＜Reboot＞ (Unsuspend this Digimon during your opponent's unsuspend phase.)[Opponent's Turn][Once Per Turn] When an opponent's Digimon becomes unsuspended, ＜De-Digivolve 1＞ that Digimon. (Trash 1 card from the top of your opponent's Digimon. If it has no digivolution cards, or becomes a level 3 Digimon, you can't trash any more cards.)"
+}

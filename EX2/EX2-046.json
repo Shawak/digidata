@@ -1,0 +1,16 @@
+{
+  "number": "EX2-046",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-02 Searcher",
+  "form": "D-Reaper",
+  "type": "Intel Acquisition Agent",
+  "dp": "1000",
+  "play_cost": "3",
+  "effect": "You can include up to 50 copies of cards with this card's card number in your deck.When you would play this card from your hand, reduce its play cost by 2 if you don't have another [ADR-02 Searcher] in play.[Your Turn] This Digimon can't attack players.[On Play]＜Draw 1＞ (Draw 1 card from your deck.)",
+  "digivolve_effect": "[Your Turn] All of your Digimon with [D-Reaper] in their traits get +1000 DP."
+}

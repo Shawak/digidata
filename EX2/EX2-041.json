@@ -1,0 +1,23 @@
+{
+  "number": "EX2-041",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "Dobermon",
+  "form": "Champion",
+  "attribute": "Vaccine",
+  "type": "Dark Animal",
+  "dp": "4000",
+  "play_cost": "5",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Purple"
+    }
+  ],
+  "effect": "When you would play this card from your hand, reduce its play cost by 2 if you have [Alice McCoy] in play.[On Deletion] Trash the top 3 cards of your deck. Then, return 1 purple Digimon card or 1 purple Tamer card from your trash to your hand."
+}

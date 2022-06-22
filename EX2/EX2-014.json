@@ -1,0 +1,23 @@
+{
+  "number": "EX2-014",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "4",
+  "name": "IceDevimon",
+  "form": "Champion",
+  "attribute": "Virus",
+  "type": "Fallen Angel",
+  "dp": "4000",
+  "play_cost": "4",
+  "digivolves": [
+    {
+      "level": "3",
+      "cost": "2",
+      "color": "Blue"
+    }
+  ],
+  "effect": "[When Attacking] Return 1 of your opponent's level 4 or lower Digimon with no digivolution cards to its owner's hand."
+}

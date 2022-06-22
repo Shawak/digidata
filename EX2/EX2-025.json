@@ -1,0 +1,24 @@
+{
+  "number": "EX2-025",
+  "colors": [
+    "Green"
+  ],
+  "rarity": "R",
+  "card_type": "Digimon",
+  "level": "3",
+  "name": "Terriermon",
+  "form": "Rookie",
+  "attribute": "Vaccine",
+  "type": "Beast",
+  "dp": "1000",
+  "play_cost": "3",
+  "digivolves": [
+    {
+      "level": "2",
+      "cost": "0",
+      "color": "Green"
+    }
+  ],
+  "effect": "[Your Turn][Once Per Turn] When you play a green Tamer, gain 1 memory.",
+  "digivolve_effect": "[Your Turn][Once Per Turn] When an opponent's Digimon becomes suspended, this Digimon gets +2000 DP for the turn."
+}

@@ -1,0 +1,12 @@
+{
+  "number": "EX2-071",
+  "colors": [
+    "Purple"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Death Slinger",
+  "play_cost": "4",
+  "effect": "When this card is trashed from your deck, gain 1 memory.[Main] Delete 1 of your opponent's level 4 or lower Digimon. For every 10 cards in your trash, add 1 to the maximum level of the Digimon you can choose with this effect.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

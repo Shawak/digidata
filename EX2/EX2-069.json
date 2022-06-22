@@ -1,0 +1,12 @@
+{
+  "number": "EX2-069",
+  "colors": [
+    "Blue"
+  ],
+  "rarity": "C",
+  "card_type": "Option",
+  "name": "Fist of the Beast King",
+  "play_cost": "2",
+  "effect": "While you have a Digimon with [Beelzemon] in its name in play, you may use this card without meeting its color requirements.[Main] Unsuspend 1 of your Digimon with [Leomon] or [Beelzemon] in its name.",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

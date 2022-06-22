@@ -1,0 +1,12 @@
+{
+  "number": "EX2-067",
+  "colors": [
+    "Red"
+  ],
+  "rarity": "U",
+  "card_type": "Option",
+  "name": "Fire Ball",
+  "play_cost": "2",
+  "effect": "[Main] Delete 1 of your opponent's Digimon with 3000 DP or less. If an opponent's Digimon wasn't deleted by this effect, ＜Draw 2＞. (Draw 2 cards from your deck.)",
+  "security_effect": "[Security] Activate this card's [Main] effect."
+}

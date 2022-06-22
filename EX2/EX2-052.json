@@ -1,0 +1,15 @@
+{
+  "number": "EX2-052",
+  "colors": [
+    "White"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "-",
+  "name": "ADR-06 Horn Striker",
+  "form": "D-Reaper",
+  "type": "Commander Agent",
+  "dp": "7000",
+  "play_cost": "7",
+  "effect": "[Your Turn] While you have a [Mother D-Reaper] in play, this Digimon gains ＜Rush＞. (This Digimon can attack the turn it comes into play.)"
+}

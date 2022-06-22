@@ -1,0 +1,23 @@
+{
+  "number": "EX2-036",
+  "colors": [
+    "Black"
+  ],
+  "rarity": "C",
+  "card_type": "Digimon",
+  "level": "6",
+  "name": "GroundLocomon",
+  "form": "Mega",
+  "attribute": "Data",
+  "type": "Machine",
+  "dp": "11000",
+  "play_cost": "11",
+  "digivolves": [
+    {
+      "level": "5",
+      "cost": "3",
+      "color": "Black"
+    }
+  ],
+  "effect": "[Your Turn] This Digimon can't attack your opponent's Digimon.[All Turns] For each card in your trash with [Cyborg] or [Machine] in its traits, this Digimon gets +1000 DP."
+}
